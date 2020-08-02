@@ -1,0 +1,16 @@
+{
+  "name": "trabalho-pratico-m2",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "yarn tsc --watch ",
+    "nodemon": "nodemon dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.27",
+    "nodemon": "^2.0.4",
+    "typescript": "^3.9.7"
+  }
+}
