@@ -1,1 +1,4267 @@
-[{"uf":"MG","cidade":"Abadia dos Dourados","id":"1565"},{"uf":"MG","cidade":"Abaeté","id":"1566"},{"uf":"MG","cidade":"Abre Campo","id":"1567"},{"uf":"MG","cidade":"Acaiaca","id":"1568"},{"uf":"MG","cidade":"Açucena","id":"1569"},{"uf":"MG","cidade":"Água Boa","id":"1570"},{"uf":"MG","cidade":"Água Comprida","id":"1571"},{"uf":"MG","cidade":"Aguanil","id":"1572"},{"uf":"MG","cidade":"Águas Formosas","id":"1573"},{"uf":"MG","cidade":"Águas Vermelhas","id":"1574"},{"uf":"MG","cidade":"Aimorés","id":"1575"},{"uf":"MG","cidade":"Aiuruoca","id":"1576"},{"uf":"MG","cidade":"Alagoa","id":"1577"},{"uf":"MG","cidade":"Albertina","id":"1578"},{"uf":"MG","cidade":"Além Paraíba","id":"1579"},{"uf":"MG","cidade":"Alfenas","id":"1580"},{"uf":"MG","cidade":"Alfredo Vasconcelos","id":"1581"},{"uf":"MG","cidade":"Almenara","id":"1582"},{"uf":"MG","cidade":"Alpercata","id":"1583"},{"uf":"MG","cidade":"Alpinópolis","id":"1584"},{"uf":"MG","cidade":"Alterosa","id":"1585"},{"uf":"MG","cidade":"Alto Caparaó","id":"1586"},{"uf":"MG","cidade":"Alto Jequitibá","id":"1587"},{"uf":"MG","cidade":"Alto Rio Doce","id":"1588"},{"uf":"MG","cidade":"Alvarenga","id":"1589"},{"uf":"MG","cidade":"Alvinópolis","id":"1590"},{"uf":"MG","cidade":"Alvorada de Minas","id":"1591"},{"uf":"MG","cidade":"Amparo do Serra","id":"1592"},{"uf":"MG","cidade":"Andradas","id":"1593"},{"uf":"MG","cidade":"Andrelândia","id":"1594"},{"uf":"MG","cidade":"Angelândia","id":"1595"},{"uf":"MG","cidade":"Antônio Carlos","id":"1596"},{"uf":"MG","cidade":"Antônio Dias","id":"1597"},{"uf":"MG","cidade":"Antônio Prado de Minas","id":"1598"},{"uf":"MG","cidade":"Araçaí","id":"1599"},{"uf":"MG","cidade":"Aracitaba","id":"1600"},{"uf":"MG","cidade":"Araçuaí","id":"1601"},{"uf":"MG","cidade":"Araguari","id":"1602"},{"uf":"MG","cidade":"Arantina","id":"1603"},{"uf":"MG","cidade":"Araponga","id":"1604"},{"uf":"MG","cidade":"Araporã","id":"1605"},{"uf":"MG","cidade":"Arapuá","id":"1606"},{"uf":"MG","cidade":"Araújos","id":"1607"},{"uf":"MG","cidade":"Araxá","id":"1608"},{"uf":"MG","cidade":"Arceburgo","id":"1609"},{"uf":"MG","cidade":"Arcos","id":"1610"},{"uf":"MG","cidade":"Areado","id":"1611"},{"uf":"MG","cidade":"Argirita","id":"1612"},{"uf":"MG","cidade":"Aricanduva","id":"1613"},{"uf":"MG","cidade":"Arinos","id":"1614"},{"uf":"MG","cidade":"Astolfo Dutra","id":"1615"},{"uf":"MG","cidade":"Ataléia","id":"1616"},{"uf":"MG","cidade":"Augusto de Lima","id":"1617"},{"uf":"MG","cidade":"Baependi","id":"1618"},{"uf":"MG","cidade":"Baldim","id":"1619"},{"uf":"MG","cidade":"Bambuí","id":"1620"},{"uf":"MG","cidade":"Bandeira","id":"1621"},{"uf":"MG","cidade":"Bandeira do Sul","id":"1622"},{"uf":"MG","cidade":"Barão de Cocais","id":"1623"},{"uf":"MG","cidade":"Barão de Monte Alto","id":"1624"},{"uf":"MG","cidade":"Barbacena","id":"1625"},{"uf":"MG","cidade":"Barra Longa","id":"1626"},{"uf":"MG","cidade":"Barroso","id":"1627"},{"uf":"MG","cidade":"Bela Vista de Minas","id":"1628"},{"uf":"MG","cidade":"Belmiro Braga","id":"1629"},{"uf":"MG","cidade":"Belo Horizonte","id":"1630"},{"uf":"MG","cidade":"Belo Oriente","id":"1631"},{"uf":"MG","cidade":"Belo Vale","id":"1632"},{"uf":"MG","cidade":"Berilo","id":"1633"},{"uf":"MG","cidade":"Berizal","id":"1634"},{"uf":"MG","cidade":"Bertópolis","id":"1635"},{"uf":"MG","cidade":"Betim","id":"1636"},{"uf":"MG","cidade":"Bias Fortes","id":"1637"},{"uf":"MG","cidade":"Bicas","id":"1638"},{"uf":"MG","cidade":"Biquinhas","id":"1639"},{"uf":"MG","cidade":"Boa Esperança","id":"1640"},{"uf":"MG","cidade":"Bocaina de Minas","id":"1641"},{"uf":"MG","cidade":"Bocaiúva","id":"1642"},{"uf":"MG","cidade":"Bom Despacho","id":"1643"},{"uf":"MG","cidade":"Bom Jardim de Minas","id":"1644"},{"uf":"MG","cidade":"Bom Jesus da Penha","id":"1645"},{"uf":"MG","cidade":"Bom Jesus do Amparo","id":"1646"},{"uf":"MG","cidade":"Bom Jesus do Galho","id":"1647"},{"uf":"MG","cidade":"Bom Repouso","id":"1648"},{"uf":"MG","cidade":"Bom Sucesso","id":"1649"},{"uf":"MG","cidade":"Bonfim","id":"1650"},{"uf":"MG","cidade":"Bonfinópolis de Minas","id":"1651"},{"uf":"MG","cidade":"Bonito de Minas","id":"1652"},{"uf":"MG","cidade":"Borda da Mata","id":"1653"},{"uf":"MG","cidade":"Botelhos","id":"1654"},{"uf":"MG","cidade":"Botumirim","id":"1655"},{"uf":"MG","cidade":"Brás Pires","id":"1656"},{"uf":"MG","cidade":"Brasilândia de Minas","id":"1657"},{"uf":"MG","cidade":"Brasília de Minas","id":"1658"},{"uf":"MG","cidade":"Brasópolis","id":"1659"},{"uf":"MG","cidade":"Braúnas","id":"1660"},{"uf":"MG","cidade":"Brumadinho","id":"1661"},{"uf":"MG","cidade":"Bueno Brandão","id":"1662"},{"uf":"MG","cidade":"Buenópolis","id":"1663"},{"uf":"MG","cidade":"Bugre","id":"1664"},{"uf":"MG","cidade":"Buritis","id":"1665"},{"uf":"MG","cidade":"Buritizeiro","id":"1666"},{"uf":"MG","cidade":"Cabeceira Grande","id":"1667"},{"uf":"MG","cidade":"Cabo Verde","id":"1668"},{"uf":"MG","cidade":"Cachoeira da Prata","id":"1669"},{"uf":"MG","cidade":"Cachoeira de Minas","id":"1670"},{"uf":"MG","cidade":"Cachoeira de Pajeú","id":"1671"},{"uf":"MG","cidade":"Cachoeira Dourada","id":"1672"},{"uf":"MG","cidade":"Caetanópolis","id":"1673"},{"uf":"MG","cidade":"Caeté","id":"1674"},{"uf":"MG","cidade":"Caiana","id":"1675"},{"uf":"MG","cidade":"Cajuri","id":"1676"},{"uf":"MG","cidade":"Caldas","id":"1677"},{"uf":"MG","cidade":"Camacho","id":"1678"},{"uf":"MG","cidade":"Camanducaia","id":"1679"},{"uf":"MG","cidade":"Cambuí","id":"1680"},{"uf":"MG","cidade":"Cambuquira","id":"1681"},{"uf":"MG","cidade":"Campanário","id":"1682"},{"uf":"MG","cidade":"Campanha","id":"1683"},{"uf":"MG","cidade":"Campestre","id":"1684"},{"uf":"MG","cidade":"Campina Verde","id":"1685"},{"uf":"MG","cidade":"Campo Azul","id":"1686"},{"uf":"MG","cidade":"Campo Belo","id":"1687"},{"uf":"MG","cidade":"Campo do Meio","id":"1688"},{"uf":"MG","cidade":"Campo Florido","id":"1689"},{"uf":"MG","cidade":"Campos Altos","id":"1690"},{"uf":"MG","cidade":"Campos Gerais","id":"1691"},{"uf":"MG","cidade":"Cana Verde","id":"1692"},{"uf":"MG","cidade":"Canaã","id":"1693"},{"uf":"MG","cidade":"Canápolis","id":"1694"},{"uf":"MG","cidade":"Candeias","id":"1695"},{"uf":"MG","cidade":"Cantagalo","id":"1696"},{"uf":"MG","cidade":"Caparaó","id":"1697"},{"uf":"MG","cidade":"Capela Nova","id":"1698"},{"uf":"MG","cidade":"Capelinha","id":"1699"},{"uf":"MG","cidade":"Capetinga","id":"1700"},{"uf":"MG","cidade":"Capim Branco","id":"1701"},{"uf":"MG","cidade":"Capinópolis","id":"1702"},{"uf":"MG","cidade":"Capitão Andrade","id":"1703"},{"uf":"MG","cidade":"Capitão Enéas","id":"1704"},{"uf":"MG","cidade":"Capitólio","id":"1705"},{"uf":"MG","cidade":"Caputira","id":"1706"},{"uf":"MG","cidade":"Caraí","id":"1707"},{"uf":"MG","cidade":"Caranaíba","id":"1708"},{"uf":"MG","cidade":"Carandaí","id":"1709"},{"uf":"MG","cidade":"Carangola","id":"1710"},{"uf":"MG","cidade":"Caratinga","id":"1711"},{"uf":"MG","cidade":"Carbonita","id":"1712"},{"uf":"MG","cidade":"Careaçu","id":"1713"},{"uf":"MG","cidade":"Carlos Chagas","id":"1714"},{"uf":"MG","cidade":"Carmésia","id":"1715"},{"uf":"MG","cidade":"Carmo da Cachoeira","id":"1716"},{"uf":"MG","cidade":"Carmo da Mata","id":"1717"},{"uf":"MG","cidade":"Carmo de Minas","id":"1718"},{"uf":"MG","cidade":"Carmo do Cajuru","id":"1719"},{"uf":"MG","cidade":"Carmo do Paranaíba","id":"1720"},{"uf":"MG","cidade":"Carmo do Rio Claro","id":"1721"},{"uf":"MG","cidade":"Carmópolis de Minas","id":"1722"},{"uf":"MG","cidade":"Carneirinho","id":"1723"},{"uf":"MG","cidade":"Carrancas","id":"1724"},{"uf":"MG","cidade":"Carvalhópolis","id":"1725"},{"uf":"MG","cidade":"Carvalhos","id":"1726"},{"uf":"MG","cidade":"Casa Grande","id":"1727"},{"uf":"MG","cidade":"Cascalho Rico","id":"1728"},{"uf":"MG","cidade":"Cássia","id":"1729"},{"uf":"MG","cidade":"Cataguases","id":"1730"},{"uf":"MG","cidade":"Catas Altas","id":"1731"},{"uf":"MG","cidade":"Catas Altas da Noruega","id":"1732"},{"uf":"MG","cidade":"Catuji","id":"1733"},{"uf":"MG","cidade":"Catuti","id":"1734"},{"uf":"MG","cidade":"Caxambu","id":"1735"},{"uf":"MG","cidade":"Cedro do Abaeté","id":"1736"},{"uf":"MG","cidade":"Central de Minas","id":"1737"},{"uf":"MG","cidade":"Centralina","id":"1738"},{"uf":"MG","cidade":"Chácara","id":"1739"},{"uf":"MG","cidade":"Chalé","id":"1740"},{"uf":"MG","cidade":"Chapada do Norte","id":"1741"},{"uf":"MG","cidade":"Chapada Gaúcha","id":"1742"},{"uf":"MG","cidade":"Chiador","id":"1743"},{"uf":"MG","cidade":"Cipotânea","id":"1744"},{"uf":"MG","cidade":"Claraval","id":"1745"},{"uf":"MG","cidade":"Claro dos Poções","id":"1746"},{"uf":"MG","cidade":"Cláudio","id":"1747"},{"uf":"MG","cidade":"Coimbra","id":"1748"},{"uf":"MG","cidade":"Coluna","id":"1749"},{"uf":"MG","cidade":"Comendador Gomes","id":"1750"},{"uf":"MG","cidade":"Comercinho","id":"1751"},{"uf":"MG","cidade":"Conceição da Aparecida","id":"1752"},{"uf":"MG","cidade":"Conceição da Barra de Minas","id":"1753"},{"uf":"MG","cidade":"Conceição das Alagoas","id":"1754"},{"uf":"MG","cidade":"Conceição das Pedras","id":"1755"},{"uf":"MG","cidade":"Conceição de Ipanema","id":"1756"},{"uf":"MG","cidade":"Conceição do Mato Dentro","id":"1757"},{"uf":"MG","cidade":"Conceição do Pará","id":"1758"},{"uf":"MG","cidade":"Conceição do Rio Verde","id":"1759"},{"uf":"MG","cidade":"Conceição dos Ouros","id":"1760"},{"uf":"MG","cidade":"Cônego Marinho","id":"1761"},{"uf":"MG","cidade":"Confins","id":"1762"},{"uf":"MG","cidade":"Congonhal","id":"1763"},{"uf":"MG","cidade":"Congonhas","id":"1764"},{"uf":"MG","cidade":"Congonhas do Norte","id":"1765"},{"uf":"MG","cidade":"Conquista","id":"1766"},{"uf":"MG","cidade":"Conselheiro Lafaiete","id":"1767"},{"uf":"MG","cidade":"Conselheiro Pena","id":"1768"},{"uf":"MG","cidade":"Consolação","id":"1769"},{"uf":"MG","cidade":"Contagem","id":"1770"},{"uf":"MG","cidade":"Coqueiral","id":"1771"},{"uf":"MG","cidade":"Coração de Jesus","id":"1772"},{"uf":"MG","cidade":"Cordisburgo","id":"1773"},{"uf":"MG","cidade":"Cordislândia","id":"1774"},{"uf":"MG","cidade":"Corinto","id":"1775"},{"uf":"MG","cidade":"Coroaci","id":"1776"},{"uf":"MG","cidade":"Coromandel","id":"1777"},{"uf":"MG","cidade":"Coronel Fabriciano","id":"1778"},{"uf":"MG","cidade":"Coronel Murta","id":"1779"},{"uf":"MG","cidade":"Coronel Pacheco","id":"1780"},{"uf":"MG","cidade":"Coronel Xavier Chaves","id":"1781"},{"uf":"MG","cidade":"Córrego Danta","id":"1782"},{"uf":"MG","cidade":"Córrego do Bom Jesus","id":"1783"},{"uf":"MG","cidade":"Córrego Fundo","id":"1784"},{"uf":"MG","cidade":"Córrego Novo","id":"1785"},{"uf":"MG","cidade":"Couto de Magalhães de Minas","id":"1786"},{"uf":"MG","cidade":"Crisólita","id":"1787"},{"uf":"MG","cidade":"Cristais","id":"1788"},{"uf":"MG","cidade":"Cristália","id":"1789"},{"uf":"MG","cidade":"Cristiano Otoni","id":"1790"},{"uf":"MG","cidade":"Cristina","id":"1791"},{"uf":"MG","cidade":"Crucilândia","id":"1792"},{"uf":"MG","cidade":"Cruzeiro da Fortaleza","id":"1793"},{"uf":"MG","cidade":"Cruzília","id":"1794"},{"uf":"MG","cidade":"Cuparaque","id":"1795"},{"uf":"MG","cidade":"Curral de Dentro","id":"1796"},{"uf":"MG","cidade":"Curvelo","id":"1797"},{"uf":"MG","cidade":"Datas","id":"1798"},{"uf":"MG","cidade":"Delfim Moreira","id":"1799"},{"uf":"MG","cidade":"Delfinópolis","id":"1800"},{"uf":"MG","cidade":"Delta","id":"1801"},{"uf":"MG","cidade":"Descoberto","id":"1802"},{"uf":"MG","cidade":"Desterro de Entre Rios","id":"1803"},{"uf":"MG","cidade":"Desterro do Melo","id":"1804"},{"uf":"MG","cidade":"Diamantina","id":"1805"},{"uf":"MG","cidade":"Diogo de Vasconcelos","id":"1806"},{"uf":"MG","cidade":"Dionísio","id":"1807"},{"uf":"MG","cidade":"Divinésia","id":"1808"},{"uf":"MG","cidade":"Divino","id":"1809"},{"uf":"MG","cidade":"Divino das Laranjeiras","id":"1810"},{"uf":"MG","cidade":"Divinolândia de Minas","id":"1811"},{"uf":"MG","cidade":"Divinópolis","id":"1812"},{"uf":"MG","cidade":"Divisa Alegre","id":"1813"},{"uf":"MG","cidade":"Divisa Nova","id":"1814"},{"uf":"MG","cidade":"Divisópolis","id":"1815"},{"uf":"MG","cidade":"Dom Bosco","id":"1816"},{"uf":"MG","cidade":"Dom Cavati","id":"1817"},{"uf":"MG","cidade":"Dom Joaquim","id":"1818"},{"uf":"MG","cidade":"Dom Silvério","id":"1819"},{"uf":"MG","cidade":"Dom Viçoso","id":"1820"},{"uf":"MG","cidade":"Dona Eusébia","id":"1821"},{"uf":"MG","cidade":"Dores de Campos","id":"1822"},{"uf":"MG","cidade":"Dores de Guanhães","id":"1823"},{"uf":"MG","cidade":"Dores do Indaiá","id":"1824"},{"uf":"MG","cidade":"Dores do Turvo","id":"1825"},{"uf":"MG","cidade":"Doresópolis","id":"1826"},{"uf":"MG","cidade":"Douradoquara","id":"1827"},{"uf":"MG","cidade":"Durandé","id":"1828"},{"uf":"MG","cidade":"Elói Mendes","id":"1829"},{"uf":"MG","cidade":"Engenheiro Caldas","id":"1830"},{"uf":"MG","cidade":"Engenheiro Navarro","id":"1831"},{"uf":"MG","cidade":"Entre Folhas","id":"1832"},{"uf":"MG","cidade":"Entre Rios de Minas","id":"1833"},{"uf":"MG","cidade":"Ervália","id":"1834"},{"uf":"MG","cidade":"Esmeraldas","id":"1835"},{"uf":"MG","cidade":"Espera Feliz","id":"1836"},{"uf":"MG","cidade":"Espinosa","id":"1837"},{"uf":"MG","cidade":"Espírito Santo do Dourado","id":"1838"},{"uf":"MG","cidade":"Estiva","id":"1839"},{"uf":"MG","cidade":"Estrela Dalva","id":"1840"},{"uf":"MG","cidade":"Estrela do Indaiá","id":"1841"},{"uf":"MG","cidade":"Estrela do Sul","id":"1842"},{"uf":"MG","cidade":"Eugenópolis","id":"1843"},{"uf":"MG","cidade":"Ewbank da Câmara","id":"1844"},{"uf":"MG","cidade":"Extrema","id":"1845"},{"uf":"MG","cidade":"Fama","id":"1846"},{"uf":"MG","cidade":"Faria Lemos","id":"1847"},{"uf":"MG","cidade":"Felício dos Santos","id":"1848"},{"uf":"MG","cidade":"Felisburgo","id":"1849"},{"uf":"MG","cidade":"Felixlândia","id":"1850"},{"uf":"MG","cidade":"Fernandes Tourinho","id":"1851"},{"uf":"MG","cidade":"Ferros","id":"1852"},{"uf":"MG","cidade":"Fervedouro","id":"1853"},{"uf":"MG","cidade":"Florestal","id":"1854"},{"uf":"MG","cidade":"Formiga","id":"1855"},{"uf":"MG","cidade":"Formoso","id":"1856"},{"uf":"MG","cidade":"Fortaleza de Minas","id":"1857"},{"uf":"MG","cidade":"Fortuna de Minas","id":"1858"},{"uf":"MG","cidade":"Francisco Badaró","id":"1859"},{"uf":"MG","cidade":"Francisco Dumont","id":"1860"},{"uf":"MG","cidade":"Francisco Sá","id":"1861"},{"uf":"MG","cidade":"Franciscópolis","id":"1862"},{"uf":"MG","cidade":"Frei Gaspar","id":"1863"},{"uf":"MG","cidade":"Frei Inocêncio","id":"1864"},{"uf":"MG","cidade":"Frei Lagonegro","id":"1865"},{"uf":"MG","cidade":"Fronteira","id":"1866"},{"uf":"MG","cidade":"Fronteira dos Vales","id":"1867"},{"uf":"MG","cidade":"Fruta de Leite","id":"1868"},{"uf":"MG","cidade":"Frutal","id":"1869"},{"uf":"MG","cidade":"Funilândia","id":"1870"},{"uf":"MG","cidade":"Galiléia","id":"1871"},{"uf":"MG","cidade":"Gameleiras","id":"1872"},{"uf":"MG","cidade":"Glaucilândia","id":"1873"},{"uf":"MG","cidade":"Goiabeira","id":"1874"},{"uf":"MG","cidade":"Goianá","id":"1875"},{"uf":"MG","cidade":"Gonçalves","id":"1876"},{"uf":"MG","cidade":"Gonzaga","id":"1877"},{"uf":"MG","cidade":"Gouveia","id":"1878"},{"uf":"MG","cidade":"Governador Valadares","id":"1879"},{"uf":"MG","cidade":"Grão Mogol","id":"1880"},{"uf":"MG","cidade":"Grupiara","id":"1881"},{"uf":"MG","cidade":"Guanhães","id":"1882"},{"uf":"MG","cidade":"Guapé","id":"1883"},{"uf":"MG","cidade":"Guaraciaba","id":"1884"},{"uf":"MG","cidade":"Guaraciama","id":"1885"},{"uf":"MG","cidade":"Guaranésia","id":"1886"},{"uf":"MG","cidade":"Guarani","id":"1887"},{"uf":"MG","cidade":"Guarará","id":"1888"},{"uf":"MG","cidade":"Guarda-Mor","id":"1889"},{"uf":"MG","cidade":"Guaxupé","id":"1890"},{"uf":"MG","cidade":"Guidoval","id":"1891"},{"uf":"MG","cidade":"Guimarânia","id":"1892"},{"uf":"MG","cidade":"Guiricema","id":"1893"},{"uf":"MG","cidade":"Gurinhatã","id":"1894"},{"uf":"MG","cidade":"Heliodora","id":"1895"},{"uf":"MG","cidade":"Iapu","id":"1896"},{"uf":"MG","cidade":"Ibertioga","id":"1897"},{"uf":"MG","cidade":"Ibiá","id":"1898"},{"uf":"MG","cidade":"Ibiaí","id":"1899"},{"uf":"MG","cidade":"Ibiracatu","id":"1900"},{"uf":"MG","cidade":"Ibiraci","id":"1901"},{"uf":"MG","cidade":"Ibirité","id":"1902"},{"uf":"MG","cidade":"Ibitiúra de Minas","id":"1903"},{"uf":"MG","cidade":"Ibituruna","id":"1904"},{"uf":"MG","cidade":"Icaraí de Minas","id":"1905"},{"uf":"MG","cidade":"Igarapé","id":"1906"},{"uf":"MG","cidade":"Igaratinga","id":"1907"},{"uf":"MG","cidade":"Iguatama","id":"1908"},{"uf":"MG","cidade":"Ijaci","id":"1909"},{"uf":"MG","cidade":"Ilicínea","id":"1910"},{"uf":"MG","cidade":"Imbé de Minas","id":"1911"},{"uf":"MG","cidade":"Inconfidentes","id":"1912"},{"uf":"MG","cidade":"Indaiabira","id":"1913"},{"uf":"MG","cidade":"Indianópolis","id":"1914"},{"uf":"MG","cidade":"Ingaí","id":"1915"},{"uf":"MG","cidade":"Inhapim","id":"1916"},{"uf":"MG","cidade":"Inhaúma","id":"1917"},{"uf":"MG","cidade":"Inimutaba","id":"1918"},{"uf":"MG","cidade":"Ipaba","id":"1919"},{"uf":"MG","cidade":"Ipanema","id":"1920"},{"uf":"MG","cidade":"Ipatinga","id":"1921"},{"uf":"MG","cidade":"Ipiaçu","id":"1922"},{"uf":"MG","cidade":"Ipuiúna","id":"1923"},{"uf":"MG","cidade":"Iraí de Minas","id":"1924"},{"uf":"MG","cidade":"Itabira","id":"1925"},{"uf":"MG","cidade":"Itabirinha de Mantena","id":"1926"},{"uf":"MG","cidade":"Itabirito","id":"1927"},{"uf":"MG","cidade":"Itacambira","id":"1928"},{"uf":"MG","cidade":"Itacarambi","id":"1929"},{"uf":"MG","cidade":"Itaguara","id":"1930"},{"uf":"MG","cidade":"Itaipé","id":"1931"},{"uf":"MG","cidade":"Itajubá","id":"1932"},{"uf":"MG","cidade":"Itamarandiba","id":"1933"},{"uf":"MG","cidade":"Itamarati de Minas","id":"1934"},{"uf":"MG","cidade":"Itambacuri","id":"1935"},{"uf":"MG","cidade":"Itambé do Mato Dentro","id":"1936"},{"uf":"MG","cidade":"Itamogi","id":"1937"},{"uf":"MG","cidade":"Itamonte","id":"1938"},{"uf":"MG","cidade":"Itanhandu","id":"1939"},{"uf":"MG","cidade":"Itanhomi","id":"1940"},{"uf":"MG","cidade":"Itaobim","id":"1941"},{"uf":"MG","cidade":"Itapagipe","id":"1942"},{"uf":"MG","cidade":"Itapecerica","id":"1943"},{"uf":"MG","cidade":"Itapeva","id":"1944"},{"uf":"MG","cidade":"Itatiaiuçu","id":"1945"},{"uf":"MG","cidade":"Itaú de Minas","id":"1946"},{"uf":"MG","cidade":"Itaúna","id":"1947"},{"uf":"MG","cidade":"Itaverava","id":"1948"},{"uf":"MG","cidade":"Itinga","id":"1949"},{"uf":"MG","cidade":"Itueta","id":"1950"},{"uf":"MG","cidade":"Ituiutaba","id":"1951"},{"uf":"MG","cidade":"Itumirim","id":"1952"},{"uf":"MG","cidade":"Iturama","id":"1953"},{"uf":"MG","cidade":"Itutinga","id":"1954"},{"uf":"MG","cidade":"Jaboticatubas","id":"1955"},{"uf":"MG","cidade":"Jacinto","id":"1956"},{"uf":"MG","cidade":"Jacuí","id":"1957"},{"uf":"MG","cidade":"Jacutinga","id":"1958"},{"uf":"MG","cidade":"Jaguaraçu","id":"1959"},{"uf":"MG","cidade":"Jaíba","id":"1960"},{"uf":"MG","cidade":"Jampruca","id":"1961"},{"uf":"MG","cidade":"Janaúba","id":"1962"},{"uf":"MG","cidade":"Januária","id":"1963"},{"uf":"MG","cidade":"Japaraíba","id":"1964"},{"uf":"MG","cidade":"Japonvar","id":"1965"},{"uf":"MG","cidade":"Jeceaba","id":"1966"},{"uf":"MG","cidade":"Jenipapo de Minas","id":"1967"},{"uf":"MG","cidade":"Jequeri","id":"1968"},{"uf":"MG","cidade":"Jequitaí","id":"1969"},{"uf":"MG","cidade":"Jequitibá","id":"1970"},{"uf":"MG","cidade":"Jequitinhonha","id":"1971"},{"uf":"MG","cidade":"Jesuânia","id":"1972"},{"uf":"MG","cidade":"Joaíma","id":"1973"},{"uf":"MG","cidade":"Joanésia","id":"1974"},{"uf":"MG","cidade":"João Monlevade","id":"1975"},{"uf":"MG","cidade":"João Pinheiro","id":"1976"},{"uf":"MG","cidade":"Joaquim Felício","id":"1977"},{"uf":"MG","cidade":"Jordânia","id":"1978"},{"uf":"MG","cidade":"José Gonçalves de Minas","id":"1979"},{"uf":"MG","cidade":"José Raydan","id":"1980"},{"uf":"MG","cidade":"Josenópolis","id":"1981"},{"uf":"MG","cidade":"Juatuba","id":"1982"},{"uf":"MG","cidade":"Juiz de Fora","id":"1983"},{"uf":"MG","cidade":"Juramento","id":"1984"},{"uf":"MG","cidade":"Juruaia","id":"1985"},{"uf":"MG","cidade":"Juvenília","id":"1986"},{"uf":"MG","cidade":"Ladainha","id":"1987"},{"uf":"MG","cidade":"Lagamar","id":"1988"},{"uf":"MG","cidade":"Lagoa da Prata","id":"1989"},{"uf":"MG","cidade":"Lagoa dos Patos","id":"1990"},{"uf":"MG","cidade":"Lagoa Dourada","id":"1991"},{"uf":"MG","cidade":"Lagoa Formosa","id":"1992"},{"uf":"MG","cidade":"Lagoa Grande","id":"1993"},{"uf":"MG","cidade":"Lagoa Santa","id":"1994"},{"uf":"MG","cidade":"Lajinha","id":"1995"},{"uf":"MG","cidade":"Lambari","id":"1996"},{"uf":"MG","cidade":"Lamim","id":"1997"},{"uf":"MG","cidade":"Laranjal","id":"1998"},{"uf":"MG","cidade":"Lassance","id":"1999"},{"uf":"MG","cidade":"Lavras","id":"2000"},{"uf":"MG","cidade":"Leandro Ferreira","id":"2001"},{"uf":"MG","cidade":"Leme do Prado","id":"2002"},{"uf":"MG","cidade":"Leopoldina","id":"2003"},{"uf":"MG","cidade":"Liberdade","id":"2004"},{"uf":"MG","cidade":"Lima Duarte","id":"2005"},{"uf":"MG","cidade":"Limeira do Oeste","id":"2006"},{"uf":"MG","cidade":"Lontra","id":"2007"},{"uf":"MG","cidade":"Luisburgo","id":"2008"},{"uf":"MG","cidade":"Luislândia","id":"2009"},{"uf":"MG","cidade":"Luminárias","id":"2010"},{"uf":"MG","cidade":"Luz","id":"2011"},{"uf":"MG","cidade":"Machacalis","id":"2012"},{"uf":"MG","cidade":"Machado","id":"2013"},{"uf":"MG","cidade":"Madre de Deus de Minas","id":"2014"},{"uf":"MG","cidade":"Malacacheta","id":"2015"},{"uf":"MG","cidade":"Mamonas","id":"2016"},{"uf":"MG","cidade":"Manga","id":"2017"},{"uf":"MG","cidade":"Manhuaçu","id":"2018"},{"uf":"MG","cidade":"Manhumirim","id":"2019"},{"uf":"MG","cidade":"Mantena","id":"2020"},{"uf":"MG","cidade":"Mar de Espanha","id":"2021"},{"uf":"MG","cidade":"Maravilhas","id":"2022"},{"uf":"MG","cidade":"Maria da Fé","id":"2023"},{"uf":"MG","cidade":"Mariana","id":"2024"},{"uf":"MG","cidade":"Marilac","id":"2025"},{"uf":"MG","cidade":"Mário Campos","id":"2026"},{"uf":"MG","cidade":"Maripá de Minas","id":"2027"},{"uf":"MG","cidade":"Marliéria","id":"2028"},{"uf":"MG","cidade":"Marmelópolis","id":"2029"},{"uf":"MG","cidade":"Martinho Campos","id":"2030"},{"uf":"MG","cidade":"Martins Soares","id":"2031"},{"uf":"MG","cidade":"Mata Verde","id":"2032"},{"uf":"MG","cidade":"Materlândia","id":"2033"},{"uf":"MG","cidade":"Mateus Leme","id":"2034"},{"uf":"MG","cidade":"Mathias Lobato","id":"2035"},{"uf":"MG","cidade":"Matias Barbosa","id":"2036"},{"uf":"MG","cidade":"Matias Cardoso","id":"2037"},{"uf":"MG","cidade":"Matipó","id":"2038"},{"uf":"MG","cidade":"Mato Verde","id":"2039"},{"uf":"MG","cidade":"Matozinhos","id":"2040"},{"uf":"MG","cidade":"Matutina","id":"2041"},{"uf":"MG","cidade":"Medeiros","id":"2042"},{"uf":"MG","cidade":"Medina","id":"2043"},{"uf":"MG","cidade":"Mendes Pimentel","id":"2044"},{"uf":"MG","cidade":"Mercês","id":"2045"},{"uf":"MG","cidade":"Mesquita","id":"2046"},{"uf":"MG","cidade":"Minas Novas","id":"2047"},{"uf":"MG","cidade":"Minduri","id":"2048"},{"uf":"MG","cidade":"Mirabela","id":"2049"},{"uf":"MG","cidade":"Miradouro","id":"2050"},{"uf":"MG","cidade":"Miraí","id":"2051"},{"uf":"MG","cidade":"Miravânia","id":"2052"},{"uf":"MG","cidade":"Moeda","id":"2053"},{"uf":"MG","cidade":"Moema","id":"2054"},{"uf":"MG","cidade":"Monjolos","id":"2055"},{"uf":"MG","cidade":"Monsenhor Paulo","id":"2056"},{"uf":"MG","cidade":"Montalvânia","id":"2057"},{"uf":"MG","cidade":"Monte Alegre de Minas","id":"2058"},{"uf":"MG","cidade":"Monte Azul","id":"2059"},{"uf":"MG","cidade":"Monte Belo","id":"2060"},{"uf":"MG","cidade":"Monte Carmelo","id":"2061"},{"uf":"MG","cidade":"Monte Formoso","id":"2062"},{"uf":"MG","cidade":"Monte Santo de Minas","id":"2063"},{"uf":"MG","cidade":"Monte Sião","id":"2064"},{"uf":"MG","cidade":"Montes Claros","id":"2065"},{"uf":"MG","cidade":"Montezuma","id":"2066"},{"uf":"MG","cidade":"Morada Nova de Minas","id":"2067"},{"uf":"MG","cidade":"Morro da Garça","id":"2068"},{"uf":"MG","cidade":"Morro do Pilar","id":"2069"},{"uf":"MG","cidade":"Munhoz","id":"2070"},{"uf":"MG","cidade":"Muriaé","id":"2071"},{"uf":"MG","cidade":"Mutum","id":"2072"},{"uf":"MG","cidade":"Muzambinho","id":"2073"},{"uf":"MG","cidade":"Nacip Raydan","id":"2074"},{"uf":"MG","cidade":"Nanuque","id":"2075"},{"uf":"MG","cidade":"Naque","id":"2076"},{"uf":"MG","cidade":"Natalândia","id":"2077"},{"uf":"MG","cidade":"Natércia","id":"2078"},{"uf":"MG","cidade":"Nazareno","id":"2079"},{"uf":"MG","cidade":"Nepomuceno","id":"2080"},{"uf":"MG","cidade":"Ninheira","id":"2081"},{"uf":"MG","cidade":"Nova Belém","id":"2082"},{"uf":"MG","cidade":"Nova Era","id":"2083"},{"uf":"MG","cidade":"Nova Lima","id":"2084"},{"uf":"MG","cidade":"Nova Módica","id":"2085"},{"uf":"MG","cidade":"Nova Ponte","id":"2086"},{"uf":"MG","cidade":"Nova Porteirinha","id":"2087"},{"uf":"MG","cidade":"Nova Resende","id":"2088"},{"uf":"MG","cidade":"Nova Serrana","id":"2089"},{"uf":"MG","cidade":"Nova União","id":"2090"},{"uf":"MG","cidade":"Novo Cruzeiro","id":"2091"},{"uf":"MG","cidade":"Novo Oriente de Minas","id":"2092"},{"uf":"MG","cidade":"Novorizonte","id":"2093"},{"uf":"MG","cidade":"Olaria","id":"2094"},{"uf":"MG","cidade":"Olhos-d`Água","id":"2095"},{"uf":"MG","cidade":"Olímpio Noronha","id":"2096"},{"uf":"MG","cidade":"Oliveira","id":"2097"},{"uf":"MG","cidade":"Oliveira Fortes","id":"2098"},{"uf":"MG","cidade":"Onça de Pitangui","id":"2099"},{"uf":"MG","cidade":"Oratórios","id":"2100"},{"uf":"MG","cidade":"Orizânia","id":"2101"},{"uf":"MG","cidade":"Ouro Branco","id":"2102"},{"uf":"MG","cidade":"Ouro Fino","id":"2103"},{"uf":"MG","cidade":"Ouro Preto","id":"2104"},{"uf":"MG","cidade":"Ouro Verde de Minas","id":"2105"},{"uf":"MG","cidade":"Padre Carvalho","id":"2106"},{"uf":"MG","cidade":"Padre Paraíso","id":"2107"},{"uf":"MG","cidade":"Pai Pedro","id":"2108"},{"uf":"MG","cidade":"Paineiras","id":"2109"},{"uf":"MG","cidade":"Pains","id":"2110"},{"uf":"MG","cidade":"Paiva","id":"2111"},{"uf":"MG","cidade":"Palma","id":"2112"},{"uf":"MG","cidade":"Palmópolis","id":"2113"},{"uf":"MG","cidade":"Papagaios","id":"2114"},{"uf":"MG","cidade":"Pará de Minas","id":"2115"},{"uf":"MG","cidade":"Paracatu","id":"2116"},{"uf":"MG","cidade":"Paraguaçu","id":"2117"},{"uf":"MG","cidade":"Paraisópolis","id":"2118"},{"uf":"MG","cidade":"Paraopeba","id":"2119"},{"uf":"MG","cidade":"Passa Quatro","id":"2120"},{"uf":"MG","cidade":"Passa Tempo","id":"2121"},{"uf":"MG","cidade":"Passabém","id":"2122"},{"uf":"MG","cidade":"Passa-Vinte","id":"2123"},{"uf":"MG","cidade":"Passos","id":"2124"},{"uf":"MG","cidade":"Patis","id":"2125"},{"uf":"MG","cidade":"Patos de Minas","id":"2126"},{"uf":"MG","cidade":"Patrocínio","id":"2127"},{"uf":"MG","cidade":"Patrocínio do Muriaé","id":"2128"},{"uf":"MG","cidade":"Paula Cândido","id":"2129"},{"uf":"MG","cidade":"Paulistas","id":"2130"},{"uf":"MG","cidade":"Pavão","id":"2131"},{"uf":"MG","cidade":"Peçanha","id":"2132"},{"uf":"MG","cidade":"Pedra Azul","id":"2133"},{"uf":"MG","cidade":"Pedra Bonita","id":"2134"},{"uf":"MG","cidade":"Pedra do Anta","id":"2135"},{"uf":"MG","cidade":"Pedra do Indaiá","id":"2136"},{"uf":"MG","cidade":"Pedra Dourada","id":"2137"},{"uf":"MG","cidade":"Pedralva","id":"2138"},{"uf":"MG","cidade":"Pedras de Maria da Cruz","id":"2139"},{"uf":"MG","cidade":"Pedrinópolis","id":"2140"},{"uf":"MG","cidade":"Pedro Leopoldo","id":"2141"},{"uf":"MG","cidade":"Pedro Teixeira","id":"2142"},{"uf":"MG","cidade":"Pequeri","id":"2143"},{"uf":"MG","cidade":"Pequi","id":"2144"},{"uf":"MG","cidade":"Perdigão","id":"2145"},{"uf":"MG","cidade":"Perdizes","id":"2146"},{"uf":"MG","cidade":"Perdões","id":"2147"},{"uf":"MG","cidade":"Periquito","id":"2148"},{"uf":"MG","cidade":"Pescador","id":"2149"},{"uf":"MG","cidade":"Piau","id":"2150"},{"uf":"MG","cidade":"Piedade de Caratinga","id":"2151"},{"uf":"MG","cidade":"Piedade de Ponte Nova","id":"2152"},{"uf":"MG","cidade":"Piedade do Rio Grande","id":"2153"},{"uf":"MG","cidade":"Piedade dos Gerais","id":"2154"},{"uf":"MG","cidade":"Pimenta","id":"2155"},{"uf":"MG","cidade":"Pingo-d`Água","id":"2156"},{"uf":"MG","cidade":"Pintópolis","id":"2157"},{"uf":"MG","cidade":"Piracema","id":"2158"},{"uf":"MG","cidade":"Pirajuba","id":"2159"},{"uf":"MG","cidade":"Piranga","id":"2160"},{"uf":"MG","cidade":"Piranguçu","id":"2161"},{"uf":"MG","cidade":"Piranguinho","id":"2162"},{"uf":"MG","cidade":"Pirapetinga","id":"2163"},{"uf":"MG","cidade":"Pirapora","id":"2164"},{"uf":"MG","cidade":"Piraúba","id":"2165"},{"uf":"MG","cidade":"Pitangui","id":"2166"},{"uf":"MG","cidade":"Piumhi","id":"2167"},{"uf":"MG","cidade":"Planura","id":"2168"},{"uf":"MG","cidade":"Poço Fundo","id":"2169"},{"uf":"MG","cidade":"Poços de Caldas","id":"2170"},{"uf":"MG","cidade":"Pocrane","id":"2171"},{"uf":"MG","cidade":"Pompéu","id":"2172"},{"uf":"MG","cidade":"Ponte Nova","id":"2173"},{"uf":"MG","cidade":"Ponto Chique","id":"2174"},{"uf":"MG","cidade":"Ponto dos Volantes","id":"2175"},{"uf":"MG","cidade":"Porteirinha","id":"2176"},{"uf":"MG","cidade":"Porto Firme","id":"2177"},{"uf":"MG","cidade":"Poté","id":"2178"},{"uf":"MG","cidade":"Pouso Alegre","id":"2179"},{"uf":"MG","cidade":"Pouso Alto","id":"2180"},{"uf":"MG","cidade":"Prados","id":"2181"},{"uf":"MG","cidade":"Prata","id":"2182"},{"uf":"MG","cidade":"Pratápolis","id":"2183"},{"uf":"MG","cidade":"Pratinha","id":"2184"},{"uf":"MG","cidade":"Presidente Bernardes","id":"2185"},{"uf":"MG","cidade":"Presidente Juscelino","id":"2186"},{"uf":"MG","cidade":"Presidente Kubitschek","id":"2187"},{"uf":"MG","cidade":"Presidente Olegário","id":"2188"},{"uf":"MG","cidade":"Prudente de Morais","id":"2189"},{"uf":"MG","cidade":"Quartel Geral","id":"2190"},{"uf":"MG","cidade":"Queluzito","id":"2191"},{"uf":"MG","cidade":"Raposos","id":"2192"},{"uf":"MG","cidade":"Raul Soares","id":"2193"},{"uf":"MG","cidade":"Recreio","id":"2194"},{"uf":"MG","cidade":"Reduto","id":"2195"},{"uf":"MG","cidade":"Resende Costa","id":"2196"},{"uf":"MG","cidade":"Resplendor","id":"2197"},{"uf":"MG","cidade":"Ressaquinha","id":"2198"},{"uf":"MG","cidade":"Riachinho","id":"2199"},{"uf":"MG","cidade":"Riacho dos Machados","id":"2200"},{"uf":"MG","cidade":"Ribeirão das Neves","id":"2201"},{"uf":"MG","cidade":"Ribeirão Vermelho","id":"2202"},{"uf":"MG","cidade":"Rio Acima","id":"2203"},{"uf":"MG","cidade":"Rio Casca","id":"2204"},{"uf":"MG","cidade":"Rio do Prado","id":"2205"},{"uf":"MG","cidade":"Rio Doce","id":"2206"},{"uf":"MG","cidade":"Rio Espera","id":"2207"},{"uf":"MG","cidade":"Rio Manso","id":"2208"},{"uf":"MG","cidade":"Rio Novo","id":"2209"},{"uf":"MG","cidade":"Rio Paranaíba","id":"2210"},{"uf":"MG","cidade":"Rio Pardo de Minas","id":"2211"},{"uf":"MG","cidade":"Rio Piracicaba","id":"2212"},{"uf":"MG","cidade":"Rio Pomba","id":"2213"},{"uf":"MG","cidade":"Rio Preto","id":"2214"},{"uf":"MG","cidade":"Rio Vermelho","id":"2215"},{"uf":"MG","cidade":"Ritápolis","id":"2216"},{"uf":"MG","cidade":"Rochedo de Minas","id":"2217"},{"uf":"MG","cidade":"Rodeiro","id":"2218"},{"uf":"MG","cidade":"Romaria","id":"2219"},{"uf":"MG","cidade":"Rosário da Limeira","id":"2220"},{"uf":"MG","cidade":"Rubelita","id":"2221"},{"uf":"MG","cidade":"Rubim","id":"2222"},{"uf":"MG","cidade":"Sabará","id":"2223"},{"uf":"MG","cidade":"Sabinópolis","id":"2224"},{"uf":"MG","cidade":"Sacramento","id":"2225"},{"uf":"MG","cidade":"Salinas","id":"2226"},{"uf":"MG","cidade":"Salto da Divisa","id":"2227"},{"uf":"MG","cidade":"Santa Bárbara","id":"2228"},{"uf":"MG","cidade":"Santa Bárbara do Leste","id":"2229"},{"uf":"MG","cidade":"Santa Bárbara do Monte Verde","id":"2230"},{"uf":"MG","cidade":"Santa Bárbara do Tugúrio","id":"2231"},{"uf":"MG","cidade":"Santa Cruz de Minas","id":"2232"},{"uf":"MG","cidade":"Santa Cruz de Salinas","id":"2233"},{"uf":"MG","cidade":"Santa Cruz do Escalvado","id":"2234"},{"uf":"MG","cidade":"Santa Efigênia de Minas","id":"2235"},{"uf":"MG","cidade":"Santa Fé de Minas","id":"2236"},{"uf":"MG","cidade":"Santa Helena de Minas","id":"2237"},{"uf":"MG","cidade":"Santa Juliana","id":"2238"},{"uf":"MG","cidade":"Santa Luzia","id":"2239"},{"uf":"MG","cidade":"Santa Margarida","id":"2240"},{"uf":"MG","cidade":"Santa Maria de Itabira","id":"2241"},{"uf":"MG","cidade":"Santa Maria do Salto","id":"2242"},{"uf":"MG","cidade":"Santa Maria do Suaçuí","id":"2243"},{"uf":"MG","cidade":"Santa Rita de Caldas","id":"2244"},{"uf":"MG","cidade":"Santa Rita de Ibitipoca","id":"2245"},{"uf":"MG","cidade":"Santa Rita de Jacutinga","id":"2246"},{"uf":"MG","cidade":"Santa Rita de Minas","id":"2247"},{"uf":"MG","cidade":"Santa Rita do Itueto","id":"2248"},{"uf":"MG","cidade":"Santa Rita do Sapucaí","id":"2249"},{"uf":"MG","cidade":"Santa Rosa da Serra","id":"2250"},{"uf":"MG","cidade":"Santa Vitória","id":"2251"},{"uf":"MG","cidade":"Santana da Vargem","id":"2252"},{"uf":"MG","cidade":"Santana de Cataguases","id":"2253"},{"uf":"MG","cidade":"Santana de Pirapama","id":"2254"},{"uf":"MG","cidade":"Santana do Deserto","id":"2255"},{"uf":"MG","cidade":"Santana do Garambéu","id":"2256"},{"uf":"MG","cidade":"Santana do Jacaré","id":"2257"},{"uf":"MG","cidade":"Santana do Manhuaçu","id":"2258"},{"uf":"MG","cidade":"Santana do Paraíso","id":"2259"},{"uf":"MG","cidade":"Santana do Riacho","id":"2260"},{"uf":"MG","cidade":"Santana dos Montes","id":"2261"},{"uf":"MG","cidade":"Santo Antônio do Amparo","id":"2262"},{"uf":"MG","cidade":"Santo Antônio do Aventureiro","id":"2263"},{"uf":"MG","cidade":"Santo Antônio do Grama","id":"2264"},{"uf":"MG","cidade":"Santo Antônio do Itambé","id":"2265"},{"uf":"MG","cidade":"Santo Antônio do Jacinto","id":"2266"},{"uf":"MG","cidade":"Santo Antônio do Monte","id":"2267"},{"uf":"MG","cidade":"Santo Antônio do Retiro","id":"2268"},{"uf":"MG","cidade":"Santo Antônio do Rio Abaixo","id":"2269"},{"uf":"MG","cidade":"Santo Hipólito","id":"2270"},{"uf":"MG","cidade":"Santos Dumont","id":"2271"},{"uf":"MG","cidade":"São Bento Abade","id":"2272"},{"uf":"MG","cidade":"São Brás do Suaçuí","id":"2273"},{"uf":"MG","cidade":"São Domingos das Dores","id":"2274"},{"uf":"MG","cidade":"São Domingos do Prata","id":"2275"},{"uf":"MG","cidade":"São Félix de Minas","id":"2276"},{"uf":"MG","cidade":"São Francisco","id":"2277"},{"uf":"MG","cidade":"São Francisco de Paula","id":"2278"},{"uf":"MG","cidade":"São Francisco de Sales","id":"2279"},{"uf":"MG","cidade":"São Francisco do Glória","id":"2280"},{"uf":"MG","cidade":"São Geraldo","id":"2281"},{"uf":"MG","cidade":"São Geraldo da Piedade","id":"2282"},{"uf":"MG","cidade":"São Geraldo do Baixio","id":"2283"},{"uf":"MG","cidade":"São Gonçalo do Abaeté","id":"2284"},{"uf":"MG","cidade":"São Gonçalo do Pará","id":"2285"},{"uf":"MG","cidade":"São Gonçalo do Rio Abaixo","id":"2286"},{"uf":"MG","cidade":"São Gonçalo do Rio Preto","id":"2287"},{"uf":"MG","cidade":"São Gonçalo do Sapucaí","id":"2288"},{"uf":"MG","cidade":"São Gotardo","id":"2289"},{"uf":"MG","cidade":"São João Batista do Glória","id":"2290"},{"uf":"MG","cidade":"São João da Lagoa","id":"2291"},{"uf":"MG","cidade":"São João da Mata","id":"2292"},{"uf":"MG","cidade":"São João da Ponte","id":"2293"},{"uf":"MG","cidade":"São João das Missões","id":"2294"},{"uf":"MG","cidade":"São João del Rei","id":"2295"},{"uf":"MG","cidade":"São João do Manhuaçu","id":"2296"},{"uf":"MG","cidade":"São João do Manteninha","id":"2297"},{"uf":"MG","cidade":"São João do Oriente","id":"2298"},{"uf":"MG","cidade":"São João do Pacuí","id":"2299"},{"uf":"MG","cidade":"São João do Paraíso","id":"2300"},{"uf":"MG","cidade":"São João Evangelista","id":"2301"},{"uf":"MG","cidade":"São João Nepomuceno","id":"2302"},{"uf":"MG","cidade":"São Joaquim de Bicas","id":"2303"},{"uf":"MG","cidade":"São José da Barra","id":"2304"},{"uf":"MG","cidade":"São José da Lapa","id":"2305"},{"uf":"MG","cidade":"São José da Safira","id":"2306"},{"uf":"MG","cidade":"São José da Varginha","id":"2307"},{"uf":"MG","cidade":"São José do Alegre","id":"2308"},{"uf":"MG","cidade":"São José do Divino","id":"2309"},{"uf":"MG","cidade":"São José do Goiabal","id":"2310"},{"uf":"MG","cidade":"São José do Jacuri","id":"2311"},{"uf":"MG","cidade":"São José do Mantimento","id":"2312"},{"uf":"MG","cidade":"São Lourenço","id":"2313"},{"uf":"MG","cidade":"São Miguel do Anta","id":"2314"},{"uf":"MG","cidade":"São Pedro da União","id":"2315"},{"uf":"MG","cidade":"São Pedro do Suaçuí","id":"2316"},{"uf":"MG","cidade":"São Pedro dos Ferros","id":"2317"},{"uf":"MG","cidade":"São Romão","id":"2318"},{"uf":"MG","cidade":"São Roque de Minas","id":"2319"},{"uf":"MG","cidade":"São Sebastião da Bela Vista","id":"2320"},{"uf":"MG","cidade":"São Sebastião da Vargem Alegre","id":"2321"},{"uf":"MG","cidade":"São Sebastião do Anta","id":"2322"},{"uf":"MG","cidade":"São Sebastião do Maranhão","id":"2323"},{"uf":"MG","cidade":"São Sebastião do Oeste","id":"2324"},{"uf":"MG","cidade":"São Sebastião do Paraíso","id":"2325"},{"uf":"MG","cidade":"São Sebastião do Rio Preto","id":"2326"},{"uf":"MG","cidade":"São Sebastião do Rio Verde","id":"2327"},{"uf":"MG","cidade":"São Thomé das Letras","id":"2328"},{"uf":"MG","cidade":"São Tiago","id":"2329"},{"uf":"MG","cidade":"São Tomás de Aquino","id":"2330"},{"uf":"MG","cidade":"São Vicente de Minas","id":"2331"},{"uf":"MG","cidade":"Sapucaí-Mirim","id":"2332"},{"uf":"MG","cidade":"Sardoá","id":"2333"},{"uf":"MG","cidade":"Sarzedo","id":"2334"},{"uf":"MG","cidade":"Sem-Peixe","id":"2335"},{"uf":"MG","cidade":"Senador Amaral","id":"2336"},{"uf":"MG","cidade":"Senador Cortes","id":"2337"},{"uf":"MG","cidade":"Senador Firmino","id":"2338"},{"uf":"MG","cidade":"Senador José Bento","id":"2339"},{"uf":"MG","cidade":"Senador Modestino Gonçalves","id":"2340"},{"uf":"MG","cidade":"Senhora de Oliveira","id":"2341"},{"uf":"MG","cidade":"Senhora do Porto","id":"2342"},{"uf":"MG","cidade":"Senhora dos Remédios","id":"2343"},{"uf":"MG","cidade":"Sericita","id":"2344"},{"uf":"MG","cidade":"Seritinga","id":"2345"},{"uf":"MG","cidade":"Serra Azul de Minas","id":"2346"},{"uf":"MG","cidade":"Serra da Saudade","id":"2347"},{"uf":"MG","cidade":"Serra do Salitre","id":"2348"},{"uf":"MG","cidade":"Serra dos Aimorés","id":"2349"},{"uf":"MG","cidade":"Serrania","id":"2350"},{"uf":"MG","cidade":"Serranópolis de Minas","id":"2351"},{"uf":"MG","cidade":"Serranos","id":"2352"},{"uf":"MG","cidade":"Serro","id":"2353"},{"uf":"MG","cidade":"Sete Lagoas","id":"2354"},{"uf":"MG","cidade":"Setubinha","id":"2355"},{"uf":"MG","cidade":"Silveirânia","id":"2356"},{"uf":"MG","cidade":"Silvianópolis","id":"2357"},{"uf":"MG","cidade":"Simão Pereira","id":"2358"},{"uf":"MG","cidade":"Simonésia","id":"2359"},{"uf":"MG","cidade":"Sobrália","id":"2360"},{"uf":"MG","cidade":"Soledade de Minas","id":"2361"},{"uf":"MG","cidade":"Tabuleiro","id":"2362"},{"uf":"MG","cidade":"Taiobeiras","id":"2363"},{"uf":"MG","cidade":"Taparuba","id":"2364"},{"uf":"MG","cidade":"Tapira","id":"2365"},{"uf":"MG","cidade":"Tapiraí","id":"2366"},{"uf":"MG","cidade":"Taquaraçu de Minas","id":"2367"},{"uf":"MG","cidade":"Tarumirim","id":"2368"},{"uf":"MG","cidade":"Teixeiras","id":"2369"},{"uf":"MG","cidade":"Teófilo Otoni","id":"2370"},{"uf":"MG","cidade":"Timóteo","id":"2371"},{"uf":"MG","cidade":"Tiradentes","id":"2372"},{"uf":"MG","cidade":"Tiros","id":"2373"},{"uf":"MG","cidade":"Tocantins","id":"2374"},{"uf":"MG","cidade":"Tocos do Moji","id":"2375"},{"uf":"MG","cidade":"Toledo","id":"2376"},{"uf":"MG","cidade":"Tombos","id":"2377"},{"uf":"MG","cidade":"Três Corações","id":"2378"},{"uf":"MG","cidade":"Três Marias","id":"2379"},{"uf":"MG","cidade":"Três Pontas","id":"2380"},{"uf":"MG","cidade":"Tumiritinga","id":"2381"},{"uf":"MG","cidade":"Tupaciguara","id":"2382"},{"uf":"MG","cidade":"Turmalina","id":"2383"},{"uf":"MG","cidade":"Turvolândia","id":"2384"},{"uf":"MG","cidade":"Ubá","id":"2385"},{"uf":"MG","cidade":"Ubaí","id":"2386"},{"uf":"MG","cidade":"Ubaporanga","id":"2387"},{"uf":"MG","cidade":"Uberaba","id":"2388"},{"uf":"MG","cidade":"Uberlândia","id":"2389"},{"uf":"MG","cidade":"Umburatiba","id":"2390"},{"uf":"MG","cidade":"Unaí","id":"2391"},{"uf":"MG","cidade":"União de Minas","id":"2392"},{"uf":"MG","cidade":"Uruana de Minas","id":"2393"},{"uf":"MG","cidade":"Urucânia","id":"2394"},{"uf":"MG","cidade":"Urucuia","id":"2395"},{"uf":"MG","cidade":"Vargem Alegre","id":"2396"},{"uf":"MG","cidade":"Vargem Bonita","id":"2397"},{"uf":"MG","cidade":"Vargem Grande do Rio Pardo","id":"2398"},{"uf":"MG","cidade":"Varginha","id":"2399"},{"uf":"MG","cidade":"Varjão de Minas","id":"2400"},{"uf":"MG","cidade":"Várzea da Palma","id":"2401"},{"uf":"MG","cidade":"Varzelândia","id":"2402"},{"uf":"MG","cidade":"Vazante","id":"2403"},{"uf":"MG","cidade":"Verdelândia","id":"2404"},{"uf":"MG","cidade":"Veredinha","id":"2405"},{"uf":"MG","cidade":"Veríssimo","id":"2406"},{"uf":"MG","cidade":"Vermelho Novo","id":"2407"},{"uf":"MG","cidade":"Vespasiano","id":"2408"},{"uf":"MG","cidade":"Viçosa","id":"2409"},{"uf":"MG","cidade":"Vieiras","id":"2410"},{"uf":"MG","cidade":"Virgem da Lapa","id":"2411"},{"uf":"MG","cidade":"Virgínia","id":"2412"},{"uf":"MG","cidade":"Virginópolis","id":"2413"},{"uf":"MG","cidade":"Virgolândia","id":"2414"},{"uf":"MG","cidade":"Visconde do Rio Branco","id":"2415"},{"uf":"MG","cidade":"Volta Grande","id":"2416"},{"uf":"MG","cidade":"Wenceslau Braz","id":"2417"}]
+[
+  {
+    "uf": "MG",
+    "cidade": "Abadia dos Dourados",
+    "id": "1565"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Abaeté",
+    "id": "1566"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Abre Campo",
+    "id": "1567"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Acaiaca",
+    "id": "1568"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Açucena",
+    "id": "1569"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Água Boa",
+    "id": "1570"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Água Comprida",
+    "id": "1571"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Aguanil",
+    "id": "1572"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Águas Formosas",
+    "id": "1573"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Águas Vermelhas",
+    "id": "1574"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Aimorés",
+    "id": "1575"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Aiuruoca",
+    "id": "1576"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Alagoa",
+    "id": "1577"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Albertina",
+    "id": "1578"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Além Paraíba",
+    "id": "1579"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Alfenas",
+    "id": "1580"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Alfredo Vasconcelos",
+    "id": "1581"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Almenara",
+    "id": "1582"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Alpercata",
+    "id": "1583"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Alpinópolis",
+    "id": "1584"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Alterosa",
+    "id": "1585"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Alto Caparaó",
+    "id": "1586"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Alto Jequitibá",
+    "id": "1587"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Alto Rio Doce",
+    "id": "1588"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Alvarenga",
+    "id": "1589"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Alvinópolis",
+    "id": "1590"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Alvorada de Minas",
+    "id": "1591"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Amparo do Serra",
+    "id": "1592"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Andradas",
+    "id": "1593"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Andrelândia",
+    "id": "1594"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Angelândia",
+    "id": "1595"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Antônio Carlos",
+    "id": "1596"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Antônio Dias",
+    "id": "1597"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Antônio Prado de Minas",
+    "id": "1598"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Araçaí",
+    "id": "1599"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Aracitaba",
+    "id": "1600"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Araçuaí",
+    "id": "1601"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Araguari",
+    "id": "1602"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Arantina",
+    "id": "1603"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Araponga",
+    "id": "1604"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Araporã",
+    "id": "1605"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Arapuá",
+    "id": "1606"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Araújos",
+    "id": "1607"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Araxá",
+    "id": "1608"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Arceburgo",
+    "id": "1609"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Arcos",
+    "id": "1610"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Areado",
+    "id": "1611"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Argirita",
+    "id": "1612"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Aricanduva",
+    "id": "1613"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Arinos",
+    "id": "1614"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Astolfo Dutra",
+    "id": "1615"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ataléia",
+    "id": "1616"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Augusto de Lima",
+    "id": "1617"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Baependi",
+    "id": "1618"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Baldim",
+    "id": "1619"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bambuí",
+    "id": "1620"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bandeira",
+    "id": "1621"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bandeira do Sul",
+    "id": "1622"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Barão de Cocais",
+    "id": "1623"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Barão de Monte Alto",
+    "id": "1624"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Barbacena",
+    "id": "1625"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Barra Longa",
+    "id": "1626"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Barroso",
+    "id": "1627"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bela Vista de Minas",
+    "id": "1628"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Belmiro Braga",
+    "id": "1629"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Belo Horizonte",
+    "id": "1630"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Belo Oriente",
+    "id": "1631"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Belo Vale",
+    "id": "1632"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Berilo",
+    "id": "1633"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Berizal",
+    "id": "1634"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bertópolis",
+    "id": "1635"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Betim",
+    "id": "1636"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bias Fortes",
+    "id": "1637"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bicas",
+    "id": "1638"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Biquinhas",
+    "id": "1639"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Boa Esperança",
+    "id": "1640"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bocaina de Minas",
+    "id": "1641"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bocaiúva",
+    "id": "1642"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bom Despacho",
+    "id": "1643"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bom Jardim de Minas",
+    "id": "1644"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bom Jesus da Penha",
+    "id": "1645"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bom Jesus do Amparo",
+    "id": "1646"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bom Jesus do Galho",
+    "id": "1647"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bom Repouso",
+    "id": "1648"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bom Sucesso",
+    "id": "1649"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bonfim",
+    "id": "1650"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bonfinópolis de Minas",
+    "id": "1651"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bonito de Minas",
+    "id": "1652"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Borda da Mata",
+    "id": "1653"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Botelhos",
+    "id": "1654"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Botumirim",
+    "id": "1655"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Brás Pires",
+    "id": "1656"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Brasilândia de Minas",
+    "id": "1657"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Brasília de Minas",
+    "id": "1658"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Brasópolis",
+    "id": "1659"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Braúnas",
+    "id": "1660"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Brumadinho",
+    "id": "1661"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bueno Brandão",
+    "id": "1662"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Buenópolis",
+    "id": "1663"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Bugre",
+    "id": "1664"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Buritis",
+    "id": "1665"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Buritizeiro",
+    "id": "1666"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cabeceira Grande",
+    "id": "1667"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cabo Verde",
+    "id": "1668"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cachoeira da Prata",
+    "id": "1669"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cachoeira de Minas",
+    "id": "1670"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cachoeira de Pajeú",
+    "id": "1671"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cachoeira Dourada",
+    "id": "1672"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Caetanópolis",
+    "id": "1673"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Caeté",
+    "id": "1674"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Caiana",
+    "id": "1675"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cajuri",
+    "id": "1676"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Caldas",
+    "id": "1677"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Camacho",
+    "id": "1678"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Camanducaia",
+    "id": "1679"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cambuí",
+    "id": "1680"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cambuquira",
+    "id": "1681"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Campanário",
+    "id": "1682"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Campanha",
+    "id": "1683"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Campestre",
+    "id": "1684"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Campina Verde",
+    "id": "1685"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Campo Azul",
+    "id": "1686"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Campo Belo",
+    "id": "1687"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Campo do Meio",
+    "id": "1688"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Campo Florido",
+    "id": "1689"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Campos Altos",
+    "id": "1690"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Campos Gerais",
+    "id": "1691"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cana Verde",
+    "id": "1692"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Canaã",
+    "id": "1693"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Canápolis",
+    "id": "1694"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Candeias",
+    "id": "1695"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cantagalo",
+    "id": "1696"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Caparaó",
+    "id": "1697"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Capela Nova",
+    "id": "1698"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Capelinha",
+    "id": "1699"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Capetinga",
+    "id": "1700"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Capim Branco",
+    "id": "1701"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Capinópolis",
+    "id": "1702"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Capitão Andrade",
+    "id": "1703"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Capitão Enéas",
+    "id": "1704"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Capitólio",
+    "id": "1705"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Caputira",
+    "id": "1706"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Caraí",
+    "id": "1707"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Caranaíba",
+    "id": "1708"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Carandaí",
+    "id": "1709"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Carangola",
+    "id": "1710"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Caratinga",
+    "id": "1711"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Carbonita",
+    "id": "1712"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Careaçu",
+    "id": "1713"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Carlos Chagas",
+    "id": "1714"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Carmésia",
+    "id": "1715"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Carmo da Cachoeira",
+    "id": "1716"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Carmo da Mata",
+    "id": "1717"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Carmo de Minas",
+    "id": "1718"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Carmo do Cajuru",
+    "id": "1719"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Carmo do Paranaíba",
+    "id": "1720"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Carmo do Rio Claro",
+    "id": "1721"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Carmópolis de Minas",
+    "id": "1722"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Carneirinho",
+    "id": "1723"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Carrancas",
+    "id": "1724"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Carvalhópolis",
+    "id": "1725"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Carvalhos",
+    "id": "1726"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Casa Grande",
+    "id": "1727"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cascalho Rico",
+    "id": "1728"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cássia",
+    "id": "1729"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cataguases",
+    "id": "1730"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Catas Altas",
+    "id": "1731"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Catas Altas da Noruega",
+    "id": "1732"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Catuji",
+    "id": "1733"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Catuti",
+    "id": "1734"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Caxambu",
+    "id": "1735"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cedro do Abaeté",
+    "id": "1736"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Central de Minas",
+    "id": "1737"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Centralina",
+    "id": "1738"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Chácara",
+    "id": "1739"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Chalé",
+    "id": "1740"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Chapada do Norte",
+    "id": "1741"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Chapada Gaúcha",
+    "id": "1742"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Chiador",
+    "id": "1743"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cipotânea",
+    "id": "1744"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Claraval",
+    "id": "1745"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Claro dos Poções",
+    "id": "1746"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cláudio",
+    "id": "1747"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Coimbra",
+    "id": "1748"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Coluna",
+    "id": "1749"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Comendador Gomes",
+    "id": "1750"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Comercinho",
+    "id": "1751"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Conceição da Aparecida",
+    "id": "1752"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Conceição da Barra de Minas",
+    "id": "1753"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Conceição das Alagoas",
+    "id": "1754"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Conceição das Pedras",
+    "id": "1755"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Conceição de Ipanema",
+    "id": "1756"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Conceição do Mato Dentro",
+    "id": "1757"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Conceição do Pará",
+    "id": "1758"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Conceição do Rio Verde",
+    "id": "1759"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Conceição dos Ouros",
+    "id": "1760"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cônego Marinho",
+    "id": "1761"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Confins",
+    "id": "1762"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Congonhal",
+    "id": "1763"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Congonhas",
+    "id": "1764"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Congonhas do Norte",
+    "id": "1765"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Conquista",
+    "id": "1766"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Conselheiro Lafaiete",
+    "id": "1767"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Conselheiro Pena",
+    "id": "1768"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Consolação",
+    "id": "1769"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Contagem",
+    "id": "1770"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Coqueiral",
+    "id": "1771"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Coração de Jesus",
+    "id": "1772"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cordisburgo",
+    "id": "1773"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cordislândia",
+    "id": "1774"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Corinto",
+    "id": "1775"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Coroaci",
+    "id": "1776"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Coromandel",
+    "id": "1777"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Coronel Fabriciano",
+    "id": "1778"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Coronel Murta",
+    "id": "1779"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Coronel Pacheco",
+    "id": "1780"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Coronel Xavier Chaves",
+    "id": "1781"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Córrego Danta",
+    "id": "1782"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Córrego do Bom Jesus",
+    "id": "1783"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Córrego Fundo",
+    "id": "1784"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Córrego Novo",
+    "id": "1785"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Couto de Magalhães de Minas",
+    "id": "1786"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Crisólita",
+    "id": "1787"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cristais",
+    "id": "1788"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cristália",
+    "id": "1789"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cristiano Otoni",
+    "id": "1790"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cristina",
+    "id": "1791"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Crucilândia",
+    "id": "1792"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cruzeiro da Fortaleza",
+    "id": "1793"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cruzília",
+    "id": "1794"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Cuparaque",
+    "id": "1795"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Curral de Dentro",
+    "id": "1796"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Curvelo",
+    "id": "1797"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Datas",
+    "id": "1798"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Delfim Moreira",
+    "id": "1799"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Delfinópolis",
+    "id": "1800"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Delta",
+    "id": "1801"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Descoberto",
+    "id": "1802"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Desterro de Entre Rios",
+    "id": "1803"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Desterro do Melo",
+    "id": "1804"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Diamantina",
+    "id": "1805"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Diogo de Vasconcelos",
+    "id": "1806"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Dionísio",
+    "id": "1807"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Divinésia",
+    "id": "1808"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Divino",
+    "id": "1809"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Divino das Laranjeiras",
+    "id": "1810"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Divinolândia de Minas",
+    "id": "1811"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Divinópolis",
+    "id": "1812"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Divisa Alegre",
+    "id": "1813"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Divisa Nova",
+    "id": "1814"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Divisópolis",
+    "id": "1815"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Dom Bosco",
+    "id": "1816"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Dom Cavati",
+    "id": "1817"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Dom Joaquim",
+    "id": "1818"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Dom Silvério",
+    "id": "1819"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Dom Viçoso",
+    "id": "1820"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Dona Eusébia",
+    "id": "1821"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Dores de Campos",
+    "id": "1822"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Dores de Guanhães",
+    "id": "1823"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Dores do Indaiá",
+    "id": "1824"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Dores do Turvo",
+    "id": "1825"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Doresópolis",
+    "id": "1826"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Douradoquara",
+    "id": "1827"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Durandé",
+    "id": "1828"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Elói Mendes",
+    "id": "1829"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Engenheiro Caldas",
+    "id": "1830"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Engenheiro Navarro",
+    "id": "1831"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Entre Folhas",
+    "id": "1832"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Entre Rios de Minas",
+    "id": "1833"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ervália",
+    "id": "1834"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Esmeraldas",
+    "id": "1835"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Espera Feliz",
+    "id": "1836"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Espinosa",
+    "id": "1837"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Espírito Santo do Dourado",
+    "id": "1838"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Estiva",
+    "id": "1839"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Estrela Dalva",
+    "id": "1840"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Estrela do Indaiá",
+    "id": "1841"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Estrela do Sul",
+    "id": "1842"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Eugenópolis",
+    "id": "1843"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ewbank da Câmara",
+    "id": "1844"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Extrema",
+    "id": "1845"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Fama",
+    "id": "1846"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Faria Lemos",
+    "id": "1847"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Felício dos Santos",
+    "id": "1848"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Felisburgo",
+    "id": "1849"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Felixlândia",
+    "id": "1850"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Fernandes Tourinho",
+    "id": "1851"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ferros",
+    "id": "1852"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Fervedouro",
+    "id": "1853"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Florestal",
+    "id": "1854"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Formiga",
+    "id": "1855"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Formoso",
+    "id": "1856"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Fortaleza de Minas",
+    "id": "1857"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Fortuna de Minas",
+    "id": "1858"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Francisco Badaró",
+    "id": "1859"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Francisco Dumont",
+    "id": "1860"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Francisco Sá",
+    "id": "1861"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Franciscópolis",
+    "id": "1862"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Frei Gaspar",
+    "id": "1863"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Frei Inocêncio",
+    "id": "1864"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Frei Lagonegro",
+    "id": "1865"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Fronteira",
+    "id": "1866"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Fronteira dos Vales",
+    "id": "1867"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Fruta de Leite",
+    "id": "1868"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Frutal",
+    "id": "1869"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Funilândia",
+    "id": "1870"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Galiléia",
+    "id": "1871"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Gameleiras",
+    "id": "1872"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Glaucilândia",
+    "id": "1873"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Goiabeira",
+    "id": "1874"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Goianá",
+    "id": "1875"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Gonçalves",
+    "id": "1876"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Gonzaga",
+    "id": "1877"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Gouveia",
+    "id": "1878"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Governador Valadares",
+    "id": "1879"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Grão Mogol",
+    "id": "1880"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Grupiara",
+    "id": "1881"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Guanhães",
+    "id": "1882"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Guapé",
+    "id": "1883"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Guaraciaba",
+    "id": "1884"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Guaraciama",
+    "id": "1885"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Guaranésia",
+    "id": "1886"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Guarani",
+    "id": "1887"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Guarará",
+    "id": "1888"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Guarda-Mor",
+    "id": "1889"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Guaxupé",
+    "id": "1890"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Guidoval",
+    "id": "1891"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Guimarânia",
+    "id": "1892"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Guiricema",
+    "id": "1893"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Gurinhatã",
+    "id": "1894"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Heliodora",
+    "id": "1895"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Iapu",
+    "id": "1896"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ibertioga",
+    "id": "1897"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ibiá",
+    "id": "1898"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ibiaí",
+    "id": "1899"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ibiracatu",
+    "id": "1900"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ibiraci",
+    "id": "1901"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ibirité",
+    "id": "1902"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ibitiúra de Minas",
+    "id": "1903"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ibituruna",
+    "id": "1904"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Icaraí de Minas",
+    "id": "1905"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Igarapé",
+    "id": "1906"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Igaratinga",
+    "id": "1907"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Iguatama",
+    "id": "1908"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ijaci",
+    "id": "1909"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ilicínea",
+    "id": "1910"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Imbé de Minas",
+    "id": "1911"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Inconfidentes",
+    "id": "1912"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Indaiabira",
+    "id": "1913"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Indianópolis",
+    "id": "1914"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ingaí",
+    "id": "1915"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Inhapim",
+    "id": "1916"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Inhaúma",
+    "id": "1917"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Inimutaba",
+    "id": "1918"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ipaba",
+    "id": "1919"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ipanema",
+    "id": "1920"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ipatinga",
+    "id": "1921"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ipiaçu",
+    "id": "1922"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ipuiúna",
+    "id": "1923"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Iraí de Minas",
+    "id": "1924"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itabira",
+    "id": "1925"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itabirinha de Mantena",
+    "id": "1926"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itabirito",
+    "id": "1927"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itacambira",
+    "id": "1928"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itacarambi",
+    "id": "1929"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itaguara",
+    "id": "1930"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itaipé",
+    "id": "1931"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itajubá",
+    "id": "1932"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itamarandiba",
+    "id": "1933"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itamarati de Minas",
+    "id": "1934"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itambacuri",
+    "id": "1935"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itambé do Mato Dentro",
+    "id": "1936"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itamogi",
+    "id": "1937"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itamonte",
+    "id": "1938"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itanhandu",
+    "id": "1939"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itanhomi",
+    "id": "1940"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itaobim",
+    "id": "1941"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itapagipe",
+    "id": "1942"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itapecerica",
+    "id": "1943"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itapeva",
+    "id": "1944"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itatiaiuçu",
+    "id": "1945"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itaú de Minas",
+    "id": "1946"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itaúna",
+    "id": "1947"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itaverava",
+    "id": "1948"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itinga",
+    "id": "1949"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itueta",
+    "id": "1950"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ituiutaba",
+    "id": "1951"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itumirim",
+    "id": "1952"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Iturama",
+    "id": "1953"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Itutinga",
+    "id": "1954"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Jaboticatubas",
+    "id": "1955"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Jacinto",
+    "id": "1956"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Jacuí",
+    "id": "1957"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Jacutinga",
+    "id": "1958"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Jaguaraçu",
+    "id": "1959"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Jaíba",
+    "id": "1960"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Jampruca",
+    "id": "1961"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Janaúba",
+    "id": "1962"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Januária",
+    "id": "1963"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Japaraíba",
+    "id": "1964"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Japonvar",
+    "id": "1965"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Jeceaba",
+    "id": "1966"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Jenipapo de Minas",
+    "id": "1967"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Jequeri",
+    "id": "1968"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Jequitaí",
+    "id": "1969"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Jequitibá",
+    "id": "1970"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Jequitinhonha",
+    "id": "1971"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Jesuânia",
+    "id": "1972"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Joaíma",
+    "id": "1973"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Joanésia",
+    "id": "1974"
+  },
+  {
+    "uf": "MG",
+    "cidade": "João Monlevade",
+    "id": "1975"
+  },
+  {
+    "uf": "MG",
+    "cidade": "João Pinheiro",
+    "id": "1976"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Joaquim Felício",
+    "id": "1977"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Jordânia",
+    "id": "1978"
+  },
+  {
+    "uf": "MG",
+    "cidade": "José Gonçalves de Minas",
+    "id": "1979"
+  },
+  {
+    "uf": "MG",
+    "cidade": "José Raydan",
+    "id": "1980"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Josenópolis",
+    "id": "1981"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Juatuba",
+    "id": "1982"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Juiz de Fora",
+    "id": "1983"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Juramento",
+    "id": "1984"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Juruaia",
+    "id": "1985"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Juvenília",
+    "id": "1986"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ladainha",
+    "id": "1987"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Lagamar",
+    "id": "1988"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Lagoa da Prata",
+    "id": "1989"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Lagoa dos Patos",
+    "id": "1990"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Lagoa Dourada",
+    "id": "1991"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Lagoa Formosa",
+    "id": "1992"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Lagoa Grande",
+    "id": "1993"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Lagoa Santa",
+    "id": "1994"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Lajinha",
+    "id": "1995"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Lambari",
+    "id": "1996"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Lamim",
+    "id": "1997"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Laranjal",
+    "id": "1998"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Lassance",
+    "id": "1999"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Lavras",
+    "id": "2000"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Leandro Ferreira",
+    "id": "2001"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Leme do Prado",
+    "id": "2002"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Leopoldina",
+    "id": "2003"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Liberdade",
+    "id": "2004"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Lima Duarte",
+    "id": "2005"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Limeira do Oeste",
+    "id": "2006"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Lontra",
+    "id": "2007"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Luisburgo",
+    "id": "2008"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Luislândia",
+    "id": "2009"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Luminárias",
+    "id": "2010"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Luz",
+    "id": "2011"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Machacalis",
+    "id": "2012"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Machado",
+    "id": "2013"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Madre de Deus de Minas",
+    "id": "2014"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Malacacheta",
+    "id": "2015"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Mamonas",
+    "id": "2016"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Manga",
+    "id": "2017"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Manhuaçu",
+    "id": "2018"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Manhumirim",
+    "id": "2019"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Mantena",
+    "id": "2020"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Mar de Espanha",
+    "id": "2021"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Maravilhas",
+    "id": "2022"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Maria da Fé",
+    "id": "2023"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Mariana",
+    "id": "2024"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Marilac",
+    "id": "2025"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Mário Campos",
+    "id": "2026"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Maripá de Minas",
+    "id": "2027"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Marliéria",
+    "id": "2028"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Marmelópolis",
+    "id": "2029"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Martinho Campos",
+    "id": "2030"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Martins Soares",
+    "id": "2031"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Mata Verde",
+    "id": "2032"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Materlândia",
+    "id": "2033"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Mateus Leme",
+    "id": "2034"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Mathias Lobato",
+    "id": "2035"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Matias Barbosa",
+    "id": "2036"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Matias Cardoso",
+    "id": "2037"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Matipó",
+    "id": "2038"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Mato Verde",
+    "id": "2039"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Matozinhos",
+    "id": "2040"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Matutina",
+    "id": "2041"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Medeiros",
+    "id": "2042"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Medina",
+    "id": "2043"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Mendes Pimentel",
+    "id": "2044"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Mercês",
+    "id": "2045"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Mesquita",
+    "id": "2046"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Minas Novas",
+    "id": "2047"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Minduri",
+    "id": "2048"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Mirabela",
+    "id": "2049"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Miradouro",
+    "id": "2050"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Miraí",
+    "id": "2051"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Miravânia",
+    "id": "2052"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Moeda",
+    "id": "2053"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Moema",
+    "id": "2054"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Monjolos",
+    "id": "2055"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Monsenhor Paulo",
+    "id": "2056"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Montalvânia",
+    "id": "2057"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Monte Alegre de Minas",
+    "id": "2058"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Monte Azul",
+    "id": "2059"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Monte Belo",
+    "id": "2060"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Monte Carmelo",
+    "id": "2061"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Monte Formoso",
+    "id": "2062"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Monte Santo de Minas",
+    "id": "2063"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Monte Sião",
+    "id": "2064"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Montes Claros",
+    "id": "2065"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Montezuma",
+    "id": "2066"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Morada Nova de Minas",
+    "id": "2067"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Morro da Garça",
+    "id": "2068"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Morro do Pilar",
+    "id": "2069"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Munhoz",
+    "id": "2070"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Muriaé",
+    "id": "2071"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Mutum",
+    "id": "2072"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Muzambinho",
+    "id": "2073"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Nacip Raydan",
+    "id": "2074"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Nanuque",
+    "id": "2075"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Naque",
+    "id": "2076"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Natalândia",
+    "id": "2077"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Natércia",
+    "id": "2078"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Nazareno",
+    "id": "2079"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Nepomuceno",
+    "id": "2080"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ninheira",
+    "id": "2081"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Nova Belém",
+    "id": "2082"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Nova Era",
+    "id": "2083"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Nova Lima",
+    "id": "2084"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Nova Módica",
+    "id": "2085"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Nova Ponte",
+    "id": "2086"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Nova Porteirinha",
+    "id": "2087"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Nova Resende",
+    "id": "2088"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Nova Serrana",
+    "id": "2089"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Nova União",
+    "id": "2090"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Novo Cruzeiro",
+    "id": "2091"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Novo Oriente de Minas",
+    "id": "2092"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Novorizonte",
+    "id": "2093"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Olaria",
+    "id": "2094"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Olhos-d`Água",
+    "id": "2095"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Olímpio Noronha",
+    "id": "2096"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Oliveira",
+    "id": "2097"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Oliveira Fortes",
+    "id": "2098"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Onça de Pitangui",
+    "id": "2099"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Oratórios",
+    "id": "2100"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Orizânia",
+    "id": "2101"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ouro Branco",
+    "id": "2102"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ouro Fino",
+    "id": "2103"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ouro Preto",
+    "id": "2104"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ouro Verde de Minas",
+    "id": "2105"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Padre Carvalho",
+    "id": "2106"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Padre Paraíso",
+    "id": "2107"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pai Pedro",
+    "id": "2108"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Paineiras",
+    "id": "2109"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pains",
+    "id": "2110"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Paiva",
+    "id": "2111"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Palma",
+    "id": "2112"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Palmópolis",
+    "id": "2113"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Papagaios",
+    "id": "2114"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pará de Minas",
+    "id": "2115"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Paracatu",
+    "id": "2116"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Paraguaçu",
+    "id": "2117"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Paraisópolis",
+    "id": "2118"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Paraopeba",
+    "id": "2119"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Passa Quatro",
+    "id": "2120"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Passa Tempo",
+    "id": "2121"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Passabém",
+    "id": "2122"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Passa-Vinte",
+    "id": "2123"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Passos",
+    "id": "2124"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Patis",
+    "id": "2125"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Patos de Minas",
+    "id": "2126"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Patrocínio",
+    "id": "2127"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Patrocínio do Muriaé",
+    "id": "2128"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Paula Cândido",
+    "id": "2129"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Paulistas",
+    "id": "2130"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pavão",
+    "id": "2131"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Peçanha",
+    "id": "2132"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pedra Azul",
+    "id": "2133"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pedra Bonita",
+    "id": "2134"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pedra do Anta",
+    "id": "2135"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pedra do Indaiá",
+    "id": "2136"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pedra Dourada",
+    "id": "2137"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pedralva",
+    "id": "2138"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pedras de Maria da Cruz",
+    "id": "2139"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pedrinópolis",
+    "id": "2140"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pedro Leopoldo",
+    "id": "2141"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pedro Teixeira",
+    "id": "2142"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pequeri",
+    "id": "2143"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pequi",
+    "id": "2144"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Perdigão",
+    "id": "2145"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Perdizes",
+    "id": "2146"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Perdões",
+    "id": "2147"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Periquito",
+    "id": "2148"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pescador",
+    "id": "2149"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Piau",
+    "id": "2150"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Piedade de Caratinga",
+    "id": "2151"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Piedade de Ponte Nova",
+    "id": "2152"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Piedade do Rio Grande",
+    "id": "2153"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Piedade dos Gerais",
+    "id": "2154"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pimenta",
+    "id": "2155"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pingo-d`Água",
+    "id": "2156"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pintópolis",
+    "id": "2157"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Piracema",
+    "id": "2158"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pirajuba",
+    "id": "2159"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Piranga",
+    "id": "2160"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Piranguçu",
+    "id": "2161"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Piranguinho",
+    "id": "2162"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pirapetinga",
+    "id": "2163"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pirapora",
+    "id": "2164"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Piraúba",
+    "id": "2165"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pitangui",
+    "id": "2166"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Piumhi",
+    "id": "2167"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Planura",
+    "id": "2168"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Poço Fundo",
+    "id": "2169"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Poços de Caldas",
+    "id": "2170"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pocrane",
+    "id": "2171"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pompéu",
+    "id": "2172"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ponte Nova",
+    "id": "2173"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ponto Chique",
+    "id": "2174"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ponto dos Volantes",
+    "id": "2175"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Porteirinha",
+    "id": "2176"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Porto Firme",
+    "id": "2177"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Poté",
+    "id": "2178"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pouso Alegre",
+    "id": "2179"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pouso Alto",
+    "id": "2180"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Prados",
+    "id": "2181"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Prata",
+    "id": "2182"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pratápolis",
+    "id": "2183"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Pratinha",
+    "id": "2184"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Presidente Bernardes",
+    "id": "2185"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Presidente Juscelino",
+    "id": "2186"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Presidente Kubitschek",
+    "id": "2187"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Presidente Olegário",
+    "id": "2188"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Prudente de Morais",
+    "id": "2189"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Quartel Geral",
+    "id": "2190"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Queluzito",
+    "id": "2191"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Raposos",
+    "id": "2192"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Raul Soares",
+    "id": "2193"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Recreio",
+    "id": "2194"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Reduto",
+    "id": "2195"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Resende Costa",
+    "id": "2196"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Resplendor",
+    "id": "2197"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ressaquinha",
+    "id": "2198"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Riachinho",
+    "id": "2199"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Riacho dos Machados",
+    "id": "2200"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ribeirão das Neves",
+    "id": "2201"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ribeirão Vermelho",
+    "id": "2202"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rio Acima",
+    "id": "2203"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rio Casca",
+    "id": "2204"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rio do Prado",
+    "id": "2205"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rio Doce",
+    "id": "2206"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rio Espera",
+    "id": "2207"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rio Manso",
+    "id": "2208"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rio Novo",
+    "id": "2209"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rio Paranaíba",
+    "id": "2210"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rio Pardo de Minas",
+    "id": "2211"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rio Piracicaba",
+    "id": "2212"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rio Pomba",
+    "id": "2213"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rio Preto",
+    "id": "2214"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rio Vermelho",
+    "id": "2215"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ritápolis",
+    "id": "2216"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rochedo de Minas",
+    "id": "2217"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rodeiro",
+    "id": "2218"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Romaria",
+    "id": "2219"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rosário da Limeira",
+    "id": "2220"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rubelita",
+    "id": "2221"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Rubim",
+    "id": "2222"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Sabará",
+    "id": "2223"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Sabinópolis",
+    "id": "2224"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Sacramento",
+    "id": "2225"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Salinas",
+    "id": "2226"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Salto da Divisa",
+    "id": "2227"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Bárbara",
+    "id": "2228"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Bárbara do Leste",
+    "id": "2229"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Bárbara do Monte Verde",
+    "id": "2230"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Bárbara do Tugúrio",
+    "id": "2231"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Cruz de Minas",
+    "id": "2232"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Cruz de Salinas",
+    "id": "2233"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Cruz do Escalvado",
+    "id": "2234"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Efigênia de Minas",
+    "id": "2235"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Fé de Minas",
+    "id": "2236"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Helena de Minas",
+    "id": "2237"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Juliana",
+    "id": "2238"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Luzia",
+    "id": "2239"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Margarida",
+    "id": "2240"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Maria de Itabira",
+    "id": "2241"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Maria do Salto",
+    "id": "2242"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Maria do Suaçuí",
+    "id": "2243"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Rita de Caldas",
+    "id": "2244"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Rita de Ibitipoca",
+    "id": "2245"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Rita de Jacutinga",
+    "id": "2246"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Rita de Minas",
+    "id": "2247"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Rita do Itueto",
+    "id": "2248"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Rita do Sapucaí",
+    "id": "2249"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Rosa da Serra",
+    "id": "2250"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santa Vitória",
+    "id": "2251"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santana da Vargem",
+    "id": "2252"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santana de Cataguases",
+    "id": "2253"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santana de Pirapama",
+    "id": "2254"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santana do Deserto",
+    "id": "2255"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santana do Garambéu",
+    "id": "2256"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santana do Jacaré",
+    "id": "2257"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santana do Manhuaçu",
+    "id": "2258"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santana do Paraíso",
+    "id": "2259"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santana do Riacho",
+    "id": "2260"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santana dos Montes",
+    "id": "2261"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santo Antônio do Amparo",
+    "id": "2262"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santo Antônio do Aventureiro",
+    "id": "2263"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santo Antônio do Grama",
+    "id": "2264"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santo Antônio do Itambé",
+    "id": "2265"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santo Antônio do Jacinto",
+    "id": "2266"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santo Antônio do Monte",
+    "id": "2267"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santo Antônio do Retiro",
+    "id": "2268"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santo Antônio do Rio Abaixo",
+    "id": "2269"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santo Hipólito",
+    "id": "2270"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Santos Dumont",
+    "id": "2271"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Bento Abade",
+    "id": "2272"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Brás do Suaçuí",
+    "id": "2273"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Domingos das Dores",
+    "id": "2274"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Domingos do Prata",
+    "id": "2275"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Félix de Minas",
+    "id": "2276"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Francisco",
+    "id": "2277"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Francisco de Paula",
+    "id": "2278"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Francisco de Sales",
+    "id": "2279"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Francisco do Glória",
+    "id": "2280"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Geraldo",
+    "id": "2281"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Geraldo da Piedade",
+    "id": "2282"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Geraldo do Baixio",
+    "id": "2283"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Gonçalo do Abaeté",
+    "id": "2284"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Gonçalo do Pará",
+    "id": "2285"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Gonçalo do Rio Abaixo",
+    "id": "2286"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Gonçalo do Rio Preto",
+    "id": "2287"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Gonçalo do Sapucaí",
+    "id": "2288"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Gotardo",
+    "id": "2289"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São João Batista do Glória",
+    "id": "2290"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São João da Lagoa",
+    "id": "2291"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São João da Mata",
+    "id": "2292"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São João da Ponte",
+    "id": "2293"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São João das Missões",
+    "id": "2294"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São João del Rei",
+    "id": "2295"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São João do Manhuaçu",
+    "id": "2296"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São João do Manteninha",
+    "id": "2297"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São João do Oriente",
+    "id": "2298"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São João do Pacuí",
+    "id": "2299"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São João do Paraíso",
+    "id": "2300"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São João Evangelista",
+    "id": "2301"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São João Nepomuceno",
+    "id": "2302"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Joaquim de Bicas",
+    "id": "2303"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São José da Barra",
+    "id": "2304"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São José da Lapa",
+    "id": "2305"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São José da Safira",
+    "id": "2306"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São José da Varginha",
+    "id": "2307"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São José do Alegre",
+    "id": "2308"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São José do Divino",
+    "id": "2309"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São José do Goiabal",
+    "id": "2310"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São José do Jacuri",
+    "id": "2311"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São José do Mantimento",
+    "id": "2312"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Lourenço",
+    "id": "2313"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Miguel do Anta",
+    "id": "2314"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Pedro da União",
+    "id": "2315"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Pedro do Suaçuí",
+    "id": "2316"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Pedro dos Ferros",
+    "id": "2317"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Romão",
+    "id": "2318"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Roque de Minas",
+    "id": "2319"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Sebastião da Bela Vista",
+    "id": "2320"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Sebastião da Vargem Alegre",
+    "id": "2321"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Sebastião do Anta",
+    "id": "2322"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Sebastião do Maranhão",
+    "id": "2323"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Sebastião do Oeste",
+    "id": "2324"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Sebastião do Paraíso",
+    "id": "2325"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Sebastião do Rio Preto",
+    "id": "2326"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Sebastião do Rio Verde",
+    "id": "2327"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Thomé das Letras",
+    "id": "2328"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Tiago",
+    "id": "2329"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Tomás de Aquino",
+    "id": "2330"
+  },
+  {
+    "uf": "MG",
+    "cidade": "São Vicente de Minas",
+    "id": "2331"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Sapucaí-Mirim",
+    "id": "2332"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Sardoá",
+    "id": "2333"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Sarzedo",
+    "id": "2334"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Sem-Peixe",
+    "id": "2335"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Senador Amaral",
+    "id": "2336"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Senador Cortes",
+    "id": "2337"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Senador Firmino",
+    "id": "2338"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Senador José Bento",
+    "id": "2339"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Senador Modestino Gonçalves",
+    "id": "2340"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Senhora de Oliveira",
+    "id": "2341"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Senhora do Porto",
+    "id": "2342"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Senhora dos Remédios",
+    "id": "2343"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Sericita",
+    "id": "2344"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Seritinga",
+    "id": "2345"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Serra Azul de Minas",
+    "id": "2346"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Serra da Saudade",
+    "id": "2347"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Serra do Salitre",
+    "id": "2348"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Serra dos Aimorés",
+    "id": "2349"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Serrania",
+    "id": "2350"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Serranópolis de Minas",
+    "id": "2351"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Serranos",
+    "id": "2352"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Serro",
+    "id": "2353"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Sete Lagoas",
+    "id": "2354"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Setubinha",
+    "id": "2355"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Silveirânia",
+    "id": "2356"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Silvianópolis",
+    "id": "2357"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Simão Pereira",
+    "id": "2358"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Simonésia",
+    "id": "2359"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Sobrália",
+    "id": "2360"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Soledade de Minas",
+    "id": "2361"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Tabuleiro",
+    "id": "2362"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Taiobeiras",
+    "id": "2363"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Taparuba",
+    "id": "2364"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Tapira",
+    "id": "2365"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Tapiraí",
+    "id": "2366"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Taquaraçu de Minas",
+    "id": "2367"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Tarumirim",
+    "id": "2368"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Teixeiras",
+    "id": "2369"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Teófilo Otoni",
+    "id": "2370"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Timóteo",
+    "id": "2371"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Tiradentes",
+    "id": "2372"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Tiros",
+    "id": "2373"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Tocantins",
+    "id": "2374"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Tocos do Moji",
+    "id": "2375"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Toledo",
+    "id": "2376"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Tombos",
+    "id": "2377"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Três Corações",
+    "id": "2378"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Três Marias",
+    "id": "2379"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Três Pontas",
+    "id": "2380"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Tumiritinga",
+    "id": "2381"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Tupaciguara",
+    "id": "2382"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Turmalina",
+    "id": "2383"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Turvolândia",
+    "id": "2384"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ubá",
+    "id": "2385"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ubaí",
+    "id": "2386"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Ubaporanga",
+    "id": "2387"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Uberaba",
+    "id": "2388"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Uberlândia",
+    "id": "2389"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Umburatiba",
+    "id": "2390"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Unaí",
+    "id": "2391"
+  },
+  {
+    "uf": "MG",
+    "cidade": "União de Minas",
+    "id": "2392"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Uruana de Minas",
+    "id": "2393"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Urucânia",
+    "id": "2394"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Urucuia",
+    "id": "2395"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Vargem Alegre",
+    "id": "2396"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Vargem Bonita",
+    "id": "2397"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Vargem Grande do Rio Pardo",
+    "id": "2398"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Varginha",
+    "id": "2399"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Varjão de Minas",
+    "id": "2400"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Várzea da Palma",
+    "id": "2401"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Varzelândia",
+    "id": "2402"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Vazante",
+    "id": "2403"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Verdelândia",
+    "id": "2404"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Veredinha",
+    "id": "2405"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Veríssimo",
+    "id": "2406"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Vermelho Novo",
+    "id": "2407"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Vespasiano",
+    "id": "2408"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Viçosa",
+    "id": "2409"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Vieiras",
+    "id": "2410"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Virgem da Lapa",
+    "id": "2411"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Virgínia",
+    "id": "2412"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Virginópolis",
+    "id": "2413"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Virgolândia",
+    "id": "2414"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Visconde do Rio Branco",
+    "id": "2415"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Volta Grande",
+    "id": "2416"
+  },
+  {
+    "uf": "MG",
+    "cidade": "Wenceslau Braz",
+    "id": "2417"
+  }
+]

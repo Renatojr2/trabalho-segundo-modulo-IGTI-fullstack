@@ -1,7 +1,4 @@
-'use strict';
 import fs from 'fs'
-import { type } from 'os'
-
 
 
 
@@ -34,7 +31,6 @@ function createJson(city: string, state: string, uf: string) {
   cityJson.filter((city: City) => {
     const estado = stateJson.find((state: Estado) => {
       return state.Sigla === uf
-
     })
     const cidades = city.Estado === estado.ID
 
@@ -44,13 +40,10 @@ function createJson(city: string, state: string, uf: string) {
         cidade: city.Nome,
         id: city.ID
       })
-
     }
-
   })
 
-
-  fs.writeFileSync(`${uf}.json`, JSON.stringify(stateAndCities))
+  fs.writeFileSync(`${uf}.json`, JSON.stringify(stateAndCities, null, 2))
   return stateAndCities
 }
 
@@ -62,26 +55,34 @@ interface Estado {
 }
 
 
+const readState = JSON.parse(fs.readFileSync('./Estados.json').toString('utf-8'))
+readState.find((state: Estado) => {
 
+  for (let i = 1; i <= 27; i++) {
+    const uf = state.Sigla
+    createJson('./Cidades.json', './Estados.json', uf)
+   
 
-// const readState = JSON.parse(fs.readFileSync('./Estados.json').toString('utf-8'))
+  }
+})
 
-// readState.find((state: Estado) => {
-
-//   for (let i = 1; i <= 27; i++) {
-//     const uf = state.Sigla
-//     createJson('./Cidades.json', './Estados.json', uf)
-//   }
-// })
+interface City {
+  ID: string,
+  Nome: string,
+  Estado: string
+}
 
 interface Uf {
   uf: string,
   Sigla?: string
 }
-let Total: string[] = []
+
+
+
+
 function numberCities(file: string) {
   const total = JSON.parse(fs.readFileSync(file).toString('utf-8'))
-  const result = total.reduce((acc: string, {uf}:Uf) => {
+  const result = total.reduce((acc: string | any, { uf }: Uf) => {
     acc[uf] = acc[uf] + 1 || 1
     return acc
   }, {})
@@ -92,14 +93,20 @@ function numberCities(file: string) {
 let Result: string[] = []
 
 
-  
-  const total = JSON.parse(fs.readFileSync('./Estados.json').toString('utf-8'))
 
-  total.map(({Sigla}:Uf) => {
-    Result.push(numberCities(`./${Sigla}.json`))
-  })
+const total = JSON.parse(fs.readFileSync('./Estados.json').toString('utf-8'))
 
-   fs.writeFileSync('tota.json', JSON.stringify(Result))
-    
+total.map(({ Sigla }: Uf) => {
+  Result.push(numberCities(`./${Sigla}.json`))
+})
+
+fs.writeFileSync('tota.json', JSON.stringify(Result, null, 2))
+
+
+
+
+
+
+
 
 

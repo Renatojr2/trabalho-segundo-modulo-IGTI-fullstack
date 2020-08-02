@@ -1,1 +1,1117 @@
-[{"uf":"PB","cidade":"Água Branca","id":"2561"},{"uf":"PB","cidade":"Aguiar","id":"2562"},{"uf":"PB","cidade":"Alagoa Grande","id":"2563"},{"uf":"PB","cidade":"Alagoa Nova","id":"2564"},{"uf":"PB","cidade":"Alagoinha","id":"2565"},{"uf":"PB","cidade":"Alcantil","id":"2566"},{"uf":"PB","cidade":"Algodão de Jandaíra","id":"2567"},{"uf":"PB","cidade":"Alhandra","id":"2568"},{"uf":"PB","cidade":"Amparo","id":"2569"},{"uf":"PB","cidade":"Aparecida","id":"2570"},{"uf":"PB","cidade":"Araçagi","id":"2571"},{"uf":"PB","cidade":"Arara","id":"2572"},{"uf":"PB","cidade":"Araruna","id":"2573"},{"uf":"PB","cidade":"Areia","id":"2574"},{"uf":"PB","cidade":"Areia de Baraúnas","id":"2575"},{"uf":"PB","cidade":"Areial","id":"2576"},{"uf":"PB","cidade":"Aroeiras","id":"2577"},{"uf":"PB","cidade":"Assunção","id":"2578"},{"uf":"PB","cidade":"Baía da Traição","id":"2579"},{"uf":"PB","cidade":"Bananeiras","id":"2580"},{"uf":"PB","cidade":"Baraúna","id":"2581"},{"uf":"PB","cidade":"Barra de Santa Rosa","id":"2582"},{"uf":"PB","cidade":"Barra de Santana","id":"2583"},{"uf":"PB","cidade":"Barra de São Miguel","id":"2584"},{"uf":"PB","cidade":"Bayeux","id":"2585"},{"uf":"PB","cidade":"Belém","id":"2586"},{"uf":"PB","cidade":"Belém do Brejo do Cruz","id":"2587"},{"uf":"PB","cidade":"Bernardino Batista","id":"2588"},{"uf":"PB","cidade":"Boa Ventura","id":"2589"},{"uf":"PB","cidade":"Boa Vista","id":"2590"},{"uf":"PB","cidade":"Bom Jesus","id":"2591"},{"uf":"PB","cidade":"Bom Sucesso","id":"2592"},{"uf":"PB","cidade":"Bonito de Santa Fé","id":"2593"},{"uf":"PB","cidade":"Boqueirão","id":"2594"},{"uf":"PB","cidade":"Borborema","id":"2595"},{"uf":"PB","cidade":"Brejo do Cruz","id":"2596"},{"uf":"PB","cidade":"Brejo dos Santos","id":"2597"},{"uf":"PB","cidade":"Caaporã","id":"2598"},{"uf":"PB","cidade":"Cabaceiras","id":"2599"},{"uf":"PB","cidade":"Cabedelo","id":"2600"},{"uf":"PB","cidade":"Cachoeira dos Índios","id":"2601"},{"uf":"PB","cidade":"Cacimba de Areia","id":"2602"},{"uf":"PB","cidade":"Cacimba de Dentro","id":"2603"},{"uf":"PB","cidade":"Cacimbas","id":"2604"},{"uf":"PB","cidade":"Caiçara","id":"2605"},{"uf":"PB","cidade":"Cajazeiras","id":"2606"},{"uf":"PB","cidade":"Cajazeirinhas","id":"2607"},{"uf":"PB","cidade":"Caldas Brandão","id":"2608"},{"uf":"PB","cidade":"Camalaú","id":"2609"},{"uf":"PB","cidade":"Campina Grande","id":"2610"},{"uf":"PB","cidade":"Campo de Santana","id":"2611"},{"uf":"PB","cidade":"Capim","id":"2612"},{"uf":"PB","cidade":"Caraúbas","id":"2613"},{"uf":"PB","cidade":"Carrapateira","id":"2614"},{"uf":"PB","cidade":"Casserengue","id":"2615"},{"uf":"PB","cidade":"Catingueira","id":"2616"},{"uf":"PB","cidade":"Catolé do Rocha","id":"2617"},{"uf":"PB","cidade":"Caturité","id":"2618"},{"uf":"PB","cidade":"Conceição","id":"2619"},{"uf":"PB","cidade":"Condado","id":"2620"},{"uf":"PB","cidade":"Conde","id":"2621"},{"uf":"PB","cidade":"Congo","id":"2622"},{"uf":"PB","cidade":"Coremas","id":"2623"},{"uf":"PB","cidade":"Coxixola","id":"2624"},{"uf":"PB","cidade":"Cruz do Espírito Santo","id":"2625"},{"uf":"PB","cidade":"Cubati","id":"2626"},{"uf":"PB","cidade":"Cuité","id":"2627"},{"uf":"PB","cidade":"Cuité de Mamanguape","id":"2628"},{"uf":"PB","cidade":"Cuitegi","id":"2629"},{"uf":"PB","cidade":"Curral de Cima","id":"2630"},{"uf":"PB","cidade":"Curral Velho","id":"2631"},{"uf":"PB","cidade":"Damião","id":"2632"},{"uf":"PB","cidade":"Desterro","id":"2633"},{"uf":"PB","cidade":"Diamante","id":"2634"},{"uf":"PB","cidade":"Dona Inês","id":"2635"},{"uf":"PB","cidade":"Duas Estradas","id":"2636"},{"uf":"PB","cidade":"Emas","id":"2637"},{"uf":"PB","cidade":"Esperança","id":"2638"},{"uf":"PB","cidade":"Fagundes","id":"2639"},{"uf":"PB","cidade":"Frei Martinho","id":"2640"},{"uf":"PB","cidade":"Gado Bravo","id":"2641"},{"uf":"PB","cidade":"Guarabira","id":"2642"},{"uf":"PB","cidade":"Gurinhém","id":"2643"},{"uf":"PB","cidade":"Gurjão","id":"2644"},{"uf":"PB","cidade":"Ibiara","id":"2645"},{"uf":"PB","cidade":"Igaracy","id":"2646"},{"uf":"PB","cidade":"Imaculada","id":"2647"},{"uf":"PB","cidade":"Ingá","id":"2648"},{"uf":"PB","cidade":"Itabaiana","id":"2649"},{"uf":"PB","cidade":"Itaporanga","id":"2650"},{"uf":"PB","cidade":"Itapororoca","id":"2651"},{"uf":"PB","cidade":"Itatuba","id":"2652"},{"uf":"PB","cidade":"Jacaraú","id":"2653"},{"uf":"PB","cidade":"Jericó","id":"2654"},{"uf":"PB","cidade":"João Pessoa","id":"2655"},{"uf":"PB","cidade":"Juarez Távora","id":"2656"},{"uf":"PB","cidade":"Juazeirinho","id":"2657"},{"uf":"PB","cidade":"Junco do Seridó","id":"2658"},{"uf":"PB","cidade":"Juripiranga","id":"2659"},{"uf":"PB","cidade":"Juru","id":"2660"},{"uf":"PB","cidade":"Lagoa","id":"2661"},{"uf":"PB","cidade":"Lagoa de Dentro","id":"2662"},{"uf":"PB","cidade":"Lagoa Seca","id":"2663"},{"uf":"PB","cidade":"Lastro","id":"2664"},{"uf":"PB","cidade":"Livramento","id":"2665"},{"uf":"PB","cidade":"Logradouro","id":"2666"},{"uf":"PB","cidade":"Lucena","id":"2667"},{"uf":"PB","cidade":"Mãe d`Água","id":"2668"},{"uf":"PB","cidade":"Malta","id":"2669"},{"uf":"PB","cidade":"Mamanguape","id":"2670"},{"uf":"PB","cidade":"Manaíra","id":"2671"},{"uf":"PB","cidade":"Marcação","id":"2672"},{"uf":"PB","cidade":"Mari","id":"2673"},{"uf":"PB","cidade":"Marizópolis","id":"2674"},{"uf":"PB","cidade":"Massaranduba","id":"2675"},{"uf":"PB","cidade":"Mataraca","id":"2676"},{"uf":"PB","cidade":"Matinhas","id":"2677"},{"uf":"PB","cidade":"Mato Grosso","id":"2678"},{"uf":"PB","cidade":"Maturéia","id":"2679"},{"uf":"PB","cidade":"Mogeiro","id":"2680"},{"uf":"PB","cidade":"Montadas","id":"2681"},{"uf":"PB","cidade":"Monte Horebe","id":"2682"},{"uf":"PB","cidade":"Monteiro","id":"2683"},{"uf":"PB","cidade":"Mulungu","id":"2684"},{"uf":"PB","cidade":"Natuba","id":"2685"},{"uf":"PB","cidade":"Nazarezinho","id":"2686"},{"uf":"PB","cidade":"Nova Floresta","id":"2687"},{"uf":"PB","cidade":"Nova Olinda","id":"2688"},{"uf":"PB","cidade":"Nova Palmeira","id":"2689"},{"uf":"PB","cidade":"Olho d`Água","id":"2690"},{"uf":"PB","cidade":"Olivedos","id":"2691"},{"uf":"PB","cidade":"Ouro Velho","id":"2692"},{"uf":"PB","cidade":"Parari","id":"2693"},{"uf":"PB","cidade":"Passagem","id":"2694"},{"uf":"PB","cidade":"Patos","id":"2695"},{"uf":"PB","cidade":"Paulista","id":"2696"},{"uf":"PB","cidade":"Pedra Branca","id":"2697"},{"uf":"PB","cidade":"Pedra Lavrada","id":"2698"},{"uf":"PB","cidade":"Pedras de Fogo","id":"2699"},{"uf":"PB","cidade":"Pedro Régis","id":"2700"},{"uf":"PB","cidade":"Piancó","id":"2701"},{"uf":"PB","cidade":"Picuí","id":"2702"},{"uf":"PB","cidade":"Pilar","id":"2703"},{"uf":"PB","cidade":"Pilões","id":"2704"},{"uf":"PB","cidade":"Pilõezinhos","id":"2705"},{"uf":"PB","cidade":"Pirpirituba","id":"2706"},{"uf":"PB","cidade":"Pitimbu","id":"2707"},{"uf":"PB","cidade":"Pocinhos","id":"2708"},{"uf":"PB","cidade":"Poço Dantas","id":"2709"},{"uf":"PB","cidade":"Poço de José de Moura","id":"2710"},{"uf":"PB","cidade":"Pombal","id":"2711"},{"uf":"PB","cidade":"Prata","id":"2712"},{"uf":"PB","cidade":"Princesa Isabel","id":"2713"},{"uf":"PB","cidade":"Puxinanã","id":"2714"},{"uf":"PB","cidade":"Queimadas","id":"2715"},{"uf":"PB","cidade":"Quixabá","id":"2716"},{"uf":"PB","cidade":"Remígio","id":"2717"},{"uf":"PB","cidade":"Riachão","id":"2718"},{"uf":"PB","cidade":"Riachão do Bacamarte","id":"2719"},{"uf":"PB","cidade":"Riachão do Poço","id":"2720"},{"uf":"PB","cidade":"Riacho de Santo Antônio","id":"2721"},{"uf":"PB","cidade":"Riacho dos Cavalos","id":"2722"},{"uf":"PB","cidade":"Rio Tinto","id":"2723"},{"uf":"PB","cidade":"Salgadinho","id":"2724"},{"uf":"PB","cidade":"Salgado de São Félix","id":"2725"},{"uf":"PB","cidade":"Santa Cecília","id":"2726"},{"uf":"PB","cidade":"Santa Cruz","id":"2727"},{"uf":"PB","cidade":"Santa Helena","id":"2728"},{"uf":"PB","cidade":"Santa Inês","id":"2729"},{"uf":"PB","cidade":"Santa Luzia","id":"2730"},{"uf":"PB","cidade":"Santa Rita","id":"2731"},{"uf":"PB","cidade":"Santa Teresinha","id":"2732"},{"uf":"PB","cidade":"Santana de Mangueira","id":"2733"},{"uf":"PB","cidade":"Santana dos Garrotes","id":"2734"},{"uf":"PB","cidade":"Santarém","id":"2735"},{"uf":"PB","cidade":"Santo André","id":"2736"},{"uf":"PB","cidade":"São Bentinho","id":"2737"},{"uf":"PB","cidade":"São Bento","id":"2738"},{"uf":"PB","cidade":"São Domingos de Pombal","id":"2739"},{"uf":"PB","cidade":"São Domingos do Cariri","id":"2740"},{"uf":"PB","cidade":"São Francisco","id":"2741"},{"uf":"PB","cidade":"São João do Cariri","id":"2742"},{"uf":"PB","cidade":"São João do Rio do Peixe","id":"2743"},{"uf":"PB","cidade":"São João do Tigre","id":"2744"},{"uf":"PB","cidade":"São José da Lagoa Tapada","id":"2745"},{"uf":"PB","cidade":"São José de Caiana","id":"2746"},{"uf":"PB","cidade":"São José de Espinharas","id":"2747"},{"uf":"PB","cidade":"São José de Piranhas","id":"2748"},{"uf":"PB","cidade":"São José de Princesa","id":"2749"},{"uf":"PB","cidade":"São José do Bonfim","id":"2750"},{"uf":"PB","cidade":"São José do Brejo do Cruz","id":"2751"},{"uf":"PB","cidade":"São José do Sabugi","id":"2752"},{"uf":"PB","cidade":"São José dos Cordeiros","id":"2753"},{"uf":"PB","cidade":"São José dos Ramos","id":"2754"},{"uf":"PB","cidade":"São Mamede","id":"2755"},{"uf":"PB","cidade":"São Miguel de Taipu","id":"2756"},{"uf":"PB","cidade":"São Sebastião de Lagoa de Roça","id":"2757"},{"uf":"PB","cidade":"São Sebastião do Umbuzeiro","id":"2758"},{"uf":"PB","cidade":"Sapé","id":"2759"},{"uf":"PB","cidade":"Seridó","id":"2760"},{"uf":"PB","cidade":"Serra Branca","id":"2761"},{"uf":"PB","cidade":"Serra da Raiz","id":"2762"},{"uf":"PB","cidade":"Serra Grande","id":"2763"},{"uf":"PB","cidade":"Serra Redonda","id":"2764"},{"uf":"PB","cidade":"Serraria","id":"2765"},{"uf":"PB","cidade":"Sertãozinho","id":"2766"},{"uf":"PB","cidade":"Sobrado","id":"2767"},{"uf":"PB","cidade":"Solânea","id":"2768"},{"uf":"PB","cidade":"Soledade","id":"2769"},{"uf":"PB","cidade":"Sossêgo","id":"2770"},{"uf":"PB","cidade":"Sousa","id":"2771"},{"uf":"PB","cidade":"Sumé","id":"2772"},{"uf":"PB","cidade":"Taperoá","id":"2773"},{"uf":"PB","cidade":"Tavares","id":"2774"},{"uf":"PB","cidade":"Teixeira","id":"2775"},{"uf":"PB","cidade":"Tenório","id":"2776"},{"uf":"PB","cidade":"Triunfo","id":"2777"},{"uf":"PB","cidade":"Uiraúna","id":"2778"},{"uf":"PB","cidade":"Umbuzeiro","id":"2779"},{"uf":"PB","cidade":"Várzea","id":"2780"},{"uf":"PB","cidade":"Vieirópolis","id":"2781"},{"uf":"PB","cidade":"Vista Serrana","id":"2782"},{"uf":"PB","cidade":"Zabelê","id":"2783"}]
+[
+  {
+    "uf": "PB",
+    "cidade": "Água Branca",
+    "id": "2561"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Aguiar",
+    "id": "2562"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Alagoa Grande",
+    "id": "2563"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Alagoa Nova",
+    "id": "2564"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Alagoinha",
+    "id": "2565"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Alcantil",
+    "id": "2566"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Algodão de Jandaíra",
+    "id": "2567"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Alhandra",
+    "id": "2568"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Amparo",
+    "id": "2569"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Aparecida",
+    "id": "2570"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Araçagi",
+    "id": "2571"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Arara",
+    "id": "2572"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Araruna",
+    "id": "2573"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Areia",
+    "id": "2574"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Areia de Baraúnas",
+    "id": "2575"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Areial",
+    "id": "2576"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Aroeiras",
+    "id": "2577"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Assunção",
+    "id": "2578"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Baía da Traição",
+    "id": "2579"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Bananeiras",
+    "id": "2580"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Baraúna",
+    "id": "2581"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Barra de Santa Rosa",
+    "id": "2582"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Barra de Santana",
+    "id": "2583"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Barra de São Miguel",
+    "id": "2584"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Bayeux",
+    "id": "2585"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Belém",
+    "id": "2586"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Belém do Brejo do Cruz",
+    "id": "2587"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Bernardino Batista",
+    "id": "2588"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Boa Ventura",
+    "id": "2589"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Boa Vista",
+    "id": "2590"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Bom Jesus",
+    "id": "2591"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Bom Sucesso",
+    "id": "2592"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Bonito de Santa Fé",
+    "id": "2593"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Boqueirão",
+    "id": "2594"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Borborema",
+    "id": "2595"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Brejo do Cruz",
+    "id": "2596"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Brejo dos Santos",
+    "id": "2597"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Caaporã",
+    "id": "2598"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Cabaceiras",
+    "id": "2599"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Cabedelo",
+    "id": "2600"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Cachoeira dos Índios",
+    "id": "2601"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Cacimba de Areia",
+    "id": "2602"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Cacimba de Dentro",
+    "id": "2603"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Cacimbas",
+    "id": "2604"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Caiçara",
+    "id": "2605"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Cajazeiras",
+    "id": "2606"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Cajazeirinhas",
+    "id": "2607"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Caldas Brandão",
+    "id": "2608"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Camalaú",
+    "id": "2609"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Campina Grande",
+    "id": "2610"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Campo de Santana",
+    "id": "2611"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Capim",
+    "id": "2612"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Caraúbas",
+    "id": "2613"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Carrapateira",
+    "id": "2614"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Casserengue",
+    "id": "2615"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Catingueira",
+    "id": "2616"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Catolé do Rocha",
+    "id": "2617"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Caturité",
+    "id": "2618"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Conceição",
+    "id": "2619"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Condado",
+    "id": "2620"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Conde",
+    "id": "2621"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Congo",
+    "id": "2622"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Coremas",
+    "id": "2623"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Coxixola",
+    "id": "2624"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Cruz do Espírito Santo",
+    "id": "2625"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Cubati",
+    "id": "2626"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Cuité",
+    "id": "2627"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Cuité de Mamanguape",
+    "id": "2628"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Cuitegi",
+    "id": "2629"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Curral de Cima",
+    "id": "2630"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Curral Velho",
+    "id": "2631"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Damião",
+    "id": "2632"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Desterro",
+    "id": "2633"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Diamante",
+    "id": "2634"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Dona Inês",
+    "id": "2635"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Duas Estradas",
+    "id": "2636"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Emas",
+    "id": "2637"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Esperança",
+    "id": "2638"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Fagundes",
+    "id": "2639"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Frei Martinho",
+    "id": "2640"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Gado Bravo",
+    "id": "2641"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Guarabira",
+    "id": "2642"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Gurinhém",
+    "id": "2643"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Gurjão",
+    "id": "2644"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Ibiara",
+    "id": "2645"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Igaracy",
+    "id": "2646"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Imaculada",
+    "id": "2647"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Ingá",
+    "id": "2648"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Itabaiana",
+    "id": "2649"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Itaporanga",
+    "id": "2650"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Itapororoca",
+    "id": "2651"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Itatuba",
+    "id": "2652"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Jacaraú",
+    "id": "2653"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Jericó",
+    "id": "2654"
+  },
+  {
+    "uf": "PB",
+    "cidade": "João Pessoa",
+    "id": "2655"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Juarez Távora",
+    "id": "2656"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Juazeirinho",
+    "id": "2657"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Junco do Seridó",
+    "id": "2658"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Juripiranga",
+    "id": "2659"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Juru",
+    "id": "2660"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Lagoa",
+    "id": "2661"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Lagoa de Dentro",
+    "id": "2662"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Lagoa Seca",
+    "id": "2663"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Lastro",
+    "id": "2664"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Livramento",
+    "id": "2665"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Logradouro",
+    "id": "2666"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Lucena",
+    "id": "2667"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Mãe d`Água",
+    "id": "2668"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Malta",
+    "id": "2669"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Mamanguape",
+    "id": "2670"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Manaíra",
+    "id": "2671"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Marcação",
+    "id": "2672"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Mari",
+    "id": "2673"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Marizópolis",
+    "id": "2674"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Massaranduba",
+    "id": "2675"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Mataraca",
+    "id": "2676"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Matinhas",
+    "id": "2677"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Mato Grosso",
+    "id": "2678"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Maturéia",
+    "id": "2679"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Mogeiro",
+    "id": "2680"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Montadas",
+    "id": "2681"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Monte Horebe",
+    "id": "2682"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Monteiro",
+    "id": "2683"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Mulungu",
+    "id": "2684"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Natuba",
+    "id": "2685"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Nazarezinho",
+    "id": "2686"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Nova Floresta",
+    "id": "2687"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Nova Olinda",
+    "id": "2688"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Nova Palmeira",
+    "id": "2689"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Olho d`Água",
+    "id": "2690"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Olivedos",
+    "id": "2691"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Ouro Velho",
+    "id": "2692"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Parari",
+    "id": "2693"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Passagem",
+    "id": "2694"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Patos",
+    "id": "2695"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Paulista",
+    "id": "2696"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Pedra Branca",
+    "id": "2697"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Pedra Lavrada",
+    "id": "2698"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Pedras de Fogo",
+    "id": "2699"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Pedro Régis",
+    "id": "2700"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Piancó",
+    "id": "2701"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Picuí",
+    "id": "2702"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Pilar",
+    "id": "2703"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Pilões",
+    "id": "2704"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Pilõezinhos",
+    "id": "2705"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Pirpirituba",
+    "id": "2706"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Pitimbu",
+    "id": "2707"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Pocinhos",
+    "id": "2708"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Poço Dantas",
+    "id": "2709"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Poço de José de Moura",
+    "id": "2710"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Pombal",
+    "id": "2711"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Prata",
+    "id": "2712"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Princesa Isabel",
+    "id": "2713"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Puxinanã",
+    "id": "2714"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Queimadas",
+    "id": "2715"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Quixabá",
+    "id": "2716"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Remígio",
+    "id": "2717"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Riachão",
+    "id": "2718"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Riachão do Bacamarte",
+    "id": "2719"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Riachão do Poço",
+    "id": "2720"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Riacho de Santo Antônio",
+    "id": "2721"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Riacho dos Cavalos",
+    "id": "2722"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Rio Tinto",
+    "id": "2723"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Salgadinho",
+    "id": "2724"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Salgado de São Félix",
+    "id": "2725"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Santa Cecília",
+    "id": "2726"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Santa Cruz",
+    "id": "2727"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Santa Helena",
+    "id": "2728"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Santa Inês",
+    "id": "2729"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Santa Luzia",
+    "id": "2730"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Santa Rita",
+    "id": "2731"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Santa Teresinha",
+    "id": "2732"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Santana de Mangueira",
+    "id": "2733"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Santana dos Garrotes",
+    "id": "2734"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Santarém",
+    "id": "2735"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Santo André",
+    "id": "2736"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São Bentinho",
+    "id": "2737"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São Bento",
+    "id": "2738"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São Domingos de Pombal",
+    "id": "2739"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São Domingos do Cariri",
+    "id": "2740"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São Francisco",
+    "id": "2741"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São João do Cariri",
+    "id": "2742"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São João do Rio do Peixe",
+    "id": "2743"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São João do Tigre",
+    "id": "2744"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São José da Lagoa Tapada",
+    "id": "2745"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São José de Caiana",
+    "id": "2746"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São José de Espinharas",
+    "id": "2747"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São José de Piranhas",
+    "id": "2748"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São José de Princesa",
+    "id": "2749"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São José do Bonfim",
+    "id": "2750"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São José do Brejo do Cruz",
+    "id": "2751"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São José do Sabugi",
+    "id": "2752"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São José dos Cordeiros",
+    "id": "2753"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São José dos Ramos",
+    "id": "2754"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São Mamede",
+    "id": "2755"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São Miguel de Taipu",
+    "id": "2756"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São Sebastião de Lagoa de Roça",
+    "id": "2757"
+  },
+  {
+    "uf": "PB",
+    "cidade": "São Sebastião do Umbuzeiro",
+    "id": "2758"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Sapé",
+    "id": "2759"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Seridó",
+    "id": "2760"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Serra Branca",
+    "id": "2761"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Serra da Raiz",
+    "id": "2762"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Serra Grande",
+    "id": "2763"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Serra Redonda",
+    "id": "2764"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Serraria",
+    "id": "2765"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Sertãozinho",
+    "id": "2766"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Sobrado",
+    "id": "2767"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Solânea",
+    "id": "2768"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Soledade",
+    "id": "2769"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Sossêgo",
+    "id": "2770"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Sousa",
+    "id": "2771"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Sumé",
+    "id": "2772"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Taperoá",
+    "id": "2773"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Tavares",
+    "id": "2774"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Teixeira",
+    "id": "2775"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Tenório",
+    "id": "2776"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Triunfo",
+    "id": "2777"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Uiraúna",
+    "id": "2778"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Umbuzeiro",
+    "id": "2779"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Várzea",
+    "id": "2780"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Vieirópolis",
+    "id": "2781"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Vista Serrana",
+    "id": "2782"
+  },
+  {
+    "uf": "PB",
+    "cidade": "Zabelê",
+    "id": "2783"
+  }
+]

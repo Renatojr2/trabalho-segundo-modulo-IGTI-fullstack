@@ -1,1 +1,1117 @@
-[{"uf":"PI","cidade":"Acauã","id":"3368"},{"uf":"PI","cidade":"Agricolândia","id":"3369"},{"uf":"PI","cidade":"Água Branca","id":"3370"},{"uf":"PI","cidade":"Alagoinha do Piauí","id":"3371"},{"uf":"PI","cidade":"Alegrete do Piauí","id":"3372"},{"uf":"PI","cidade":"Alto Longá","id":"3373"},{"uf":"PI","cidade":"Altos","id":"3374"},{"uf":"PI","cidade":"Alvorada do Gurguéia","id":"3375"},{"uf":"PI","cidade":"Amarante","id":"3376"},{"uf":"PI","cidade":"Angical do Piauí","id":"3377"},{"uf":"PI","cidade":"Anísio de Abreu","id":"3378"},{"uf":"PI","cidade":"Antônio Almeida","id":"3379"},{"uf":"PI","cidade":"Aroazes","id":"3380"},{"uf":"PI","cidade":"Aroeiras do Itaim","id":"3381"},{"uf":"PI","cidade":"Arraial","id":"3382"},{"uf":"PI","cidade":"Assunção do Piauí","id":"3383"},{"uf":"PI","cidade":"Avelino Lopes","id":"3384"},{"uf":"PI","cidade":"Baixa Grande do Ribeiro","id":"3385"},{"uf":"PI","cidade":"Barra d`Alcântara","id":"3386"},{"uf":"PI","cidade":"Barras","id":"3387"},{"uf":"PI","cidade":"Barreiras do Piauí","id":"3388"},{"uf":"PI","cidade":"Barro Duro","id":"3389"},{"uf":"PI","cidade":"Batalha","id":"3390"},{"uf":"PI","cidade":"Bela Vista do Piauí","id":"3391"},{"uf":"PI","cidade":"Belém do Piauí","id":"3392"},{"uf":"PI","cidade":"Beneditinos","id":"3393"},{"uf":"PI","cidade":"Bertolínia","id":"3394"},{"uf":"PI","cidade":"Betânia do Piauí","id":"3395"},{"uf":"PI","cidade":"Boa Hora","id":"3396"},{"uf":"PI","cidade":"Bocaina","id":"3397"},{"uf":"PI","cidade":"Bom Jesus","id":"3398"},{"uf":"PI","cidade":"Bom Princípio do Piauí","id":"3399"},{"uf":"PI","cidade":"Bonfim do Piauí","id":"3400"},{"uf":"PI","cidade":"Boqueirão do Piauí","id":"3401"},{"uf":"PI","cidade":"Brasileira","id":"3402"},{"uf":"PI","cidade":"Brejo do Piauí","id":"3403"},{"uf":"PI","cidade":"Buriti dos Lopes","id":"3404"},{"uf":"PI","cidade":"Buriti dos Montes","id":"3405"},{"uf":"PI","cidade":"Cabeceiras do Piauí","id":"3406"},{"uf":"PI","cidade":"Cajazeiras do Piauí","id":"3407"},{"uf":"PI","cidade":"Cajueiro da Praia","id":"3408"},{"uf":"PI","cidade":"Caldeirão Grande do Piauí","id":"3409"},{"uf":"PI","cidade":"Campinas do Piauí","id":"3410"},{"uf":"PI","cidade":"Campo Alegre do Fidalgo","id":"3411"},{"uf":"PI","cidade":"Campo Grande do Piauí","id":"3412"},{"uf":"PI","cidade":"Campo Largo do Piauí","id":"3413"},{"uf":"PI","cidade":"Campo Maior","id":"3414"},{"uf":"PI","cidade":"Canavieira","id":"3415"},{"uf":"PI","cidade":"Canto do Buriti","id":"3416"},{"uf":"PI","cidade":"Capitão de Campos","id":"3417"},{"uf":"PI","cidade":"Capitão Gervásio Oliveira","id":"3418"},{"uf":"PI","cidade":"Caracol","id":"3419"},{"uf":"PI","cidade":"Caraúbas do Piauí","id":"3420"},{"uf":"PI","cidade":"Caridade do Piauí","id":"3421"},{"uf":"PI","cidade":"Castelo do Piauí","id":"3422"},{"uf":"PI","cidade":"Caxingó","id":"3423"},{"uf":"PI","cidade":"Cocal","id":"3424"},{"uf":"PI","cidade":"Cocal de Telha","id":"3425"},{"uf":"PI","cidade":"Cocal dos Alves","id":"3426"},{"uf":"PI","cidade":"Coivaras","id":"3427"},{"uf":"PI","cidade":"Colônia do Gurguéia","id":"3428"},{"uf":"PI","cidade":"Colônia do Piauí","id":"3429"},{"uf":"PI","cidade":"Conceição do Canindé","id":"3430"},{"uf":"PI","cidade":"Coronel José Dias","id":"3431"},{"uf":"PI","cidade":"Corrente","id":"3432"},{"uf":"PI","cidade":"Cristalândia do Piauí","id":"3433"},{"uf":"PI","cidade":"Cristino Castro","id":"3434"},{"uf":"PI","cidade":"Curimatá","id":"3435"},{"uf":"PI","cidade":"Currais","id":"3436"},{"uf":"PI","cidade":"Curral Novo do Piauí","id":"3437"},{"uf":"PI","cidade":"Curralinhos","id":"3438"},{"uf":"PI","cidade":"Demerval Lobão","id":"3439"},{"uf":"PI","cidade":"Dirceu Arcoverde","id":"3440"},{"uf":"PI","cidade":"Dom Expedito Lopes","id":"3441"},{"uf":"PI","cidade":"Dom Inocêncio","id":"3442"},{"uf":"PI","cidade":"Domingos Mourão","id":"3443"},{"uf":"PI","cidade":"Elesbão Veloso","id":"3444"},{"uf":"PI","cidade":"Eliseu Martins","id":"3445"},{"uf":"PI","cidade":"Esperantina","id":"3446"},{"uf":"PI","cidade":"Fartura do Piauí","id":"3447"},{"uf":"PI","cidade":"Flores do Piauí","id":"3448"},{"uf":"PI","cidade":"Floresta do Piauí","id":"3449"},{"uf":"PI","cidade":"Floriano","id":"3450"},{"uf":"PI","cidade":"Francinópolis","id":"3451"},{"uf":"PI","cidade":"Francisco Ayres","id":"3452"},{"uf":"PI","cidade":"Francisco Macedo","id":"3453"},{"uf":"PI","cidade":"Francisco Santos","id":"3454"},{"uf":"PI","cidade":"Fronteiras","id":"3455"},{"uf":"PI","cidade":"Geminiano","id":"3456"},{"uf":"PI","cidade":"Gilbués","id":"3457"},{"uf":"PI","cidade":"Guadalupe","id":"3458"},{"uf":"PI","cidade":"Guaribas","id":"3459"},{"uf":"PI","cidade":"Hugo Napoleão","id":"3460"},{"uf":"PI","cidade":"Ilha Grande","id":"3461"},{"uf":"PI","cidade":"Inhuma","id":"3462"},{"uf":"PI","cidade":"Ipiranga do Piauí","id":"3463"},{"uf":"PI","cidade":"Isaías Coelho","id":"3464"},{"uf":"PI","cidade":"Itainópolis","id":"3465"},{"uf":"PI","cidade":"Itaueira","id":"3466"},{"uf":"PI","cidade":"Jacobina do Piauí","id":"3467"},{"uf":"PI","cidade":"Jaicós","id":"3468"},{"uf":"PI","cidade":"Jardim do Mulato","id":"3469"},{"uf":"PI","cidade":"Jatobá do Piauí","id":"3470"},{"uf":"PI","cidade":"Jerumenha","id":"3471"},{"uf":"PI","cidade":"João Costa","id":"3472"},{"uf":"PI","cidade":"Joaquim Pires","id":"3473"},{"uf":"PI","cidade":"Joca Marques","id":"3474"},{"uf":"PI","cidade":"José de Freitas","id":"3475"},{"uf":"PI","cidade":"Juazeiro do Piauí","id":"3476"},{"uf":"PI","cidade":"Júlio Borges","id":"3477"},{"uf":"PI","cidade":"Jurema","id":"3478"},{"uf":"PI","cidade":"Lagoa Alegre","id":"3479"},{"uf":"PI","cidade":"Lagoa de São Francisco","id":"3480"},{"uf":"PI","cidade":"Lagoa do Barro do Piauí","id":"3481"},{"uf":"PI","cidade":"Lagoa do Piauí","id":"3482"},{"uf":"PI","cidade":"Lagoa do Sítio","id":"3483"},{"uf":"PI","cidade":"Lagoinha do Piauí","id":"3484"},{"uf":"PI","cidade":"Landri Sales","id":"3485"},{"uf":"PI","cidade":"Luís Correia","id":"3486"},{"uf":"PI","cidade":"Luzilândia","id":"3487"},{"uf":"PI","cidade":"Madeiro","id":"3488"},{"uf":"PI","cidade":"Manoel Emídio","id":"3489"},{"uf":"PI","cidade":"Marcolândia","id":"3490"},{"uf":"PI","cidade":"Marcos Parente","id":"3491"},{"uf":"PI","cidade":"Massapê do Piauí","id":"3492"},{"uf":"PI","cidade":"Matias Olímpio","id":"3493"},{"uf":"PI","cidade":"Miguel Alves","id":"3494"},{"uf":"PI","cidade":"Miguel Leão","id":"3495"},{"uf":"PI","cidade":"Milton Brandão","id":"3496"},{"uf":"PI","cidade":"Monsenhor Gil","id":"3497"},{"uf":"PI","cidade":"Monsenhor Hipólito","id":"3498"},{"uf":"PI","cidade":"Monte Alegre do Piauí","id":"3499"},{"uf":"PI","cidade":"Morro Cabeça no Tempo","id":"3500"},{"uf":"PI","cidade":"Morro do Chapéu do Piauí","id":"3501"},{"uf":"PI","cidade":"Murici dos Portelas","id":"3502"},{"uf":"PI","cidade":"Nazaré do Piauí","id":"3503"},{"uf":"PI","cidade":"Nossa Senhora de Nazaré","id":"3504"},{"uf":"PI","cidade":"Nossa Senhora dos Remédios","id":"3505"},{"uf":"PI","cidade":"Nova Santa Rita","id":"3506"},{"uf":"PI","cidade":"Novo Oriente do Piauí","id":"3507"},{"uf":"PI","cidade":"Novo Santo Antônio","id":"3508"},{"uf":"PI","cidade":"Oeiras","id":"3509"},{"uf":"PI","cidade":"Olho d`Água do Piauí","id":"3510"},{"uf":"PI","cidade":"Padre Marcos","id":"3511"},{"uf":"PI","cidade":"Paes Landim","id":"3512"},{"uf":"PI","cidade":"Pajeú do Piauí","id":"3513"},{"uf":"PI","cidade":"Palmeira do Piauí","id":"3514"},{"uf":"PI","cidade":"Palmeirais","id":"3515"},{"uf":"PI","cidade":"Paquetá","id":"3516"},{"uf":"PI","cidade":"Parnaguá","id":"3517"},{"uf":"PI","cidade":"Parnaíba","id":"3518"},{"uf":"PI","cidade":"Passagem Franca do Piauí","id":"3519"},{"uf":"PI","cidade":"Patos do Piauí","id":"3520"},{"uf":"PI","cidade":"Pau d`Arco do Piauí","id":"3521"},{"uf":"PI","cidade":"Paulistana","id":"3522"},{"uf":"PI","cidade":"Pavussu","id":"3523"},{"uf":"PI","cidade":"Pedro II","id":"3524"},{"uf":"PI","cidade":"Pedro Laurentino","id":"3525"},{"uf":"PI","cidade":"Picos","id":"3526"},{"uf":"PI","cidade":"Pimenteiras","id":"3527"},{"uf":"PI","cidade":"Pio IX","id":"3528"},{"uf":"PI","cidade":"Piracuruca","id":"3529"},{"uf":"PI","cidade":"Piripiri","id":"3530"},{"uf":"PI","cidade":"Porto","id":"3531"},{"uf":"PI","cidade":"Porto Alegre do Piauí","id":"3532"},{"uf":"PI","cidade":"Prata do Piauí","id":"3533"},{"uf":"PI","cidade":"Queimada Nova","id":"3534"},{"uf":"PI","cidade":"Redenção do Gurguéia","id":"3535"},{"uf":"PI","cidade":"Regeneração","id":"3536"},{"uf":"PI","cidade":"Riacho Frio","id":"3537"},{"uf":"PI","cidade":"Ribeira do Piauí","id":"3538"},{"uf":"PI","cidade":"Ribeiro Gonçalves","id":"3539"},{"uf":"PI","cidade":"Rio Grande do Piauí","id":"3540"},{"uf":"PI","cidade":"Santa Cruz do Piauí","id":"3541"},{"uf":"PI","cidade":"Santa Cruz dos Milagres","id":"3542"},{"uf":"PI","cidade":"Santa Filomena","id":"3543"},{"uf":"PI","cidade":"Santa Luz","id":"3544"},{"uf":"PI","cidade":"Santa Rosa do Piauí","id":"3545"},{"uf":"PI","cidade":"Santana do Piauí","id":"3546"},{"uf":"PI","cidade":"Santo Antônio de Lisboa","id":"3547"},{"uf":"PI","cidade":"Santo Antônio dos Milagres","id":"3548"},{"uf":"PI","cidade":"Santo Inácio do Piauí","id":"3549"},{"uf":"PI","cidade":"São Braz do Piauí","id":"3550"},{"uf":"PI","cidade":"São Félix do Piauí","id":"3551"},{"uf":"PI","cidade":"São Francisco de Assis do Piauí","id":"3552"},{"uf":"PI","cidade":"São Francisco do Piauí","id":"3553"},{"uf":"PI","cidade":"São Gonçalo do Gurguéia","id":"3554"},{"uf":"PI","cidade":"São Gonçalo do Piauí","id":"3555"},{"uf":"PI","cidade":"São João da Canabrava","id":"3556"},{"uf":"PI","cidade":"São João da Fronteira","id":"3557"},{"uf":"PI","cidade":"São João da Serra","id":"3558"},{"uf":"PI","cidade":"São João da Varjota","id":"3559"},{"uf":"PI","cidade":"São João do Arraial","id":"3560"},{"uf":"PI","cidade":"São João do Piauí","id":"3561"},{"uf":"PI","cidade":"São José do Divino","id":"3562"},{"uf":"PI","cidade":"São José do Peixe","id":"3563"},{"uf":"PI","cidade":"São José do Piauí","id":"3564"},{"uf":"PI","cidade":"São Julião","id":"3565"},{"uf":"PI","cidade":"São Lourenço do Piauí","id":"3566"},{"uf":"PI","cidade":"São Luis do Piauí","id":"3567"},{"uf":"PI","cidade":"São Miguel da Baixa Grande","id":"3568"},{"uf":"PI","cidade":"São Miguel do Fidalgo","id":"3569"},{"uf":"PI","cidade":"São Miguel do Tapuio","id":"3570"},{"uf":"PI","cidade":"São Pedro do Piauí","id":"3571"},{"uf":"PI","cidade":"São Raimundo Nonato","id":"3572"},{"uf":"PI","cidade":"Sebastião Barros","id":"3573"},{"uf":"PI","cidade":"Sebastião Leal","id":"3574"},{"uf":"PI","cidade":"Sigefredo Pacheco","id":"3575"},{"uf":"PI","cidade":"Simões","id":"3576"},{"uf":"PI","cidade":"Simplício Mendes","id":"3577"},{"uf":"PI","cidade":"Socorro do Piauí","id":"3578"},{"uf":"PI","cidade":"Sussuapara","id":"3579"},{"uf":"PI","cidade":"Tamboril do Piauí","id":"3580"},{"uf":"PI","cidade":"Tanque do Piauí","id":"3581"},{"uf":"PI","cidade":"Teresina","id":"3582"},{"uf":"PI","cidade":"União","id":"3583"},{"uf":"PI","cidade":"Uruçuí","id":"3584"},{"uf":"PI","cidade":"Valença do Piauí","id":"3585"},{"uf":"PI","cidade":"Várzea Branca","id":"3586"},{"uf":"PI","cidade":"Várzea Grande","id":"3587"},{"uf":"PI","cidade":"Vera Mendes","id":"3588"},{"uf":"PI","cidade":"Vila Nova do Piauí","id":"3589"},{"uf":"PI","cidade":"Wall Ferraz","id":"3590"}]
+[
+  {
+    "uf": "PI",
+    "cidade": "Acauã",
+    "id": "3368"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Agricolândia",
+    "id": "3369"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Água Branca",
+    "id": "3370"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Alagoinha do Piauí",
+    "id": "3371"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Alegrete do Piauí",
+    "id": "3372"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Alto Longá",
+    "id": "3373"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Altos",
+    "id": "3374"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Alvorada do Gurguéia",
+    "id": "3375"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Amarante",
+    "id": "3376"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Angical do Piauí",
+    "id": "3377"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Anísio de Abreu",
+    "id": "3378"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Antônio Almeida",
+    "id": "3379"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Aroazes",
+    "id": "3380"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Aroeiras do Itaim",
+    "id": "3381"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Arraial",
+    "id": "3382"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Assunção do Piauí",
+    "id": "3383"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Avelino Lopes",
+    "id": "3384"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Baixa Grande do Ribeiro",
+    "id": "3385"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Barra d`Alcântara",
+    "id": "3386"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Barras",
+    "id": "3387"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Barreiras do Piauí",
+    "id": "3388"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Barro Duro",
+    "id": "3389"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Batalha",
+    "id": "3390"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Bela Vista do Piauí",
+    "id": "3391"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Belém do Piauí",
+    "id": "3392"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Beneditinos",
+    "id": "3393"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Bertolínia",
+    "id": "3394"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Betânia do Piauí",
+    "id": "3395"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Boa Hora",
+    "id": "3396"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Bocaina",
+    "id": "3397"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Bom Jesus",
+    "id": "3398"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Bom Princípio do Piauí",
+    "id": "3399"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Bonfim do Piauí",
+    "id": "3400"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Boqueirão do Piauí",
+    "id": "3401"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Brasileira",
+    "id": "3402"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Brejo do Piauí",
+    "id": "3403"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Buriti dos Lopes",
+    "id": "3404"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Buriti dos Montes",
+    "id": "3405"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Cabeceiras do Piauí",
+    "id": "3406"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Cajazeiras do Piauí",
+    "id": "3407"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Cajueiro da Praia",
+    "id": "3408"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Caldeirão Grande do Piauí",
+    "id": "3409"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Campinas do Piauí",
+    "id": "3410"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Campo Alegre do Fidalgo",
+    "id": "3411"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Campo Grande do Piauí",
+    "id": "3412"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Campo Largo do Piauí",
+    "id": "3413"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Campo Maior",
+    "id": "3414"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Canavieira",
+    "id": "3415"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Canto do Buriti",
+    "id": "3416"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Capitão de Campos",
+    "id": "3417"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Capitão Gervásio Oliveira",
+    "id": "3418"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Caracol",
+    "id": "3419"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Caraúbas do Piauí",
+    "id": "3420"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Caridade do Piauí",
+    "id": "3421"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Castelo do Piauí",
+    "id": "3422"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Caxingó",
+    "id": "3423"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Cocal",
+    "id": "3424"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Cocal de Telha",
+    "id": "3425"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Cocal dos Alves",
+    "id": "3426"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Coivaras",
+    "id": "3427"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Colônia do Gurguéia",
+    "id": "3428"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Colônia do Piauí",
+    "id": "3429"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Conceição do Canindé",
+    "id": "3430"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Coronel José Dias",
+    "id": "3431"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Corrente",
+    "id": "3432"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Cristalândia do Piauí",
+    "id": "3433"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Cristino Castro",
+    "id": "3434"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Curimatá",
+    "id": "3435"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Currais",
+    "id": "3436"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Curral Novo do Piauí",
+    "id": "3437"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Curralinhos",
+    "id": "3438"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Demerval Lobão",
+    "id": "3439"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Dirceu Arcoverde",
+    "id": "3440"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Dom Expedito Lopes",
+    "id": "3441"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Dom Inocêncio",
+    "id": "3442"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Domingos Mourão",
+    "id": "3443"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Elesbão Veloso",
+    "id": "3444"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Eliseu Martins",
+    "id": "3445"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Esperantina",
+    "id": "3446"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Fartura do Piauí",
+    "id": "3447"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Flores do Piauí",
+    "id": "3448"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Floresta do Piauí",
+    "id": "3449"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Floriano",
+    "id": "3450"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Francinópolis",
+    "id": "3451"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Francisco Ayres",
+    "id": "3452"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Francisco Macedo",
+    "id": "3453"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Francisco Santos",
+    "id": "3454"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Fronteiras",
+    "id": "3455"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Geminiano",
+    "id": "3456"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Gilbués",
+    "id": "3457"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Guadalupe",
+    "id": "3458"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Guaribas",
+    "id": "3459"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Hugo Napoleão",
+    "id": "3460"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Ilha Grande",
+    "id": "3461"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Inhuma",
+    "id": "3462"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Ipiranga do Piauí",
+    "id": "3463"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Isaías Coelho",
+    "id": "3464"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Itainópolis",
+    "id": "3465"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Itaueira",
+    "id": "3466"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Jacobina do Piauí",
+    "id": "3467"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Jaicós",
+    "id": "3468"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Jardim do Mulato",
+    "id": "3469"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Jatobá do Piauí",
+    "id": "3470"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Jerumenha",
+    "id": "3471"
+  },
+  {
+    "uf": "PI",
+    "cidade": "João Costa",
+    "id": "3472"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Joaquim Pires",
+    "id": "3473"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Joca Marques",
+    "id": "3474"
+  },
+  {
+    "uf": "PI",
+    "cidade": "José de Freitas",
+    "id": "3475"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Juazeiro do Piauí",
+    "id": "3476"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Júlio Borges",
+    "id": "3477"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Jurema",
+    "id": "3478"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Lagoa Alegre",
+    "id": "3479"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Lagoa de São Francisco",
+    "id": "3480"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Lagoa do Barro do Piauí",
+    "id": "3481"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Lagoa do Piauí",
+    "id": "3482"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Lagoa do Sítio",
+    "id": "3483"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Lagoinha do Piauí",
+    "id": "3484"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Landri Sales",
+    "id": "3485"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Luís Correia",
+    "id": "3486"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Luzilândia",
+    "id": "3487"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Madeiro",
+    "id": "3488"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Manoel Emídio",
+    "id": "3489"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Marcolândia",
+    "id": "3490"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Marcos Parente",
+    "id": "3491"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Massapê do Piauí",
+    "id": "3492"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Matias Olímpio",
+    "id": "3493"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Miguel Alves",
+    "id": "3494"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Miguel Leão",
+    "id": "3495"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Milton Brandão",
+    "id": "3496"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Monsenhor Gil",
+    "id": "3497"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Monsenhor Hipólito",
+    "id": "3498"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Monte Alegre do Piauí",
+    "id": "3499"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Morro Cabeça no Tempo",
+    "id": "3500"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Morro do Chapéu do Piauí",
+    "id": "3501"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Murici dos Portelas",
+    "id": "3502"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Nazaré do Piauí",
+    "id": "3503"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Nossa Senhora de Nazaré",
+    "id": "3504"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Nossa Senhora dos Remédios",
+    "id": "3505"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Nova Santa Rita",
+    "id": "3506"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Novo Oriente do Piauí",
+    "id": "3507"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Novo Santo Antônio",
+    "id": "3508"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Oeiras",
+    "id": "3509"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Olho d`Água do Piauí",
+    "id": "3510"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Padre Marcos",
+    "id": "3511"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Paes Landim",
+    "id": "3512"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Pajeú do Piauí",
+    "id": "3513"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Palmeira do Piauí",
+    "id": "3514"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Palmeirais",
+    "id": "3515"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Paquetá",
+    "id": "3516"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Parnaguá",
+    "id": "3517"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Parnaíba",
+    "id": "3518"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Passagem Franca do Piauí",
+    "id": "3519"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Patos do Piauí",
+    "id": "3520"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Pau d`Arco do Piauí",
+    "id": "3521"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Paulistana",
+    "id": "3522"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Pavussu",
+    "id": "3523"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Pedro II",
+    "id": "3524"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Pedro Laurentino",
+    "id": "3525"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Picos",
+    "id": "3526"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Pimenteiras",
+    "id": "3527"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Pio IX",
+    "id": "3528"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Piracuruca",
+    "id": "3529"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Piripiri",
+    "id": "3530"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Porto",
+    "id": "3531"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Porto Alegre do Piauí",
+    "id": "3532"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Prata do Piauí",
+    "id": "3533"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Queimada Nova",
+    "id": "3534"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Redenção do Gurguéia",
+    "id": "3535"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Regeneração",
+    "id": "3536"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Riacho Frio",
+    "id": "3537"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Ribeira do Piauí",
+    "id": "3538"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Ribeiro Gonçalves",
+    "id": "3539"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Rio Grande do Piauí",
+    "id": "3540"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Santa Cruz do Piauí",
+    "id": "3541"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Santa Cruz dos Milagres",
+    "id": "3542"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Santa Filomena",
+    "id": "3543"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Santa Luz",
+    "id": "3544"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Santa Rosa do Piauí",
+    "id": "3545"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Santana do Piauí",
+    "id": "3546"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Santo Antônio de Lisboa",
+    "id": "3547"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Santo Antônio dos Milagres",
+    "id": "3548"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Santo Inácio do Piauí",
+    "id": "3549"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São Braz do Piauí",
+    "id": "3550"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São Félix do Piauí",
+    "id": "3551"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São Francisco de Assis do Piauí",
+    "id": "3552"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São Francisco do Piauí",
+    "id": "3553"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São Gonçalo do Gurguéia",
+    "id": "3554"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São Gonçalo do Piauí",
+    "id": "3555"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São João da Canabrava",
+    "id": "3556"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São João da Fronteira",
+    "id": "3557"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São João da Serra",
+    "id": "3558"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São João da Varjota",
+    "id": "3559"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São João do Arraial",
+    "id": "3560"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São João do Piauí",
+    "id": "3561"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São José do Divino",
+    "id": "3562"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São José do Peixe",
+    "id": "3563"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São José do Piauí",
+    "id": "3564"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São Julião",
+    "id": "3565"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São Lourenço do Piauí",
+    "id": "3566"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São Luis do Piauí",
+    "id": "3567"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São Miguel da Baixa Grande",
+    "id": "3568"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São Miguel do Fidalgo",
+    "id": "3569"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São Miguel do Tapuio",
+    "id": "3570"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São Pedro do Piauí",
+    "id": "3571"
+  },
+  {
+    "uf": "PI",
+    "cidade": "São Raimundo Nonato",
+    "id": "3572"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Sebastião Barros",
+    "id": "3573"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Sebastião Leal",
+    "id": "3574"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Sigefredo Pacheco",
+    "id": "3575"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Simões",
+    "id": "3576"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Simplício Mendes",
+    "id": "3577"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Socorro do Piauí",
+    "id": "3578"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Sussuapara",
+    "id": "3579"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Tamboril do Piauí",
+    "id": "3580"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Tanque do Piauí",
+    "id": "3581"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Teresina",
+    "id": "3582"
+  },
+  {
+    "uf": "PI",
+    "cidade": "União",
+    "id": "3583"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Uruçuí",
+    "id": "3584"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Valença do Piauí",
+    "id": "3585"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Várzea Branca",
+    "id": "3586"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Várzea Grande",
+    "id": "3587"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Vera Mendes",
+    "id": "3588"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Vila Nova do Piauí",
+    "id": "3589"
+  },
+  {
+    "uf": "PI",
+    "cidade": "Wall Ferraz",
+    "id": "3590"
+  }
+]

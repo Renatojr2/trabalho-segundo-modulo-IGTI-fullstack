@@ -1,1 +1,922 @@
-[{"uf":"CE","cidade":"Abaiara","id":"698"},{"uf":"CE","cidade":"Acarape","id":"699"},{"uf":"CE","cidade":"Acaraú","id":"700"},{"uf":"CE","cidade":"Acopiara","id":"701"},{"uf":"CE","cidade":"Aiuaba","id":"702"},{"uf":"CE","cidade":"Alcântaras","id":"703"},{"uf":"CE","cidade":"Altaneira","id":"704"},{"uf":"CE","cidade":"Alto Santo","id":"705"},{"uf":"CE","cidade":"Amontada","id":"706"},{"uf":"CE","cidade":"Antonina do Norte","id":"707"},{"uf":"CE","cidade":"Apuiarés","id":"708"},{"uf":"CE","cidade":"Aquiraz","id":"709"},{"uf":"CE","cidade":"Aracati","id":"710"},{"uf":"CE","cidade":"Aracoiaba","id":"711"},{"uf":"CE","cidade":"Ararendá","id":"712"},{"uf":"CE","cidade":"Araripe","id":"713"},{"uf":"CE","cidade":"Aratuba","id":"714"},{"uf":"CE","cidade":"Arneiroz","id":"715"},{"uf":"CE","cidade":"Assaré","id":"716"},{"uf":"CE","cidade":"Aurora","id":"717"},{"uf":"CE","cidade":"Baixio","id":"718"},{"uf":"CE","cidade":"Banabuiú","id":"719"},{"uf":"CE","cidade":"Barbalha","id":"720"},{"uf":"CE","cidade":"Barreira","id":"721"},{"uf":"CE","cidade":"Barro","id":"722"},{"uf":"CE","cidade":"Barroquinha","id":"723"},{"uf":"CE","cidade":"Baturité","id":"724"},{"uf":"CE","cidade":"Beberibe","id":"725"},{"uf":"CE","cidade":"Bela Cruz","id":"726"},{"uf":"CE","cidade":"Boa Viagem","id":"727"},{"uf":"CE","cidade":"Brejo Santo","id":"728"},{"uf":"CE","cidade":"Camocim","id":"729"},{"uf":"CE","cidade":"Campos Sales","id":"730"},{"uf":"CE","cidade":"Canindé","id":"731"},{"uf":"CE","cidade":"Capistrano","id":"732"},{"uf":"CE","cidade":"Caridade","id":"733"},{"uf":"CE","cidade":"Cariré","id":"734"},{"uf":"CE","cidade":"Caririaçu","id":"735"},{"uf":"CE","cidade":"Cariús","id":"736"},{"uf":"CE","cidade":"Carnaubal","id":"737"},{"uf":"CE","cidade":"Cascavel","id":"738"},{"uf":"CE","cidade":"Catarina","id":"739"},{"uf":"CE","cidade":"Catunda","id":"740"},{"uf":"CE","cidade":"Caucaia","id":"741"},{"uf":"CE","cidade":"Cedro","id":"742"},{"uf":"CE","cidade":"Chaval","id":"743"},{"uf":"CE","cidade":"Choró","id":"744"},{"uf":"CE","cidade":"Chorozinho","id":"745"},{"uf":"CE","cidade":"Coreaú","id":"746"},{"uf":"CE","cidade":"Crateús","id":"747"},{"uf":"CE","cidade":"Crato","id":"748"},{"uf":"CE","cidade":"Croatá","id":"749"},{"uf":"CE","cidade":"Cruz","id":"750"},{"uf":"CE","cidade":"Deputado Irapuan Pinheiro","id":"751"},{"uf":"CE","cidade":"Ererê","id":"752"},{"uf":"CE","cidade":"Eusébio","id":"753"},{"uf":"CE","cidade":"Farias Brito","id":"754"},{"uf":"CE","cidade":"Forquilha","id":"755"},{"uf":"CE","cidade":"Fortaleza","id":"756"},{"uf":"CE","cidade":"Fortim","id":"757"},{"uf":"CE","cidade":"Frecheirinha","id":"758"},{"uf":"CE","cidade":"General Sampaio","id":"759"},{"uf":"CE","cidade":"Graça","id":"760"},{"uf":"CE","cidade":"Granja","id":"761"},{"uf":"CE","cidade":"Granjeiro","id":"762"},{"uf":"CE","cidade":"Groaíras","id":"763"},{"uf":"CE","cidade":"Guaiúba","id":"764"},{"uf":"CE","cidade":"Guaraciaba do Norte","id":"765"},{"uf":"CE","cidade":"Guaramiranga","id":"766"},{"uf":"CE","cidade":"Hidrolândia","id":"767"},{"uf":"CE","cidade":"Horizonte","id":"768"},{"uf":"CE","cidade":"Ibaretama","id":"769"},{"uf":"CE","cidade":"Ibiapina","id":"770"},{"uf":"CE","cidade":"Ibicuitinga","id":"771"},{"uf":"CE","cidade":"Icapuí","id":"772"},{"uf":"CE","cidade":"Icó","id":"773"},{"uf":"CE","cidade":"Iguatu","id":"774"},{"uf":"CE","cidade":"Independência","id":"775"},{"uf":"CE","cidade":"Ipaporanga","id":"776"},{"uf":"CE","cidade":"Ipaumirim","id":"777"},{"uf":"CE","cidade":"Ipu","id":"778"},{"uf":"CE","cidade":"Ipueiras","id":"779"},{"uf":"CE","cidade":"Iracema","id":"780"},{"uf":"CE","cidade":"Irauçuba","id":"781"},{"uf":"CE","cidade":"Itaiçaba","id":"782"},{"uf":"CE","cidade":"Itaitinga","id":"783"},{"uf":"CE","cidade":"Itapagé","id":"784"},{"uf":"CE","cidade":"Itapipoca","id":"785"},{"uf":"CE","cidade":"Itapiúna","id":"786"},{"uf":"CE","cidade":"Itarema","id":"787"},{"uf":"CE","cidade":"Itatira","id":"788"},{"uf":"CE","cidade":"Jaguaretama","id":"789"},{"uf":"CE","cidade":"Jaguaribara","id":"790"},{"uf":"CE","cidade":"Jaguaribe","id":"791"},{"uf":"CE","cidade":"Jaguaruana","id":"792"},{"uf":"CE","cidade":"Jardim","id":"793"},{"uf":"CE","cidade":"Jati","id":"794"},{"uf":"CE","cidade":"Jijoca de Jericoacoara","id":"795"},{"uf":"CE","cidade":"Juazeiro do Norte","id":"796"},{"uf":"CE","cidade":"Jucás","id":"797"},{"uf":"CE","cidade":"Lavras da Mangabeira","id":"798"},{"uf":"CE","cidade":"Limoeiro do Norte","id":"799"},{"uf":"CE","cidade":"Madalena","id":"800"},{"uf":"CE","cidade":"Maracanaú","id":"801"},{"uf":"CE","cidade":"Maranguape","id":"802"},{"uf":"CE","cidade":"Marco","id":"803"},{"uf":"CE","cidade":"Martinópole","id":"804"},{"uf":"CE","cidade":"Massapê","id":"805"},{"uf":"CE","cidade":"Mauriti","id":"806"},{"uf":"CE","cidade":"Meruoca","id":"807"},{"uf":"CE","cidade":"Milagres","id":"808"},{"uf":"CE","cidade":"Milhã","id":"809"},{"uf":"CE","cidade":"Miraíma","id":"810"},{"uf":"CE","cidade":"Missão Velha","id":"811"},{"uf":"CE","cidade":"Mombaça","id":"812"},{"uf":"CE","cidade":"Monsenhor Tabosa","id":"813"},{"uf":"CE","cidade":"Morada Nova","id":"814"},{"uf":"CE","cidade":"Moraújo","id":"815"},{"uf":"CE","cidade":"Morrinhos","id":"816"},{"uf":"CE","cidade":"Mucambo","id":"817"},{"uf":"CE","cidade":"Mulungu","id":"818"},{"uf":"CE","cidade":"Nova Olinda","id":"819"},{"uf":"CE","cidade":"Nova Russas","id":"820"},{"uf":"CE","cidade":"Novo Oriente","id":"821"},{"uf":"CE","cidade":"Ocara","id":"822"},{"uf":"CE","cidade":"Orós","id":"823"},{"uf":"CE","cidade":"Pacajus","id":"824"},{"uf":"CE","cidade":"Pacatuba","id":"825"},{"uf":"CE","cidade":"Pacoti","id":"826"},{"uf":"CE","cidade":"Pacujá","id":"827"},{"uf":"CE","cidade":"Palhano","id":"828"},{"uf":"CE","cidade":"Palmácia","id":"829"},{"uf":"CE","cidade":"Paracuru","id":"830"},{"uf":"CE","cidade":"Paraipaba","id":"831"},{"uf":"CE","cidade":"Parambu","id":"832"},{"uf":"CE","cidade":"Paramoti","id":"833"},{"uf":"CE","cidade":"Pedra Branca","id":"834"},{"uf":"CE","cidade":"Penaforte","id":"835"},{"uf":"CE","cidade":"Pentecoste","id":"836"},{"uf":"CE","cidade":"Pereiro","id":"837"},{"uf":"CE","cidade":"Pindoretama","id":"838"},{"uf":"CE","cidade":"Piquet Carneiro","id":"839"},{"uf":"CE","cidade":"Pires Ferreira","id":"840"},{"uf":"CE","cidade":"Poranga","id":"841"},{"uf":"CE","cidade":"Porteiras","id":"842"},{"uf":"CE","cidade":"Potengi","id":"843"},{"uf":"CE","cidade":"Potiretama","id":"844"},{"uf":"CE","cidade":"Quiterianópolis","id":"845"},{"uf":"CE","cidade":"Quixadá","id":"846"},{"uf":"CE","cidade":"Quixelô","id":"847"},{"uf":"CE","cidade":"Quixeramobim","id":"848"},{"uf":"CE","cidade":"Quixeré","id":"849"},{"uf":"CE","cidade":"Redenção","id":"850"},{"uf":"CE","cidade":"Reriutaba","id":"851"},{"uf":"CE","cidade":"Russas","id":"852"},{"uf":"CE","cidade":"Saboeiro","id":"853"},{"uf":"CE","cidade":"Salitre","id":"854"},{"uf":"CE","cidade":"Santa Quitéria","id":"855"},{"uf":"CE","cidade":"Santana do Acaraú","id":"856"},{"uf":"CE","cidade":"Santana do Cariri","id":"857"},{"uf":"CE","cidade":"São Benedito","id":"858"},{"uf":"CE","cidade":"São Gonçalo do Amarante","id":"859"},{"uf":"CE","cidade":"São João do Jaguaribe","id":"860"},{"uf":"CE","cidade":"São Luís do Curu","id":"861"},{"uf":"CE","cidade":"Senador Pompeu","id":"862"},{"uf":"CE","cidade":"Senador Sá","id":"863"},{"uf":"CE","cidade":"Sobral","id":"864"},{"uf":"CE","cidade":"Solonópole","id":"865"},{"uf":"CE","cidade":"Tabuleiro do Norte","id":"866"},{"uf":"CE","cidade":"Tamboril","id":"867"},{"uf":"CE","cidade":"Tarrafas","id":"868"},{"uf":"CE","cidade":"Tauá","id":"869"},{"uf":"CE","cidade":"Tejuçuoca","id":"870"},{"uf":"CE","cidade":"Tianguá","id":"871"},{"uf":"CE","cidade":"Trairi","id":"872"},{"uf":"CE","cidade":"Tururu","id":"873"},{"uf":"CE","cidade":"Ubajara","id":"874"},{"uf":"CE","cidade":"Umari","id":"875"},{"uf":"CE","cidade":"Umirim","id":"876"},{"uf":"CE","cidade":"Uruburetama","id":"877"},{"uf":"CE","cidade":"Uruoca","id":"878"},{"uf":"CE","cidade":"Varjota","id":"879"},{"uf":"CE","cidade":"Várzea Alegre","id":"880"},{"uf":"CE","cidade":"Viçosa do Ceará","id":"881"}]
+[
+  {
+    "uf": "CE",
+    "cidade": "Abaiara",
+    "id": "698"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Acarape",
+    "id": "699"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Acaraú",
+    "id": "700"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Acopiara",
+    "id": "701"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Aiuaba",
+    "id": "702"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Alcântaras",
+    "id": "703"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Altaneira",
+    "id": "704"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Alto Santo",
+    "id": "705"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Amontada",
+    "id": "706"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Antonina do Norte",
+    "id": "707"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Apuiarés",
+    "id": "708"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Aquiraz",
+    "id": "709"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Aracati",
+    "id": "710"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Aracoiaba",
+    "id": "711"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Ararendá",
+    "id": "712"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Araripe",
+    "id": "713"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Aratuba",
+    "id": "714"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Arneiroz",
+    "id": "715"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Assaré",
+    "id": "716"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Aurora",
+    "id": "717"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Baixio",
+    "id": "718"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Banabuiú",
+    "id": "719"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Barbalha",
+    "id": "720"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Barreira",
+    "id": "721"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Barro",
+    "id": "722"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Barroquinha",
+    "id": "723"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Baturité",
+    "id": "724"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Beberibe",
+    "id": "725"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Bela Cruz",
+    "id": "726"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Boa Viagem",
+    "id": "727"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Brejo Santo",
+    "id": "728"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Camocim",
+    "id": "729"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Campos Sales",
+    "id": "730"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Canindé",
+    "id": "731"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Capistrano",
+    "id": "732"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Caridade",
+    "id": "733"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Cariré",
+    "id": "734"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Caririaçu",
+    "id": "735"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Cariús",
+    "id": "736"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Carnaubal",
+    "id": "737"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Cascavel",
+    "id": "738"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Catarina",
+    "id": "739"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Catunda",
+    "id": "740"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Caucaia",
+    "id": "741"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Cedro",
+    "id": "742"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Chaval",
+    "id": "743"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Choró",
+    "id": "744"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Chorozinho",
+    "id": "745"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Coreaú",
+    "id": "746"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Crateús",
+    "id": "747"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Crato",
+    "id": "748"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Croatá",
+    "id": "749"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Cruz",
+    "id": "750"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Deputado Irapuan Pinheiro",
+    "id": "751"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Ererê",
+    "id": "752"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Eusébio",
+    "id": "753"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Farias Brito",
+    "id": "754"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Forquilha",
+    "id": "755"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Fortaleza",
+    "id": "756"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Fortim",
+    "id": "757"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Frecheirinha",
+    "id": "758"
+  },
+  {
+    "uf": "CE",
+    "cidade": "General Sampaio",
+    "id": "759"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Graça",
+    "id": "760"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Granja",
+    "id": "761"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Granjeiro",
+    "id": "762"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Groaíras",
+    "id": "763"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Guaiúba",
+    "id": "764"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Guaraciaba do Norte",
+    "id": "765"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Guaramiranga",
+    "id": "766"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Hidrolândia",
+    "id": "767"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Horizonte",
+    "id": "768"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Ibaretama",
+    "id": "769"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Ibiapina",
+    "id": "770"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Ibicuitinga",
+    "id": "771"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Icapuí",
+    "id": "772"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Icó",
+    "id": "773"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Iguatu",
+    "id": "774"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Independência",
+    "id": "775"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Ipaporanga",
+    "id": "776"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Ipaumirim",
+    "id": "777"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Ipu",
+    "id": "778"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Ipueiras",
+    "id": "779"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Iracema",
+    "id": "780"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Irauçuba",
+    "id": "781"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Itaiçaba",
+    "id": "782"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Itaitinga",
+    "id": "783"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Itapagé",
+    "id": "784"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Itapipoca",
+    "id": "785"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Itapiúna",
+    "id": "786"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Itarema",
+    "id": "787"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Itatira",
+    "id": "788"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Jaguaretama",
+    "id": "789"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Jaguaribara",
+    "id": "790"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Jaguaribe",
+    "id": "791"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Jaguaruana",
+    "id": "792"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Jardim",
+    "id": "793"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Jati",
+    "id": "794"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Jijoca de Jericoacoara",
+    "id": "795"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Juazeiro do Norte",
+    "id": "796"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Jucás",
+    "id": "797"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Lavras da Mangabeira",
+    "id": "798"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Limoeiro do Norte",
+    "id": "799"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Madalena",
+    "id": "800"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Maracanaú",
+    "id": "801"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Maranguape",
+    "id": "802"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Marco",
+    "id": "803"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Martinópole",
+    "id": "804"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Massapê",
+    "id": "805"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Mauriti",
+    "id": "806"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Meruoca",
+    "id": "807"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Milagres",
+    "id": "808"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Milhã",
+    "id": "809"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Miraíma",
+    "id": "810"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Missão Velha",
+    "id": "811"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Mombaça",
+    "id": "812"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Monsenhor Tabosa",
+    "id": "813"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Morada Nova",
+    "id": "814"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Moraújo",
+    "id": "815"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Morrinhos",
+    "id": "816"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Mucambo",
+    "id": "817"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Mulungu",
+    "id": "818"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Nova Olinda",
+    "id": "819"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Nova Russas",
+    "id": "820"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Novo Oriente",
+    "id": "821"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Ocara",
+    "id": "822"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Orós",
+    "id": "823"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Pacajus",
+    "id": "824"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Pacatuba",
+    "id": "825"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Pacoti",
+    "id": "826"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Pacujá",
+    "id": "827"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Palhano",
+    "id": "828"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Palmácia",
+    "id": "829"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Paracuru",
+    "id": "830"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Paraipaba",
+    "id": "831"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Parambu",
+    "id": "832"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Paramoti",
+    "id": "833"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Pedra Branca",
+    "id": "834"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Penaforte",
+    "id": "835"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Pentecoste",
+    "id": "836"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Pereiro",
+    "id": "837"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Pindoretama",
+    "id": "838"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Piquet Carneiro",
+    "id": "839"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Pires Ferreira",
+    "id": "840"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Poranga",
+    "id": "841"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Porteiras",
+    "id": "842"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Potengi",
+    "id": "843"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Potiretama",
+    "id": "844"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Quiterianópolis",
+    "id": "845"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Quixadá",
+    "id": "846"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Quixelô",
+    "id": "847"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Quixeramobim",
+    "id": "848"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Quixeré",
+    "id": "849"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Redenção",
+    "id": "850"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Reriutaba",
+    "id": "851"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Russas",
+    "id": "852"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Saboeiro",
+    "id": "853"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Salitre",
+    "id": "854"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Santa Quitéria",
+    "id": "855"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Santana do Acaraú",
+    "id": "856"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Santana do Cariri",
+    "id": "857"
+  },
+  {
+    "uf": "CE",
+    "cidade": "São Benedito",
+    "id": "858"
+  },
+  {
+    "uf": "CE",
+    "cidade": "São Gonçalo do Amarante",
+    "id": "859"
+  },
+  {
+    "uf": "CE",
+    "cidade": "São João do Jaguaribe",
+    "id": "860"
+  },
+  {
+    "uf": "CE",
+    "cidade": "São Luís do Curu",
+    "id": "861"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Senador Pompeu",
+    "id": "862"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Senador Sá",
+    "id": "863"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Sobral",
+    "id": "864"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Solonópole",
+    "id": "865"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Tabuleiro do Norte",
+    "id": "866"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Tamboril",
+    "id": "867"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Tarrafas",
+    "id": "868"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Tauá",
+    "id": "869"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Tejuçuoca",
+    "id": "870"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Tianguá",
+    "id": "871"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Trairi",
+    "id": "872"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Tururu",
+    "id": "873"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Ubajara",
+    "id": "874"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Umari",
+    "id": "875"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Umirim",
+    "id": "876"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Uruburetama",
+    "id": "877"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Uruoca",
+    "id": "878"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Varjota",
+    "id": "879"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Várzea Alegre",
+    "id": "880"
+  },
+  {
+    "uf": "CE",
+    "cidade": "Viçosa do Ceará",
+    "id": "881"
+  }
+]

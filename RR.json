@@ -1,1 +1,77 @@
-[{"uf":"RR","cidade":"Alto Alegre","id":"4398"},{"uf":"RR","cidade":"Amajari","id":"4399"},{"uf":"RR","cidade":"Boa Vista","id":"4400"},{"uf":"RR","cidade":"Bonfim","id":"4401"},{"uf":"RR","cidade":"Cantá","id":"4402"},{"uf":"RR","cidade":"Caracaraí","id":"4403"},{"uf":"RR","cidade":"Caroebe","id":"4404"},{"uf":"RR","cidade":"Iracema","id":"4405"},{"uf":"RR","cidade":"Mucajaí","id":"4406"},{"uf":"RR","cidade":"Normandia","id":"4407"},{"uf":"RR","cidade":"Pacaraima","id":"4408"},{"uf":"RR","cidade":"Rorainópolis","id":"4409"},{"uf":"RR","cidade":"São João da Baliza","id":"4410"},{"uf":"RR","cidade":"São Luiz","id":"4411"},{"uf":"RR","cidade":"Uiramutã","id":"4412"}]
+[
+  {
+    "uf": "RR",
+    "cidade": "Alto Alegre",
+    "id": "4398"
+  },
+  {
+    "uf": "RR",
+    "cidade": "Amajari",
+    "id": "4399"
+  },
+  {
+    "uf": "RR",
+    "cidade": "Boa Vista",
+    "id": "4400"
+  },
+  {
+    "uf": "RR",
+    "cidade": "Bonfim",
+    "id": "4401"
+  },
+  {
+    "uf": "RR",
+    "cidade": "Cantá",
+    "id": "4402"
+  },
+  {
+    "uf": "RR",
+    "cidade": "Caracaraí",
+    "id": "4403"
+  },
+  {
+    "uf": "RR",
+    "cidade": "Caroebe",
+    "id": "4404"
+  },
+  {
+    "uf": "RR",
+    "cidade": "Iracema",
+    "id": "4405"
+  },
+  {
+    "uf": "RR",
+    "cidade": "Mucajaí",
+    "id": "4406"
+  },
+  {
+    "uf": "RR",
+    "cidade": "Normandia",
+    "id": "4407"
+  },
+  {
+    "uf": "RR",
+    "cidade": "Pacaraima",
+    "id": "4408"
+  },
+  {
+    "uf": "RR",
+    "cidade": "Rorainópolis",
+    "id": "4409"
+  },
+  {
+    "uf": "RR",
+    "cidade": "São João da Baliza",
+    "id": "4410"
+  },
+  {
+    "uf": "RR",
+    "cidade": "São Luiz",
+    "id": "4411"
+  },
+  {
+    "uf": "RR",
+    "cidade": "Uiramutã",
+    "id": "4412"
+  }
+]

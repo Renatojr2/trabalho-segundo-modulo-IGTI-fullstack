@@ -1,1 +1,3227 @@
-[{"uf":"SP","cidade":"Adamantina","id":"4706"},{"uf":"SP","cidade":"Adolfo","id":"4707"},{"uf":"SP","cidade":"Aguaí","id":"4708"},{"uf":"SP","cidade":"Águas da Prata","id":"4709"},{"uf":"SP","cidade":"Águas de Lindóia","id":"4710"},{"uf":"SP","cidade":"Águas de Santa Bárbara","id":"4711"},{"uf":"SP","cidade":"Águas de São Pedro","id":"4712"},{"uf":"SP","cidade":"Agudos","id":"4713"},{"uf":"SP","cidade":"Alambari","id":"4714"},{"uf":"SP","cidade":"Alfredo Marcondes","id":"4715"},{"uf":"SP","cidade":"Altair","id":"4716"},{"uf":"SP","cidade":"Altinópolis","id":"4717"},{"uf":"SP","cidade":"Alto Alegre","id":"4718"},{"uf":"SP","cidade":"Alumínio","id":"4719"},{"uf":"SP","cidade":"Álvares Florence","id":"4720"},{"uf":"SP","cidade":"Álvares Machado","id":"4721"},{"uf":"SP","cidade":"Álvaro de Carvalho","id":"4722"},{"uf":"SP","cidade":"Alvinlândia","id":"4723"},{"uf":"SP","cidade":"Americana","id":"4724"},{"uf":"SP","cidade":"Américo Brasiliense","id":"4725"},{"uf":"SP","cidade":"Américo de Campos","id":"4726"},{"uf":"SP","cidade":"Amparo","id":"4727"},{"uf":"SP","cidade":"Analândia","id":"4728"},{"uf":"SP","cidade":"Andradina","id":"4729"},{"uf":"SP","cidade":"Angatuba","id":"4730"},{"uf":"SP","cidade":"Anhembi","id":"4731"},{"uf":"SP","cidade":"Anhumas","id":"4732"},{"uf":"SP","cidade":"Aparecida","id":"4733"},{"uf":"SP","cidade":"Aparecida d`Oeste","id":"4734"},{"uf":"SP","cidade":"Apiaí","id":"4735"},{"uf":"SP","cidade":"Araçariguama","id":"4736"},{"uf":"SP","cidade":"Araçatuba","id":"4737"},{"uf":"SP","cidade":"Araçoiaba da Serra","id":"4738"},{"uf":"SP","cidade":"Aramina","id":"4739"},{"uf":"SP","cidade":"Arandu","id":"4740"},{"uf":"SP","cidade":"Arapeí","id":"4741"},{"uf":"SP","cidade":"Araraquara","id":"4742"},{"uf":"SP","cidade":"Araras","id":"4743"},{"uf":"SP","cidade":"Arco-Íris","id":"4744"},{"uf":"SP","cidade":"Arealva","id":"4745"},{"uf":"SP","cidade":"Areias","id":"4746"},{"uf":"SP","cidade":"Areiópolis","id":"4747"},{"uf":"SP","cidade":"Ariranha","id":"4748"},{"uf":"SP","cidade":"Artur Nogueira","id":"4749"},{"uf":"SP","cidade":"Arujá","id":"4750"},{"uf":"SP","cidade":"Aspásia","id":"4751"},{"uf":"SP","cidade":"Assis","id":"4752"},{"uf":"SP","cidade":"Atibaia","id":"4753"},{"uf":"SP","cidade":"Auriflama","id":"4754"},{"uf":"SP","cidade":"Avaí","id":"4755"},{"uf":"SP","cidade":"Avanhandava","id":"4756"},{"uf":"SP","cidade":"Avaré","id":"4757"},{"uf":"SP","cidade":"Bady Bassitt","id":"4758"},{"uf":"SP","cidade":"Balbinos","id":"4759"},{"uf":"SP","cidade":"Bálsamo","id":"4760"},{"uf":"SP","cidade":"Bananal","id":"4761"},{"uf":"SP","cidade":"Barão de Antonina","id":"4762"},{"uf":"SP","cidade":"Barbosa","id":"4763"},{"uf":"SP","cidade":"Bariri","id":"4764"},{"uf":"SP","cidade":"Barra Bonita","id":"4765"},{"uf":"SP","cidade":"Barra do Chapéu","id":"4766"},{"uf":"SP","cidade":"Barra do Turvo","id":"4767"},{"uf":"SP","cidade":"Barretos","id":"4768"},{"uf":"SP","cidade":"Barrinha","id":"4769"},{"uf":"SP","cidade":"Barueri","id":"4770"},{"uf":"SP","cidade":"Bastos","id":"4771"},{"uf":"SP","cidade":"Batatais","id":"4772"},{"uf":"SP","cidade":"Bauru","id":"4773"},{"uf":"SP","cidade":"Bebedouro","id":"4774"},{"uf":"SP","cidade":"Bento de Abreu","id":"4775"},{"uf":"SP","cidade":"Bernardino de Campos","id":"4776"},{"uf":"SP","cidade":"Bertioga","id":"4777"},{"uf":"SP","cidade":"Bilac","id":"4778"},{"uf":"SP","cidade":"Birigui","id":"4779"},{"uf":"SP","cidade":"Biritiba-Mirim","id":"4780"},{"uf":"SP","cidade":"Boa Esperança do Sul","id":"4781"},{"uf":"SP","cidade":"Bocaina","id":"4782"},{"uf":"SP","cidade":"Bofete","id":"4783"},{"uf":"SP","cidade":"Boituva","id":"4784"},{"uf":"SP","cidade":"Bom Jesus dos Perdões","id":"4785"},{"uf":"SP","cidade":"Bom Sucesso de Itararé","id":"4786"},{"uf":"SP","cidade":"Borá","id":"4787"},{"uf":"SP","cidade":"Boracéia","id":"4788"},{"uf":"SP","cidade":"Borborema","id":"4789"},{"uf":"SP","cidade":"Borebi","id":"4790"},{"uf":"SP","cidade":"Botucatu","id":"4791"},{"uf":"SP","cidade":"Bragança Paulista","id":"4792"},{"uf":"SP","cidade":"Braúna","id":"4793"},{"uf":"SP","cidade":"Brejo Alegre","id":"4794"},{"uf":"SP","cidade":"Brodowski","id":"4795"},{"uf":"SP","cidade":"Brotas","id":"4796"},{"uf":"SP","cidade":"Buri","id":"4797"},{"uf":"SP","cidade":"Buritama","id":"4798"},{"uf":"SP","cidade":"Buritizal","id":"4799"},{"uf":"SP","cidade":"Cabrália Paulista","id":"4800"},{"uf":"SP","cidade":"Cabreúva","id":"4801"},{"uf":"SP","cidade":"Caçapava","id":"4802"},{"uf":"SP","cidade":"Cachoeira Paulista","id":"4803"},{"uf":"SP","cidade":"Caconde","id":"4804"},{"uf":"SP","cidade":"Cafelândia","id":"4805"},{"uf":"SP","cidade":"Caiabu","id":"4806"},{"uf":"SP","cidade":"Caieiras","id":"4807"},{"uf":"SP","cidade":"Caiuá","id":"4808"},{"uf":"SP","cidade":"Cajamar","id":"4809"},{"uf":"SP","cidade":"Cajati","id":"4810"},{"uf":"SP","cidade":"Cajobi","id":"4811"},{"uf":"SP","cidade":"Cajuru","id":"4812"},{"uf":"SP","cidade":"Campina do Monte Alegre","id":"4813"},{"uf":"SP","cidade":"Campinas","id":"4814"},{"uf":"SP","cidade":"Campo Limpo Paulista","id":"4815"},{"uf":"SP","cidade":"Campos do Jordão","id":"4816"},{"uf":"SP","cidade":"Campos Novos Paulista","id":"4817"},{"uf":"SP","cidade":"Cananéia","id":"4818"},{"uf":"SP","cidade":"Canas","id":"4819"},{"uf":"SP","cidade":"Cândido Mota","id":"4820"},{"uf":"SP","cidade":"Cândido Rodrigues","id":"4821"},{"uf":"SP","cidade":"Canitar","id":"4822"},{"uf":"SP","cidade":"Capão Bonito","id":"4823"},{"uf":"SP","cidade":"Capela do Alto","id":"4824"},{"uf":"SP","cidade":"Capivari","id":"4825"},{"uf":"SP","cidade":"Caraguatatuba","id":"4826"},{"uf":"SP","cidade":"Carapicuíba","id":"4827"},{"uf":"SP","cidade":"Cardoso","id":"4828"},{"uf":"SP","cidade":"Casa Branca","id":"4829"},{"uf":"SP","cidade":"Cássia dos Coqueiros","id":"4830"},{"uf":"SP","cidade":"Castilho","id":"4831"},{"uf":"SP","cidade":"Catanduva","id":"4832"},{"uf":"SP","cidade":"Catiguá","id":"4833"},{"uf":"SP","cidade":"Cedral","id":"4834"},{"uf":"SP","cidade":"Cerqueira César","id":"4835"},{"uf":"SP","cidade":"Cerquilho","id":"4836"},{"uf":"SP","cidade":"Cesário Lange","id":"4837"},{"uf":"SP","cidade":"Charqueada","id":"4838"},{"uf":"SP","cidade":"Chavantes","id":"4839"},{"uf":"SP","cidade":"Clementina","id":"4840"},{"uf":"SP","cidade":"Colina","id":"4841"},{"uf":"SP","cidade":"Colômbia","id":"4842"},{"uf":"SP","cidade":"Conchal","id":"4843"},{"uf":"SP","cidade":"Conchas","id":"4844"},{"uf":"SP","cidade":"Cordeirópolis","id":"4845"},{"uf":"SP","cidade":"Coroados","id":"4846"},{"uf":"SP","cidade":"Coronel Macedo","id":"4847"},{"uf":"SP","cidade":"Corumbataí","id":"4848"},{"uf":"SP","cidade":"Cosmópolis","id":"4849"},{"uf":"SP","cidade":"Cosmorama","id":"4850"},{"uf":"SP","cidade":"Cotia","id":"4851"},{"uf":"SP","cidade":"Cravinhos","id":"4852"},{"uf":"SP","cidade":"Cristais Paulista","id":"4853"},{"uf":"SP","cidade":"Cruzália","id":"4854"},{"uf":"SP","cidade":"Cruzeiro","id":"4855"},{"uf":"SP","cidade":"Cubatão","id":"4856"},{"uf":"SP","cidade":"Cunha","id":"4857"},{"uf":"SP","cidade":"Descalvado","id":"4858"},{"uf":"SP","cidade":"Diadema","id":"4859"},{"uf":"SP","cidade":"Dirce Reis","id":"4860"},{"uf":"SP","cidade":"Divinolândia","id":"4861"},{"uf":"SP","cidade":"Dobrada","id":"4862"},{"uf":"SP","cidade":"Dois Córregos","id":"4863"},{"uf":"SP","cidade":"Dolcinópolis","id":"4864"},{"uf":"SP","cidade":"Dourado","id":"4865"},{"uf":"SP","cidade":"Dracena","id":"4866"},{"uf":"SP","cidade":"Duartina","id":"4867"},{"uf":"SP","cidade":"Dumont","id":"4868"},{"uf":"SP","cidade":"Echaporã","id":"4869"},{"uf":"SP","cidade":"Eldorado","id":"4870"},{"uf":"SP","cidade":"Elias Fausto","id":"4871"},{"uf":"SP","cidade":"Elisiário","id":"4872"},{"uf":"SP","cidade":"Embaúba","id":"4873"},{"uf":"SP","cidade":"Embu","id":"4874"},{"uf":"SP","cidade":"Embu-Guaçu","id":"4875"},{"uf":"SP","cidade":"Emilianópolis","id":"4876"},{"uf":"SP","cidade":"Engenheiro Coelho","id":"4877"},{"uf":"SP","cidade":"Espírito Santo do Pinhal","id":"4878"},{"uf":"SP","cidade":"Espírito Santo do Turvo","id":"4879"},{"uf":"SP","cidade":"Estiva Gerbi","id":"4880"},{"uf":"SP","cidade":"Estrela d`Oeste","id":"4881"},{"uf":"SP","cidade":"Estrela do Norte","id":"4882"},{"uf":"SP","cidade":"Euclides da Cunha Paulista","id":"4883"},{"uf":"SP","cidade":"Fartura","id":"4884"},{"uf":"SP","cidade":"Fernando Prestes","id":"4885"},{"uf":"SP","cidade":"Fernandópolis","id":"4886"},{"uf":"SP","cidade":"Fernão","id":"4887"},{"uf":"SP","cidade":"Ferraz de Vasconcelos","id":"4888"},{"uf":"SP","cidade":"Flora Rica","id":"4889"},{"uf":"SP","cidade":"Floreal","id":"4890"},{"uf":"SP","cidade":"Flórida Paulista","id":"4891"},{"uf":"SP","cidade":"Florínia","id":"4892"},{"uf":"SP","cidade":"Franca","id":"4893"},{"uf":"SP","cidade":"Francisco Morato","id":"4894"},{"uf":"SP","cidade":"Franco da Rocha","id":"4895"},{"uf":"SP","cidade":"Gabriel Monteiro","id":"4896"},{"uf":"SP","cidade":"Gália","id":"4897"},{"uf":"SP","cidade":"Garça","id":"4898"},{"uf":"SP","cidade":"Gastão Vidigal","id":"4899"},{"uf":"SP","cidade":"Gavião Peixoto","id":"4900"},{"uf":"SP","cidade":"General Salgado","id":"4901"},{"uf":"SP","cidade":"Getulina","id":"4902"},{"uf":"SP","cidade":"Glicério","id":"4903"},{"uf":"SP","cidade":"Guaiçara","id":"4904"},{"uf":"SP","cidade":"Guaimbê","id":"4905"},{"uf":"SP","cidade":"Guaíra","id":"4906"},{"uf":"SP","cidade":"Guapiaçu","id":"4907"},{"uf":"SP","cidade":"Guapiara","id":"4908"},{"uf":"SP","cidade":"Guará","id":"4909"},{"uf":"SP","cidade":"Guaraçaí","id":"4910"},{"uf":"SP","cidade":"Guaraci","id":"4911"},{"uf":"SP","cidade":"Guarani d`Oeste","id":"4912"},{"uf":"SP","cidade":"Guarantã","id":"4913"},{"uf":"SP","cidade":"Guararapes","id":"4914"},{"uf":"SP","cidade":"Guararema","id":"4915"},{"uf":"SP","cidade":"Guaratinguetá","id":"4916"},{"uf":"SP","cidade":"Guareí","id":"4917"},{"uf":"SP","cidade":"Guariba","id":"4918"},{"uf":"SP","cidade":"Guarujá","id":"4919"},{"uf":"SP","cidade":"Guarulhos","id":"4920"},{"uf":"SP","cidade":"Guatapará","id":"4921"},{"uf":"SP","cidade":"Guzolândia","id":"4922"},{"uf":"SP","cidade":"Herculândia","id":"4923"},{"uf":"SP","cidade":"Holambra","id":"4924"},{"uf":"SP","cidade":"Hortolândia","id":"4925"},{"uf":"SP","cidade":"Iacanga","id":"4926"},{"uf":"SP","cidade":"Iacri","id":"4927"},{"uf":"SP","cidade":"Iaras","id":"4928"},{"uf":"SP","cidade":"Ibaté","id":"4929"},{"uf":"SP","cidade":"Ibirá","id":"4930"},{"uf":"SP","cidade":"Ibirarema","id":"4931"},{"uf":"SP","cidade":"Ibitinga","id":"4932"},{"uf":"SP","cidade":"Ibiúna","id":"4933"},{"uf":"SP","cidade":"Icém","id":"4934"},{"uf":"SP","cidade":"Iepê","id":"4935"},{"uf":"SP","cidade":"Igaraçu do Tietê","id":"4936"},{"uf":"SP","cidade":"Igarapava","id":"4937"},{"uf":"SP","cidade":"Igaratá","id":"4938"},{"uf":"SP","cidade":"Iguape","id":"4939"},{"uf":"SP","cidade":"Ilha Comprida","id":"4940"},{"uf":"SP","cidade":"Ilha Solteira","id":"4941"},{"uf":"SP","cidade":"Ilhabela","id":"4942"},{"uf":"SP","cidade":"Indaiatuba","id":"4943"},{"uf":"SP","cidade":"Indiana","id":"4944"},{"uf":"SP","cidade":"Indiaporã","id":"4945"},{"uf":"SP","cidade":"Inúbia Paulista","id":"4946"},{"uf":"SP","cidade":"Ipaussu","id":"4947"},{"uf":"SP","cidade":"Iperó","id":"4948"},{"uf":"SP","cidade":"Ipeúna","id":"4949"},{"uf":"SP","cidade":"Ipiguá","id":"4950"},{"uf":"SP","cidade":"Iporanga","id":"4951"},{"uf":"SP","cidade":"Ipuã","id":"4952"},{"uf":"SP","cidade":"Iracemápolis","id":"4953"},{"uf":"SP","cidade":"Irapuã","id":"4954"},{"uf":"SP","cidade":"Irapuru","id":"4955"},{"uf":"SP","cidade":"Itaberá","id":"4956"},{"uf":"SP","cidade":"Itaí","id":"4957"},{"uf":"SP","cidade":"Itajobi","id":"4958"},{"uf":"SP","cidade":"Itaju","id":"4959"},{"uf":"SP","cidade":"Itanhaém","id":"4960"},{"uf":"SP","cidade":"Itaóca","id":"4961"},{"uf":"SP","cidade":"Itapecerica da Serra","id":"4962"},{"uf":"SP","cidade":"Itapetininga","id":"4963"},{"uf":"SP","cidade":"Itapeva","id":"4964"},{"uf":"SP","cidade":"Itapevi","id":"4965"},{"uf":"SP","cidade":"Itapira","id":"4966"},{"uf":"SP","cidade":"Itapirapuã Paulista","id":"4967"},{"uf":"SP","cidade":"Itápolis","id":"4968"},{"uf":"SP","cidade":"Itaporanga","id":"4969"},{"uf":"SP","cidade":"Itapuí","id":"4970"},{"uf":"SP","cidade":"Itapura","id":"4971"},{"uf":"SP","cidade":"Itaquaquecetuba","id":"4972"},{"uf":"SP","cidade":"Itararé","id":"4973"},{"uf":"SP","cidade":"Itariri","id":"4974"},{"uf":"SP","cidade":"Itatiba","id":"4975"},{"uf":"SP","cidade":"Itatinga","id":"4976"},{"uf":"SP","cidade":"Itirapina","id":"4977"},{"uf":"SP","cidade":"Itirapuã","id":"4978"},{"uf":"SP","cidade":"Itobi","id":"4979"},{"uf":"SP","cidade":"Itu","id":"4980"},{"uf":"SP","cidade":"Itupeva","id":"4981"},{"uf":"SP","cidade":"Ituverava","id":"4982"},{"uf":"SP","cidade":"Jaborandi","id":"4983"},{"uf":"SP","cidade":"Jaboticabal","id":"4984"},{"uf":"SP","cidade":"Jacareí","id":"4985"},{"uf":"SP","cidade":"Jaci","id":"4986"},{"uf":"SP","cidade":"Jacupiranga","id":"4987"},{"uf":"SP","cidade":"Jaguariúna","id":"4988"},{"uf":"SP","cidade":"Jales","id":"4989"},{"uf":"SP","cidade":"Jambeiro","id":"4990"},{"uf":"SP","cidade":"Jandira","id":"4991"},{"uf":"SP","cidade":"Jardinópolis","id":"4992"},{"uf":"SP","cidade":"Jarinu","id":"4993"},{"uf":"SP","cidade":"Jaú","id":"4994"},{"uf":"SP","cidade":"Jeriquara","id":"4995"},{"uf":"SP","cidade":"Joanópolis","id":"4996"},{"uf":"SP","cidade":"João Ramalho","id":"4997"},{"uf":"SP","cidade":"José Bonifácio","id":"4998"},{"uf":"SP","cidade":"Júlio Mesquita","id":"4999"},{"uf":"SP","cidade":"Jumirim","id":"5000"},{"uf":"SP","cidade":"Jundiaí","id":"5001"},{"uf":"SP","cidade":"Junqueirópolis","id":"5002"},{"uf":"SP","cidade":"Juquiá","id":"5003"},{"uf":"SP","cidade":"Juquitiba","id":"5004"},{"uf":"SP","cidade":"Lagoinha","id":"5005"},{"uf":"SP","cidade":"Laranjal Paulista","id":"5006"},{"uf":"SP","cidade":"Lavínia","id":"5007"},{"uf":"SP","cidade":"Lavrinhas","id":"5008"},{"uf":"SP","cidade":"Leme","id":"5009"},{"uf":"SP","cidade":"Lençóis Paulista","id":"5010"},{"uf":"SP","cidade":"Limeira","id":"5011"},{"uf":"SP","cidade":"Lindóia","id":"5012"},{"uf":"SP","cidade":"Lins","id":"5013"},{"uf":"SP","cidade":"Lorena","id":"5014"},{"uf":"SP","cidade":"Lourdes","id":"5015"},{"uf":"SP","cidade":"Louveira","id":"5016"},{"uf":"SP","cidade":"Lucélia","id":"5017"},{"uf":"SP","cidade":"Lucianópolis","id":"5018"},{"uf":"SP","cidade":"Luís Antônio","id":"5019"},{"uf":"SP","cidade":"Luiziânia","id":"5020"},{"uf":"SP","cidade":"Lupércio","id":"5021"},{"uf":"SP","cidade":"Lutécia","id":"5022"},{"uf":"SP","cidade":"Macatuba","id":"5023"},{"uf":"SP","cidade":"Macaubal","id":"5024"},{"uf":"SP","cidade":"Macedônia","id":"5025"},{"uf":"SP","cidade":"Magda","id":"5026"},{"uf":"SP","cidade":"Mairinque","id":"5027"},{"uf":"SP","cidade":"Mairiporã","id":"5028"},{"uf":"SP","cidade":"Manduri","id":"5029"},{"uf":"SP","cidade":"Marabá Paulista","id":"5030"},{"uf":"SP","cidade":"Maracaí","id":"5031"},{"uf":"SP","cidade":"Marapoama","id":"5032"},{"uf":"SP","cidade":"Mariápolis","id":"5033"},{"uf":"SP","cidade":"Marília","id":"5034"},{"uf":"SP","cidade":"Marinópolis","id":"5035"},{"uf":"SP","cidade":"Martinópolis","id":"5036"},{"uf":"SP","cidade":"Matão","id":"5037"},{"uf":"SP","cidade":"Mauá","id":"5038"},{"uf":"SP","cidade":"Mendonça","id":"5039"},{"uf":"SP","cidade":"Meridiano","id":"5040"},{"uf":"SP","cidade":"Mesópolis","id":"5041"},{"uf":"SP","cidade":"Miguelópolis","id":"5042"},{"uf":"SP","cidade":"Mineiros do Tietê","id":"5043"},{"uf":"SP","cidade":"Mira Estrela","id":"5044"},{"uf":"SP","cidade":"Miracatu","id":"5045"},{"uf":"SP","cidade":"Mirandópolis","id":"5046"},{"uf":"SP","cidade":"Mirante do Paranapanema","id":"5047"},{"uf":"SP","cidade":"Mirassol","id":"5048"},{"uf":"SP","cidade":"Mirassolândia","id":"5049"},{"uf":"SP","cidade":"Mococa","id":"5050"},{"uf":"SP","cidade":"Mogi das Cruzes","id":"5051"},{"uf":"SP","cidade":"Mogi Guaçu","id":"5052"},{"uf":"SP","cidade":"Moji Mirim","id":"5053"},{"uf":"SP","cidade":"Mombuca","id":"5054"},{"uf":"SP","cidade":"Monções","id":"5055"},{"uf":"SP","cidade":"Mongaguá","id":"5056"},{"uf":"SP","cidade":"Monte Alegre do Sul","id":"5057"},{"uf":"SP","cidade":"Monte Alto","id":"5058"},{"uf":"SP","cidade":"Monte Aprazível","id":"5059"},{"uf":"SP","cidade":"Monte Azul Paulista","id":"5060"},{"uf":"SP","cidade":"Monte Castelo","id":"5061"},{"uf":"SP","cidade":"Monte Mor","id":"5062"},{"uf":"SP","cidade":"Monteiro Lobato","id":"5063"},{"uf":"SP","cidade":"Morro Agudo","id":"5064"},{"uf":"SP","cidade":"Morungaba","id":"5065"},{"uf":"SP","cidade":"Motuca","id":"5066"},{"uf":"SP","cidade":"Murutinga do Sul","id":"5067"},{"uf":"SP","cidade":"Nantes","id":"5068"},{"uf":"SP","cidade":"Narandiba","id":"5069"},{"uf":"SP","cidade":"Natividade da Serra","id":"5070"},{"uf":"SP","cidade":"Nazaré Paulista","id":"5071"},{"uf":"SP","cidade":"Neves Paulista","id":"5072"},{"uf":"SP","cidade":"Nhandeara","id":"5073"},{"uf":"SP","cidade":"Nipoã","id":"5074"},{"uf":"SP","cidade":"Nova Aliança","id":"5075"},{"uf":"SP","cidade":"Nova Campina","id":"5076"},{"uf":"SP","cidade":"Nova Canaã Paulista","id":"5077"},{"uf":"SP","cidade":"Nova Castilho","id":"5078"},{"uf":"SP","cidade":"Nova Europa","id":"5079"},{"uf":"SP","cidade":"Nova Granada","id":"5080"},{"uf":"SP","cidade":"Nova Guataporanga","id":"5081"},{"uf":"SP","cidade":"Nova Independência","id":"5082"},{"uf":"SP","cidade":"Nova Luzitânia","id":"5083"},{"uf":"SP","cidade":"Nova Odessa","id":"5084"},{"uf":"SP","cidade":"Novais","id":"5085"},{"uf":"SP","cidade":"Novo Horizonte","id":"5086"},{"uf":"SP","cidade":"Nuporanga","id":"5087"},{"uf":"SP","cidade":"Ocauçu","id":"5088"},{"uf":"SP","cidade":"Óleo","id":"5089"},{"uf":"SP","cidade":"Olímpia","id":"5090"},{"uf":"SP","cidade":"Onda Verde","id":"5091"},{"uf":"SP","cidade":"Oriente","id":"5092"},{"uf":"SP","cidade":"Orindiúva","id":"5093"},{"uf":"SP","cidade":"Orlândia","id":"5094"},{"uf":"SP","cidade":"Osasco","id":"5095"},{"uf":"SP","cidade":"Oscar Bressane","id":"5096"},{"uf":"SP","cidade":"Osvaldo Cruz","id":"5097"},{"uf":"SP","cidade":"Ourinhos","id":"5098"},{"uf":"SP","cidade":"Ouro Verde","id":"5099"},{"uf":"SP","cidade":"Ouroeste","id":"5100"},{"uf":"SP","cidade":"Pacaembu","id":"5101"},{"uf":"SP","cidade":"Palestina","id":"5102"},{"uf":"SP","cidade":"Palmares Paulista","id":"5103"},{"uf":"SP","cidade":"Palmeira d`Oeste","id":"5104"},{"uf":"SP","cidade":"Palmital","id":"5105"},{"uf":"SP","cidade":"Panorama","id":"5106"},{"uf":"SP","cidade":"Paraguaçu Paulista","id":"5107"},{"uf":"SP","cidade":"Paraibuna","id":"5108"},{"uf":"SP","cidade":"Paraíso","id":"5109"},{"uf":"SP","cidade":"Paranapanema","id":"5110"},{"uf":"SP","cidade":"Paranapuã","id":"5111"},{"uf":"SP","cidade":"Parapuã","id":"5112"},{"uf":"SP","cidade":"Pardinho","id":"5113"},{"uf":"SP","cidade":"Pariquera-Açu","id":"5114"},{"uf":"SP","cidade":"Parisi","id":"5115"},{"uf":"SP","cidade":"Patrocínio Paulista","id":"5116"},{"uf":"SP","cidade":"Paulicéia","id":"5117"},{"uf":"SP","cidade":"Paulínia","id":"5118"},{"uf":"SP","cidade":"Paulistânia","id":"5119"},{"uf":"SP","cidade":"Paulo de Faria","id":"5120"},{"uf":"SP","cidade":"Pederneiras","id":"5121"},{"uf":"SP","cidade":"Pedra Bela","id":"5122"},{"uf":"SP","cidade":"Pedranópolis","id":"5123"},{"uf":"SP","cidade":"Pedregulho","id":"5124"},{"uf":"SP","cidade":"Pedreira","id":"5125"},{"uf":"SP","cidade":"Pedrinhas Paulista","id":"5126"},{"uf":"SP","cidade":"Pedro de Toledo","id":"5127"},{"uf":"SP","cidade":"Penápolis","id":"5128"},{"uf":"SP","cidade":"Pereira Barreto","id":"5129"},{"uf":"SP","cidade":"Pereiras","id":"5130"},{"uf":"SP","cidade":"Peruíbe","id":"5131"},{"uf":"SP","cidade":"Piacatu","id":"5132"},{"uf":"SP","cidade":"Piedade","id":"5133"},{"uf":"SP","cidade":"Pilar do Sul","id":"5134"},{"uf":"SP","cidade":"Pindamonhangaba","id":"5135"},{"uf":"SP","cidade":"Pindorama","id":"5136"},{"uf":"SP","cidade":"Pinhalzinho","id":"5137"},{"uf":"SP","cidade":"Piquerobi","id":"5138"},{"uf":"SP","cidade":"Piquete","id":"5139"},{"uf":"SP","cidade":"Piracaia","id":"5140"},{"uf":"SP","cidade":"Piracicaba","id":"5141"},{"uf":"SP","cidade":"Piraju","id":"5142"},{"uf":"SP","cidade":"Pirajuí","id":"5143"},{"uf":"SP","cidade":"Pirangi","id":"5144"},{"uf":"SP","cidade":"Pirapora do Bom Jesus","id":"5145"},{"uf":"SP","cidade":"Pirapozinho","id":"5146"},{"uf":"SP","cidade":"Pirassununga","id":"5147"},{"uf":"SP","cidade":"Piratininga","id":"5148"},{"uf":"SP","cidade":"Pitangueiras","id":"5149"},{"uf":"SP","cidade":"Planalto","id":"5150"},{"uf":"SP","cidade":"Platina","id":"5151"},{"uf":"SP","cidade":"Poá","id":"5152"},{"uf":"SP","cidade":"Poloni","id":"5153"},{"uf":"SP","cidade":"Pompéia","id":"5154"},{"uf":"SP","cidade":"Pongaí","id":"5155"},{"uf":"SP","cidade":"Pontal","id":"5156"},{"uf":"SP","cidade":"Pontalinda","id":"5157"},{"uf":"SP","cidade":"Pontes Gestal","id":"5158"},{"uf":"SP","cidade":"Populina","id":"5159"},{"uf":"SP","cidade":"Porangaba","id":"5160"},{"uf":"SP","cidade":"Porto Feliz","id":"5161"},{"uf":"SP","cidade":"Porto Ferreira","id":"5162"},{"uf":"SP","cidade":"Potim","id":"5163"},{"uf":"SP","cidade":"Potirendaba","id":"5164"},{"uf":"SP","cidade":"Pracinha","id":"5165"},{"uf":"SP","cidade":"Pradópolis","id":"5166"},{"uf":"SP","cidade":"Praia Grande","id":"5167"},{"uf":"SP","cidade":"Pratânia","id":"5168"},{"uf":"SP","cidade":"Presidente Alves","id":"5169"},{"uf":"SP","cidade":"Presidente Bernardes","id":"5170"},{"uf":"SP","cidade":"Presidente Epitácio","id":"5171"},{"uf":"SP","cidade":"Presidente Prudente","id":"5172"},{"uf":"SP","cidade":"Presidente Venceslau","id":"5173"},{"uf":"SP","cidade":"Promissão","id":"5174"},{"uf":"SP","cidade":"Quadra","id":"5175"},{"uf":"SP","cidade":"Quatá","id":"5176"},{"uf":"SP","cidade":"Queiroz","id":"5177"},{"uf":"SP","cidade":"Queluz","id":"5178"},{"uf":"SP","cidade":"Quintana","id":"5179"},{"uf":"SP","cidade":"Rafard","id":"5180"},{"uf":"SP","cidade":"Rancharia","id":"5181"},{"uf":"SP","cidade":"Redenção da Serra","id":"5182"},{"uf":"SP","cidade":"Regente Feijó","id":"5183"},{"uf":"SP","cidade":"Reginópolis","id":"5184"},{"uf":"SP","cidade":"Registro","id":"5185"},{"uf":"SP","cidade":"Restinga","id":"5186"},{"uf":"SP","cidade":"Ribeira","id":"5187"},{"uf":"SP","cidade":"Ribeirão Bonito","id":"5188"},{"uf":"SP","cidade":"Ribeirão Branco","id":"5189"},{"uf":"SP","cidade":"Ribeirão Corrente","id":"5190"},{"uf":"SP","cidade":"Ribeirão do Sul","id":"5191"},{"uf":"SP","cidade":"Ribeirão dos Índios","id":"5192"},{"uf":"SP","cidade":"Ribeirão Grande","id":"5193"},{"uf":"SP","cidade":"Ribeirão Pires","id":"5194"},{"uf":"SP","cidade":"Ribeirão Preto","id":"5195"},{"uf":"SP","cidade":"Rifaina","id":"5196"},{"uf":"SP","cidade":"Rincão","id":"5197"},{"uf":"SP","cidade":"Rinópolis","id":"5198"},{"uf":"SP","cidade":"Rio Claro","id":"5199"},{"uf":"SP","cidade":"Rio das Pedras","id":"5200"},{"uf":"SP","cidade":"Rio Grande da Serra","id":"5201"},{"uf":"SP","cidade":"Riolândia","id":"5202"},{"uf":"SP","cidade":"Riversul","id":"5203"},{"uf":"SP","cidade":"Rosana","id":"5204"},{"uf":"SP","cidade":"Roseira","id":"5205"},{"uf":"SP","cidade":"Rubiácea","id":"5206"},{"uf":"SP","cidade":"Rubinéia","id":"5207"},{"uf":"SP","cidade":"Sabino","id":"5208"},{"uf":"SP","cidade":"Sagres","id":"5209"},{"uf":"SP","cidade":"Sales","id":"5210"},{"uf":"SP","cidade":"Sales Oliveira","id":"5211"},{"uf":"SP","cidade":"Salesópolis","id":"5212"},{"uf":"SP","cidade":"Salmourão","id":"5213"},{"uf":"SP","cidade":"Saltinho","id":"5214"},{"uf":"SP","cidade":"Salto","id":"5215"},{"uf":"SP","cidade":"Salto de Pirapora","id":"5216"},{"uf":"SP","cidade":"Salto Grande","id":"5217"},{"uf":"SP","cidade":"Sandovalina","id":"5218"},{"uf":"SP","cidade":"Santa Adélia","id":"5219"},{"uf":"SP","cidade":"Santa Albertina","id":"5220"},{"uf":"SP","cidade":"Santa Bárbara d`Oeste","id":"5221"},{"uf":"SP","cidade":"Santa Branca","id":"5222"},{"uf":"SP","cidade":"Santa Clara d`Oeste","id":"5223"},{"uf":"SP","cidade":"Santa Cruz da Conceição","id":"5224"},{"uf":"SP","cidade":"Santa Cruz da Esperança","id":"5225"},{"uf":"SP","cidade":"Santa Cruz das Palmeiras","id":"5226"},{"uf":"SP","cidade":"Santa Cruz do Rio Pardo","id":"5227"},{"uf":"SP","cidade":"Santa Ernestina","id":"5228"},{"uf":"SP","cidade":"Santa Fé do Sul","id":"5229"},{"uf":"SP","cidade":"Santa Gertrudes","id":"5230"},{"uf":"SP","cidade":"Santa Isabel","id":"5231"},{"uf":"SP","cidade":"Santa Lúcia","id":"5232"},{"uf":"SP","cidade":"Santa Maria da Serra","id":"5233"},{"uf":"SP","cidade":"Santa Mercedes","id":"5234"},{"uf":"SP","cidade":"Santa Rita d`Oeste","id":"5235"},{"uf":"SP","cidade":"Santa Rita do Passa Quatro","id":"5236"},{"uf":"SP","cidade":"Santa Rosa de Viterbo","id":"5237"},{"uf":"SP","cidade":"Santa Salete","id":"5238"},{"uf":"SP","cidade":"Santana da Ponte Pensa","id":"5239"},{"uf":"SP","cidade":"Santana de Parnaíba","id":"5240"},{"uf":"SP","cidade":"Santo Anastácio","id":"5241"},{"uf":"SP","cidade":"Santo André","id":"5242"},{"uf":"SP","cidade":"Santo Antônio da Alegria","id":"5243"},{"uf":"SP","cidade":"Santo Antônio de Posse","id":"5244"},{"uf":"SP","cidade":"Santo Antônio do Aracanguá","id":"5245"},{"uf":"SP","cidade":"Santo Antônio do Jardim","id":"5246"},{"uf":"SP","cidade":"Santo Antônio do Pinhal","id":"5247"},{"uf":"SP","cidade":"Santo Expedito","id":"5248"},{"uf":"SP","cidade":"Santópolis do Aguapeí","id":"5249"},{"uf":"SP","cidade":"Santos","id":"5250"},{"uf":"SP","cidade":"São Bento do Sapucaí","id":"5251"},{"uf":"SP","cidade":"São Bernardo do Campo","id":"5252"},{"uf":"SP","cidade":"São Caetano do Sul","id":"5253"},{"uf":"SP","cidade":"São Carlos","id":"5254"},{"uf":"SP","cidade":"São Francisco","id":"5255"},{"uf":"SP","cidade":"São João da Boa Vista","id":"5256"},{"uf":"SP","cidade":"São João das Duas Pontes","id":"5257"},{"uf":"SP","cidade":"São João de Iracema","id":"5258"},{"uf":"SP","cidade":"São João do Pau d`Alho","id":"5259"},{"uf":"SP","cidade":"São Joaquim da Barra","id":"5260"},{"uf":"SP","cidade":"São José da Bela Vista","id":"5261"},{"uf":"SP","cidade":"São José do Barreiro","id":"5262"},{"uf":"SP","cidade":"São José do Rio Pardo","id":"5263"},{"uf":"SP","cidade":"São José do Rio Preto","id":"5264"},{"uf":"SP","cidade":"São José dos Campos","id":"5265"},{"uf":"SP","cidade":"São Lourenço da Serra","id":"5266"},{"uf":"SP","cidade":"São Luís do Paraitinga","id":"5267"},{"uf":"SP","cidade":"São Manuel","id":"5268"},{"uf":"SP","cidade":"São Miguel Arcanjo","id":"5269"},{"uf":"SP","cidade":"São Paulo","id":"5270"},{"uf":"SP","cidade":"São Pedro","id":"5271"},{"uf":"SP","cidade":"São Pedro do Turvo","id":"5272"},{"uf":"SP","cidade":"São Roque","id":"5273"},{"uf":"SP","cidade":"São Sebastião","id":"5274"},{"uf":"SP","cidade":"São Sebastião da Grama","id":"5275"},{"uf":"SP","cidade":"São Simão","id":"5276"},{"uf":"SP","cidade":"São Vicente","id":"5277"},{"uf":"SP","cidade":"Sarapuí","id":"5278"},{"uf":"SP","cidade":"Sarutaiá","id":"5279"},{"uf":"SP","cidade":"Sebastianópolis do Sul","id":"5280"},{"uf":"SP","cidade":"Serra Azul","id":"5281"},{"uf":"SP","cidade":"Serra Negra","id":"5282"},{"uf":"SP","cidade":"Serrana","id":"5283"},{"uf":"SP","cidade":"Sertãozinho","id":"5284"},{"uf":"SP","cidade":"Sete Barras","id":"5285"},{"uf":"SP","cidade":"Severínia","id":"5286"},{"uf":"SP","cidade":"Silveiras","id":"5287"},{"uf":"SP","cidade":"Socorro","id":"5288"},{"uf":"SP","cidade":"Sorocaba","id":"5289"},{"uf":"SP","cidade":"Sud Mennucci","id":"5290"},{"uf":"SP","cidade":"Sumaré","id":"5291"},{"uf":"SP","cidade":"Suzanápolis","id":"5292"},{"uf":"SP","cidade":"Suzano","id":"5293"},{"uf":"SP","cidade":"Tabapuã","id":"5294"},{"uf":"SP","cidade":"Tabatinga","id":"5295"},{"uf":"SP","cidade":"Taboão da Serra","id":"5296"},{"uf":"SP","cidade":"Taciba","id":"5297"},{"uf":"SP","cidade":"Taguaí","id":"5298"},{"uf":"SP","cidade":"Taiaçu","id":"5299"},{"uf":"SP","cidade":"Taiúva","id":"5300"},{"uf":"SP","cidade":"Tambaú","id":"5301"},{"uf":"SP","cidade":"Tanabi","id":"5302"},{"uf":"SP","cidade":"Tapiraí","id":"5303"},{"uf":"SP","cidade":"Tapiratiba","id":"5304"},{"uf":"SP","cidade":"Taquaral","id":"5305"},{"uf":"SP","cidade":"Taquaritinga","id":"5306"},{"uf":"SP","cidade":"Taquarituba","id":"5307"},{"uf":"SP","cidade":"Taquarivaí","id":"5308"},{"uf":"SP","cidade":"Tarabai","id":"5309"},{"uf":"SP","cidade":"Tarumã","id":"5310"},{"uf":"SP","cidade":"Tatuí","id":"5311"},{"uf":"SP","cidade":"Taubaté","id":"5312"},{"uf":"SP","cidade":"Tejupá","id":"5313"},{"uf":"SP","cidade":"Teodoro Sampaio","id":"5314"},{"uf":"SP","cidade":"Terra Roxa","id":"5315"},{"uf":"SP","cidade":"Tietê","id":"5316"},{"uf":"SP","cidade":"Timburi","id":"5317"},{"uf":"SP","cidade":"Torre de Pedra","id":"5318"},{"uf":"SP","cidade":"Torrinha","id":"5319"},{"uf":"SP","cidade":"Trabiju","id":"5320"},{"uf":"SP","cidade":"Tremembé","id":"5321"},{"uf":"SP","cidade":"Três Fronteiras","id":"5322"},{"uf":"SP","cidade":"Tuiuti","id":"5323"},{"uf":"SP","cidade":"Tupã","id":"5324"},{"uf":"SP","cidade":"Tupi Paulista","id":"5325"},{"uf":"SP","cidade":"Turiúba","id":"5326"},{"uf":"SP","cidade":"Turmalina","id":"5327"},{"uf":"SP","cidade":"Ubarana","id":"5328"},{"uf":"SP","cidade":"Ubatuba","id":"5329"},{"uf":"SP","cidade":"Ubirajara","id":"5330"},{"uf":"SP","cidade":"Uchoa","id":"5331"},{"uf":"SP","cidade":"União Paulista","id":"5332"},{"uf":"SP","cidade":"Urânia","id":"5333"},{"uf":"SP","cidade":"Uru","id":"5334"},{"uf":"SP","cidade":"Urupês","id":"5335"},{"uf":"SP","cidade":"Valentim Gentil","id":"5336"},{"uf":"SP","cidade":"Valinhos","id":"5337"},{"uf":"SP","cidade":"Valparaíso","id":"5338"},{"uf":"SP","cidade":"Vargem","id":"5339"},{"uf":"SP","cidade":"Vargem Grande do Sul","id":"5340"},{"uf":"SP","cidade":"Vargem Grande Paulista","id":"5341"},{"uf":"SP","cidade":"Várzea Paulista","id":"5342"},{"uf":"SP","cidade":"Vera Cruz","id":"5343"},{"uf":"SP","cidade":"Vinhedo","id":"5344"},{"uf":"SP","cidade":"Viradouro","id":"5345"},{"uf":"SP","cidade":"Vista Alegre do Alto","id":"5346"},{"uf":"SP","cidade":"Vitória Brasil","id":"5347"},{"uf":"SP","cidade":"Votorantim","id":"5348"},{"uf":"SP","cidade":"Votuporanga","id":"5349"},{"uf":"SP","cidade":"Zacarias","id":"5350"}]
+[
+  {
+    "uf": "SP",
+    "cidade": "Adamantina",
+    "id": "4706"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Adolfo",
+    "id": "4707"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Aguaí",
+    "id": "4708"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Águas da Prata",
+    "id": "4709"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Águas de Lindóia",
+    "id": "4710"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Águas de Santa Bárbara",
+    "id": "4711"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Águas de São Pedro",
+    "id": "4712"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Agudos",
+    "id": "4713"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Alambari",
+    "id": "4714"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Alfredo Marcondes",
+    "id": "4715"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Altair",
+    "id": "4716"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Altinópolis",
+    "id": "4717"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Alto Alegre",
+    "id": "4718"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Alumínio",
+    "id": "4719"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Álvares Florence",
+    "id": "4720"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Álvares Machado",
+    "id": "4721"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Álvaro de Carvalho",
+    "id": "4722"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Alvinlândia",
+    "id": "4723"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Americana",
+    "id": "4724"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Américo Brasiliense",
+    "id": "4725"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Américo de Campos",
+    "id": "4726"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Amparo",
+    "id": "4727"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Analândia",
+    "id": "4728"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Andradina",
+    "id": "4729"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Angatuba",
+    "id": "4730"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Anhembi",
+    "id": "4731"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Anhumas",
+    "id": "4732"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Aparecida",
+    "id": "4733"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Aparecida d`Oeste",
+    "id": "4734"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Apiaí",
+    "id": "4735"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Araçariguama",
+    "id": "4736"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Araçatuba",
+    "id": "4737"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Araçoiaba da Serra",
+    "id": "4738"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Aramina",
+    "id": "4739"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Arandu",
+    "id": "4740"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Arapeí",
+    "id": "4741"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Araraquara",
+    "id": "4742"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Araras",
+    "id": "4743"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Arco-Íris",
+    "id": "4744"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Arealva",
+    "id": "4745"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Areias",
+    "id": "4746"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Areiópolis",
+    "id": "4747"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ariranha",
+    "id": "4748"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Artur Nogueira",
+    "id": "4749"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Arujá",
+    "id": "4750"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Aspásia",
+    "id": "4751"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Assis",
+    "id": "4752"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Atibaia",
+    "id": "4753"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Auriflama",
+    "id": "4754"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Avaí",
+    "id": "4755"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Avanhandava",
+    "id": "4756"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Avaré",
+    "id": "4757"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Bady Bassitt",
+    "id": "4758"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Balbinos",
+    "id": "4759"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Bálsamo",
+    "id": "4760"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Bananal",
+    "id": "4761"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Barão de Antonina",
+    "id": "4762"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Barbosa",
+    "id": "4763"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Bariri",
+    "id": "4764"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Barra Bonita",
+    "id": "4765"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Barra do Chapéu",
+    "id": "4766"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Barra do Turvo",
+    "id": "4767"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Barretos",
+    "id": "4768"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Barrinha",
+    "id": "4769"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Barueri",
+    "id": "4770"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Bastos",
+    "id": "4771"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Batatais",
+    "id": "4772"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Bauru",
+    "id": "4773"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Bebedouro",
+    "id": "4774"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Bento de Abreu",
+    "id": "4775"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Bernardino de Campos",
+    "id": "4776"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Bertioga",
+    "id": "4777"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Bilac",
+    "id": "4778"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Birigui",
+    "id": "4779"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Biritiba-Mirim",
+    "id": "4780"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Boa Esperança do Sul",
+    "id": "4781"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Bocaina",
+    "id": "4782"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Bofete",
+    "id": "4783"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Boituva",
+    "id": "4784"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Bom Jesus dos Perdões",
+    "id": "4785"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Bom Sucesso de Itararé",
+    "id": "4786"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Borá",
+    "id": "4787"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Boracéia",
+    "id": "4788"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Borborema",
+    "id": "4789"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Borebi",
+    "id": "4790"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Botucatu",
+    "id": "4791"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Bragança Paulista",
+    "id": "4792"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Braúna",
+    "id": "4793"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Brejo Alegre",
+    "id": "4794"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Brodowski",
+    "id": "4795"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Brotas",
+    "id": "4796"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Buri",
+    "id": "4797"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Buritama",
+    "id": "4798"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Buritizal",
+    "id": "4799"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cabrália Paulista",
+    "id": "4800"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cabreúva",
+    "id": "4801"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Caçapava",
+    "id": "4802"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cachoeira Paulista",
+    "id": "4803"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Caconde",
+    "id": "4804"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cafelândia",
+    "id": "4805"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Caiabu",
+    "id": "4806"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Caieiras",
+    "id": "4807"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Caiuá",
+    "id": "4808"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cajamar",
+    "id": "4809"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cajati",
+    "id": "4810"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cajobi",
+    "id": "4811"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cajuru",
+    "id": "4812"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Campina do Monte Alegre",
+    "id": "4813"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Campinas",
+    "id": "4814"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Campo Limpo Paulista",
+    "id": "4815"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Campos do Jordão",
+    "id": "4816"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Campos Novos Paulista",
+    "id": "4817"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cananéia",
+    "id": "4818"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Canas",
+    "id": "4819"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cândido Mota",
+    "id": "4820"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cândido Rodrigues",
+    "id": "4821"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Canitar",
+    "id": "4822"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Capão Bonito",
+    "id": "4823"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Capela do Alto",
+    "id": "4824"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Capivari",
+    "id": "4825"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Caraguatatuba",
+    "id": "4826"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Carapicuíba",
+    "id": "4827"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cardoso",
+    "id": "4828"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Casa Branca",
+    "id": "4829"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cássia dos Coqueiros",
+    "id": "4830"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Castilho",
+    "id": "4831"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Catanduva",
+    "id": "4832"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Catiguá",
+    "id": "4833"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cedral",
+    "id": "4834"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cerqueira César",
+    "id": "4835"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cerquilho",
+    "id": "4836"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cesário Lange",
+    "id": "4837"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Charqueada",
+    "id": "4838"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Chavantes",
+    "id": "4839"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Clementina",
+    "id": "4840"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Colina",
+    "id": "4841"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Colômbia",
+    "id": "4842"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Conchal",
+    "id": "4843"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Conchas",
+    "id": "4844"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cordeirópolis",
+    "id": "4845"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Coroados",
+    "id": "4846"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Coronel Macedo",
+    "id": "4847"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Corumbataí",
+    "id": "4848"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cosmópolis",
+    "id": "4849"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cosmorama",
+    "id": "4850"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cotia",
+    "id": "4851"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cravinhos",
+    "id": "4852"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cristais Paulista",
+    "id": "4853"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cruzália",
+    "id": "4854"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cruzeiro",
+    "id": "4855"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cubatão",
+    "id": "4856"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Cunha",
+    "id": "4857"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Descalvado",
+    "id": "4858"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Diadema",
+    "id": "4859"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Dirce Reis",
+    "id": "4860"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Divinolândia",
+    "id": "4861"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Dobrada",
+    "id": "4862"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Dois Córregos",
+    "id": "4863"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Dolcinópolis",
+    "id": "4864"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Dourado",
+    "id": "4865"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Dracena",
+    "id": "4866"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Duartina",
+    "id": "4867"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Dumont",
+    "id": "4868"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Echaporã",
+    "id": "4869"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Eldorado",
+    "id": "4870"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Elias Fausto",
+    "id": "4871"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Elisiário",
+    "id": "4872"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Embaúba",
+    "id": "4873"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Embu",
+    "id": "4874"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Embu-Guaçu",
+    "id": "4875"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Emilianópolis",
+    "id": "4876"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Engenheiro Coelho",
+    "id": "4877"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Espírito Santo do Pinhal",
+    "id": "4878"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Espírito Santo do Turvo",
+    "id": "4879"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Estiva Gerbi",
+    "id": "4880"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Estrela d`Oeste",
+    "id": "4881"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Estrela do Norte",
+    "id": "4882"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Euclides da Cunha Paulista",
+    "id": "4883"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Fartura",
+    "id": "4884"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Fernando Prestes",
+    "id": "4885"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Fernandópolis",
+    "id": "4886"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Fernão",
+    "id": "4887"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ferraz de Vasconcelos",
+    "id": "4888"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Flora Rica",
+    "id": "4889"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Floreal",
+    "id": "4890"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Flórida Paulista",
+    "id": "4891"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Florínia",
+    "id": "4892"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Franca",
+    "id": "4893"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Francisco Morato",
+    "id": "4894"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Franco da Rocha",
+    "id": "4895"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Gabriel Monteiro",
+    "id": "4896"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Gália",
+    "id": "4897"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Garça",
+    "id": "4898"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Gastão Vidigal",
+    "id": "4899"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Gavião Peixoto",
+    "id": "4900"
+  },
+  {
+    "uf": "SP",
+    "cidade": "General Salgado",
+    "id": "4901"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Getulina",
+    "id": "4902"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Glicério",
+    "id": "4903"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guaiçara",
+    "id": "4904"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guaimbê",
+    "id": "4905"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guaíra",
+    "id": "4906"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guapiaçu",
+    "id": "4907"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guapiara",
+    "id": "4908"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guará",
+    "id": "4909"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guaraçaí",
+    "id": "4910"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guaraci",
+    "id": "4911"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guarani d`Oeste",
+    "id": "4912"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guarantã",
+    "id": "4913"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guararapes",
+    "id": "4914"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guararema",
+    "id": "4915"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guaratinguetá",
+    "id": "4916"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guareí",
+    "id": "4917"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guariba",
+    "id": "4918"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guarujá",
+    "id": "4919"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guarulhos",
+    "id": "4920"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guatapará",
+    "id": "4921"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Guzolândia",
+    "id": "4922"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Herculândia",
+    "id": "4923"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Holambra",
+    "id": "4924"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Hortolândia",
+    "id": "4925"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Iacanga",
+    "id": "4926"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Iacri",
+    "id": "4927"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Iaras",
+    "id": "4928"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ibaté",
+    "id": "4929"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ibirá",
+    "id": "4930"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ibirarema",
+    "id": "4931"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ibitinga",
+    "id": "4932"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ibiúna",
+    "id": "4933"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Icém",
+    "id": "4934"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Iepê",
+    "id": "4935"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Igaraçu do Tietê",
+    "id": "4936"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Igarapava",
+    "id": "4937"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Igaratá",
+    "id": "4938"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Iguape",
+    "id": "4939"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ilha Comprida",
+    "id": "4940"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ilha Solteira",
+    "id": "4941"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ilhabela",
+    "id": "4942"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Indaiatuba",
+    "id": "4943"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Indiana",
+    "id": "4944"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Indiaporã",
+    "id": "4945"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Inúbia Paulista",
+    "id": "4946"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ipaussu",
+    "id": "4947"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Iperó",
+    "id": "4948"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ipeúna",
+    "id": "4949"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ipiguá",
+    "id": "4950"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Iporanga",
+    "id": "4951"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ipuã",
+    "id": "4952"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Iracemápolis",
+    "id": "4953"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Irapuã",
+    "id": "4954"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Irapuru",
+    "id": "4955"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itaberá",
+    "id": "4956"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itaí",
+    "id": "4957"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itajobi",
+    "id": "4958"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itaju",
+    "id": "4959"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itanhaém",
+    "id": "4960"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itaóca",
+    "id": "4961"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itapecerica da Serra",
+    "id": "4962"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itapetininga",
+    "id": "4963"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itapeva",
+    "id": "4964"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itapevi",
+    "id": "4965"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itapira",
+    "id": "4966"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itapirapuã Paulista",
+    "id": "4967"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itápolis",
+    "id": "4968"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itaporanga",
+    "id": "4969"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itapuí",
+    "id": "4970"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itapura",
+    "id": "4971"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itaquaquecetuba",
+    "id": "4972"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itararé",
+    "id": "4973"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itariri",
+    "id": "4974"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itatiba",
+    "id": "4975"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itatinga",
+    "id": "4976"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itirapina",
+    "id": "4977"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itirapuã",
+    "id": "4978"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itobi",
+    "id": "4979"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itu",
+    "id": "4980"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Itupeva",
+    "id": "4981"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ituverava",
+    "id": "4982"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Jaborandi",
+    "id": "4983"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Jaboticabal",
+    "id": "4984"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Jacareí",
+    "id": "4985"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Jaci",
+    "id": "4986"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Jacupiranga",
+    "id": "4987"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Jaguariúna",
+    "id": "4988"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Jales",
+    "id": "4989"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Jambeiro",
+    "id": "4990"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Jandira",
+    "id": "4991"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Jardinópolis",
+    "id": "4992"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Jarinu",
+    "id": "4993"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Jaú",
+    "id": "4994"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Jeriquara",
+    "id": "4995"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Joanópolis",
+    "id": "4996"
+  },
+  {
+    "uf": "SP",
+    "cidade": "João Ramalho",
+    "id": "4997"
+  },
+  {
+    "uf": "SP",
+    "cidade": "José Bonifácio",
+    "id": "4998"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Júlio Mesquita",
+    "id": "4999"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Jumirim",
+    "id": "5000"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Jundiaí",
+    "id": "5001"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Junqueirópolis",
+    "id": "5002"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Juquiá",
+    "id": "5003"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Juquitiba",
+    "id": "5004"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Lagoinha",
+    "id": "5005"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Laranjal Paulista",
+    "id": "5006"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Lavínia",
+    "id": "5007"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Lavrinhas",
+    "id": "5008"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Leme",
+    "id": "5009"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Lençóis Paulista",
+    "id": "5010"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Limeira",
+    "id": "5011"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Lindóia",
+    "id": "5012"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Lins",
+    "id": "5013"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Lorena",
+    "id": "5014"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Lourdes",
+    "id": "5015"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Louveira",
+    "id": "5016"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Lucélia",
+    "id": "5017"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Lucianópolis",
+    "id": "5018"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Luís Antônio",
+    "id": "5019"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Luiziânia",
+    "id": "5020"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Lupércio",
+    "id": "5021"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Lutécia",
+    "id": "5022"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Macatuba",
+    "id": "5023"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Macaubal",
+    "id": "5024"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Macedônia",
+    "id": "5025"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Magda",
+    "id": "5026"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mairinque",
+    "id": "5027"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mairiporã",
+    "id": "5028"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Manduri",
+    "id": "5029"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Marabá Paulista",
+    "id": "5030"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Maracaí",
+    "id": "5031"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Marapoama",
+    "id": "5032"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mariápolis",
+    "id": "5033"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Marília",
+    "id": "5034"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Marinópolis",
+    "id": "5035"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Martinópolis",
+    "id": "5036"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Matão",
+    "id": "5037"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mauá",
+    "id": "5038"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mendonça",
+    "id": "5039"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Meridiano",
+    "id": "5040"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mesópolis",
+    "id": "5041"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Miguelópolis",
+    "id": "5042"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mineiros do Tietê",
+    "id": "5043"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mira Estrela",
+    "id": "5044"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Miracatu",
+    "id": "5045"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mirandópolis",
+    "id": "5046"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mirante do Paranapanema",
+    "id": "5047"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mirassol",
+    "id": "5048"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mirassolândia",
+    "id": "5049"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mococa",
+    "id": "5050"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mogi das Cruzes",
+    "id": "5051"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mogi Guaçu",
+    "id": "5052"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Moji Mirim",
+    "id": "5053"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mombuca",
+    "id": "5054"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Monções",
+    "id": "5055"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Mongaguá",
+    "id": "5056"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Monte Alegre do Sul",
+    "id": "5057"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Monte Alto",
+    "id": "5058"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Monte Aprazível",
+    "id": "5059"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Monte Azul Paulista",
+    "id": "5060"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Monte Castelo",
+    "id": "5061"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Monte Mor",
+    "id": "5062"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Monteiro Lobato",
+    "id": "5063"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Morro Agudo",
+    "id": "5064"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Morungaba",
+    "id": "5065"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Motuca",
+    "id": "5066"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Murutinga do Sul",
+    "id": "5067"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Nantes",
+    "id": "5068"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Narandiba",
+    "id": "5069"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Natividade da Serra",
+    "id": "5070"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Nazaré Paulista",
+    "id": "5071"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Neves Paulista",
+    "id": "5072"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Nhandeara",
+    "id": "5073"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Nipoã",
+    "id": "5074"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Nova Aliança",
+    "id": "5075"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Nova Campina",
+    "id": "5076"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Nova Canaã Paulista",
+    "id": "5077"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Nova Castilho",
+    "id": "5078"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Nova Europa",
+    "id": "5079"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Nova Granada",
+    "id": "5080"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Nova Guataporanga",
+    "id": "5081"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Nova Independência",
+    "id": "5082"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Nova Luzitânia",
+    "id": "5083"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Nova Odessa",
+    "id": "5084"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Novais",
+    "id": "5085"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Novo Horizonte",
+    "id": "5086"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Nuporanga",
+    "id": "5087"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ocauçu",
+    "id": "5088"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Óleo",
+    "id": "5089"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Olímpia",
+    "id": "5090"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Onda Verde",
+    "id": "5091"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Oriente",
+    "id": "5092"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Orindiúva",
+    "id": "5093"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Orlândia",
+    "id": "5094"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Osasco",
+    "id": "5095"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Oscar Bressane",
+    "id": "5096"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Osvaldo Cruz",
+    "id": "5097"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ourinhos",
+    "id": "5098"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ouro Verde",
+    "id": "5099"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ouroeste",
+    "id": "5100"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pacaembu",
+    "id": "5101"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Palestina",
+    "id": "5102"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Palmares Paulista",
+    "id": "5103"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Palmeira d`Oeste",
+    "id": "5104"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Palmital",
+    "id": "5105"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Panorama",
+    "id": "5106"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Paraguaçu Paulista",
+    "id": "5107"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Paraibuna",
+    "id": "5108"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Paraíso",
+    "id": "5109"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Paranapanema",
+    "id": "5110"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Paranapuã",
+    "id": "5111"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Parapuã",
+    "id": "5112"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pardinho",
+    "id": "5113"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pariquera-Açu",
+    "id": "5114"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Parisi",
+    "id": "5115"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Patrocínio Paulista",
+    "id": "5116"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Paulicéia",
+    "id": "5117"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Paulínia",
+    "id": "5118"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Paulistânia",
+    "id": "5119"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Paulo de Faria",
+    "id": "5120"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pederneiras",
+    "id": "5121"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pedra Bela",
+    "id": "5122"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pedranópolis",
+    "id": "5123"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pedregulho",
+    "id": "5124"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pedreira",
+    "id": "5125"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pedrinhas Paulista",
+    "id": "5126"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pedro de Toledo",
+    "id": "5127"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Penápolis",
+    "id": "5128"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pereira Barreto",
+    "id": "5129"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pereiras",
+    "id": "5130"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Peruíbe",
+    "id": "5131"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Piacatu",
+    "id": "5132"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Piedade",
+    "id": "5133"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pilar do Sul",
+    "id": "5134"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pindamonhangaba",
+    "id": "5135"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pindorama",
+    "id": "5136"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pinhalzinho",
+    "id": "5137"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Piquerobi",
+    "id": "5138"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Piquete",
+    "id": "5139"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Piracaia",
+    "id": "5140"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Piracicaba",
+    "id": "5141"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Piraju",
+    "id": "5142"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pirajuí",
+    "id": "5143"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pirangi",
+    "id": "5144"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pirapora do Bom Jesus",
+    "id": "5145"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pirapozinho",
+    "id": "5146"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pirassununga",
+    "id": "5147"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Piratininga",
+    "id": "5148"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pitangueiras",
+    "id": "5149"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Planalto",
+    "id": "5150"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Platina",
+    "id": "5151"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Poá",
+    "id": "5152"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Poloni",
+    "id": "5153"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pompéia",
+    "id": "5154"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pongaí",
+    "id": "5155"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pontal",
+    "id": "5156"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pontalinda",
+    "id": "5157"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pontes Gestal",
+    "id": "5158"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Populina",
+    "id": "5159"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Porangaba",
+    "id": "5160"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Porto Feliz",
+    "id": "5161"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Porto Ferreira",
+    "id": "5162"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Potim",
+    "id": "5163"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Potirendaba",
+    "id": "5164"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pracinha",
+    "id": "5165"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pradópolis",
+    "id": "5166"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Praia Grande",
+    "id": "5167"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Pratânia",
+    "id": "5168"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Presidente Alves",
+    "id": "5169"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Presidente Bernardes",
+    "id": "5170"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Presidente Epitácio",
+    "id": "5171"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Presidente Prudente",
+    "id": "5172"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Presidente Venceslau",
+    "id": "5173"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Promissão",
+    "id": "5174"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Quadra",
+    "id": "5175"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Quatá",
+    "id": "5176"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Queiroz",
+    "id": "5177"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Queluz",
+    "id": "5178"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Quintana",
+    "id": "5179"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Rafard",
+    "id": "5180"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Rancharia",
+    "id": "5181"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Redenção da Serra",
+    "id": "5182"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Regente Feijó",
+    "id": "5183"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Reginópolis",
+    "id": "5184"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Registro",
+    "id": "5185"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Restinga",
+    "id": "5186"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ribeira",
+    "id": "5187"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ribeirão Bonito",
+    "id": "5188"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ribeirão Branco",
+    "id": "5189"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ribeirão Corrente",
+    "id": "5190"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ribeirão do Sul",
+    "id": "5191"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ribeirão dos Índios",
+    "id": "5192"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ribeirão Grande",
+    "id": "5193"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ribeirão Pires",
+    "id": "5194"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ribeirão Preto",
+    "id": "5195"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Rifaina",
+    "id": "5196"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Rincão",
+    "id": "5197"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Rinópolis",
+    "id": "5198"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Rio Claro",
+    "id": "5199"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Rio das Pedras",
+    "id": "5200"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Rio Grande da Serra",
+    "id": "5201"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Riolândia",
+    "id": "5202"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Riversul",
+    "id": "5203"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Rosana",
+    "id": "5204"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Roseira",
+    "id": "5205"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Rubiácea",
+    "id": "5206"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Rubinéia",
+    "id": "5207"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Sabino",
+    "id": "5208"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Sagres",
+    "id": "5209"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Sales",
+    "id": "5210"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Sales Oliveira",
+    "id": "5211"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Salesópolis",
+    "id": "5212"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Salmourão",
+    "id": "5213"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Saltinho",
+    "id": "5214"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Salto",
+    "id": "5215"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Salto de Pirapora",
+    "id": "5216"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Salto Grande",
+    "id": "5217"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Sandovalina",
+    "id": "5218"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Adélia",
+    "id": "5219"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Albertina",
+    "id": "5220"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Bárbara d`Oeste",
+    "id": "5221"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Branca",
+    "id": "5222"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Clara d`Oeste",
+    "id": "5223"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Cruz da Conceição",
+    "id": "5224"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Cruz da Esperança",
+    "id": "5225"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Cruz das Palmeiras",
+    "id": "5226"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Cruz do Rio Pardo",
+    "id": "5227"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Ernestina",
+    "id": "5228"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Fé do Sul",
+    "id": "5229"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Gertrudes",
+    "id": "5230"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Isabel",
+    "id": "5231"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Lúcia",
+    "id": "5232"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Maria da Serra",
+    "id": "5233"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Mercedes",
+    "id": "5234"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Rita d`Oeste",
+    "id": "5235"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Rita do Passa Quatro",
+    "id": "5236"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Rosa de Viterbo",
+    "id": "5237"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santa Salete",
+    "id": "5238"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santana da Ponte Pensa",
+    "id": "5239"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santana de Parnaíba",
+    "id": "5240"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santo Anastácio",
+    "id": "5241"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santo André",
+    "id": "5242"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santo Antônio da Alegria",
+    "id": "5243"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santo Antônio de Posse",
+    "id": "5244"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santo Antônio do Aracanguá",
+    "id": "5245"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santo Antônio do Jardim",
+    "id": "5246"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santo Antônio do Pinhal",
+    "id": "5247"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santo Expedito",
+    "id": "5248"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santópolis do Aguapeí",
+    "id": "5249"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Santos",
+    "id": "5250"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Bento do Sapucaí",
+    "id": "5251"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Bernardo do Campo",
+    "id": "5252"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Caetano do Sul",
+    "id": "5253"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Carlos",
+    "id": "5254"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Francisco",
+    "id": "5255"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São João da Boa Vista",
+    "id": "5256"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São João das Duas Pontes",
+    "id": "5257"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São João de Iracema",
+    "id": "5258"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São João do Pau d`Alho",
+    "id": "5259"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Joaquim da Barra",
+    "id": "5260"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São José da Bela Vista",
+    "id": "5261"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São José do Barreiro",
+    "id": "5262"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São José do Rio Pardo",
+    "id": "5263"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São José do Rio Preto",
+    "id": "5264"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São José dos Campos",
+    "id": "5265"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Lourenço da Serra",
+    "id": "5266"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Luís do Paraitinga",
+    "id": "5267"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Manuel",
+    "id": "5268"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Miguel Arcanjo",
+    "id": "5269"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Paulo",
+    "id": "5270"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Pedro",
+    "id": "5271"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Pedro do Turvo",
+    "id": "5272"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Roque",
+    "id": "5273"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Sebastião",
+    "id": "5274"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Sebastião da Grama",
+    "id": "5275"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Simão",
+    "id": "5276"
+  },
+  {
+    "uf": "SP",
+    "cidade": "São Vicente",
+    "id": "5277"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Sarapuí",
+    "id": "5278"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Sarutaiá",
+    "id": "5279"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Sebastianópolis do Sul",
+    "id": "5280"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Serra Azul",
+    "id": "5281"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Serra Negra",
+    "id": "5282"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Serrana",
+    "id": "5283"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Sertãozinho",
+    "id": "5284"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Sete Barras",
+    "id": "5285"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Severínia",
+    "id": "5286"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Silveiras",
+    "id": "5287"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Socorro",
+    "id": "5288"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Sorocaba",
+    "id": "5289"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Sud Mennucci",
+    "id": "5290"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Sumaré",
+    "id": "5291"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Suzanápolis",
+    "id": "5292"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Suzano",
+    "id": "5293"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Tabapuã",
+    "id": "5294"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Tabatinga",
+    "id": "5295"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Taboão da Serra",
+    "id": "5296"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Taciba",
+    "id": "5297"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Taguaí",
+    "id": "5298"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Taiaçu",
+    "id": "5299"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Taiúva",
+    "id": "5300"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Tambaú",
+    "id": "5301"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Tanabi",
+    "id": "5302"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Tapiraí",
+    "id": "5303"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Tapiratiba",
+    "id": "5304"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Taquaral",
+    "id": "5305"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Taquaritinga",
+    "id": "5306"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Taquarituba",
+    "id": "5307"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Taquarivaí",
+    "id": "5308"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Tarabai",
+    "id": "5309"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Tarumã",
+    "id": "5310"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Tatuí",
+    "id": "5311"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Taubaté",
+    "id": "5312"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Tejupá",
+    "id": "5313"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Teodoro Sampaio",
+    "id": "5314"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Terra Roxa",
+    "id": "5315"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Tietê",
+    "id": "5316"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Timburi",
+    "id": "5317"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Torre de Pedra",
+    "id": "5318"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Torrinha",
+    "id": "5319"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Trabiju",
+    "id": "5320"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Tremembé",
+    "id": "5321"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Três Fronteiras",
+    "id": "5322"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Tuiuti",
+    "id": "5323"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Tupã",
+    "id": "5324"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Tupi Paulista",
+    "id": "5325"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Turiúba",
+    "id": "5326"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Turmalina",
+    "id": "5327"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ubarana",
+    "id": "5328"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ubatuba",
+    "id": "5329"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Ubirajara",
+    "id": "5330"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Uchoa",
+    "id": "5331"
+  },
+  {
+    "uf": "SP",
+    "cidade": "União Paulista",
+    "id": "5332"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Urânia",
+    "id": "5333"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Uru",
+    "id": "5334"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Urupês",
+    "id": "5335"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Valentim Gentil",
+    "id": "5336"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Valinhos",
+    "id": "5337"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Valparaíso",
+    "id": "5338"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Vargem",
+    "id": "5339"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Vargem Grande do Sul",
+    "id": "5340"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Vargem Grande Paulista",
+    "id": "5341"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Várzea Paulista",
+    "id": "5342"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Vera Cruz",
+    "id": "5343"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Vinhedo",
+    "id": "5344"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Viradouro",
+    "id": "5345"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Vista Alegre do Alto",
+    "id": "5346"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Vitória Brasil",
+    "id": "5347"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Votorantim",
+    "id": "5348"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Votuporanga",
+    "id": "5349"
+  },
+  {
+    "uf": "SP",
+    "cidade": "Zacarias",
+    "id": "5350"
+  }
+]

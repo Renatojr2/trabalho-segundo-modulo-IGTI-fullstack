@@ -1,1 +1,697 @@
-[{"uf":"TO","cidade":"Abreulândia","id":"5426"},{"uf":"TO","cidade":"Aguiarnópolis","id":"5427"},{"uf":"TO","cidade":"Aliança do Tocantins","id":"5428"},{"uf":"TO","cidade":"Almas","id":"5429"},{"uf":"TO","cidade":"Alvorada","id":"5430"},{"uf":"TO","cidade":"Ananás","id":"5431"},{"uf":"TO","cidade":"Angico","id":"5432"},{"uf":"TO","cidade":"Aparecida do Rio Negro","id":"5433"},{"uf":"TO","cidade":"Aragominas","id":"5434"},{"uf":"TO","cidade":"Araguacema","id":"5435"},{"uf":"TO","cidade":"Araguaçu","id":"5436"},{"uf":"TO","cidade":"Araguaína","id":"5437"},{"uf":"TO","cidade":"Araguanã","id":"5438"},{"uf":"TO","cidade":"Araguatins","id":"5439"},{"uf":"TO","cidade":"Arapoema","id":"5440"},{"uf":"TO","cidade":"Arraias","id":"5441"},{"uf":"TO","cidade":"Augustinópolis","id":"5442"},{"uf":"TO","cidade":"Aurora do Tocantins","id":"5443"},{"uf":"TO","cidade":"Axixá do Tocantins","id":"5444"},{"uf":"TO","cidade":"Babaçulândia","id":"5445"},{"uf":"TO","cidade":"Bandeirantes do Tocantins","id":"5446"},{"uf":"TO","cidade":"Barra do Ouro","id":"5447"},{"uf":"TO","cidade":"Barrolândia","id":"5448"},{"uf":"TO","cidade":"Bernardo Sayão","id":"5449"},{"uf":"TO","cidade":"Bom Jesus do Tocantins","id":"5450"},{"uf":"TO","cidade":"Brasilândia do Tocantins","id":"5451"},{"uf":"TO","cidade":"Brejinho de Nazaré","id":"5452"},{"uf":"TO","cidade":"Buriti do Tocantins","id":"5453"},{"uf":"TO","cidade":"Cachoeirinha","id":"5454"},{"uf":"TO","cidade":"Campos Lindos","id":"5455"},{"uf":"TO","cidade":"Cariri do Tocantins","id":"5456"},{"uf":"TO","cidade":"Carmolândia","id":"5457"},{"uf":"TO","cidade":"Carrasco Bonito","id":"5458"},{"uf":"TO","cidade":"Caseara","id":"5459"},{"uf":"TO","cidade":"Centenário","id":"5460"},{"uf":"TO","cidade":"Chapada da Natividade","id":"5461"},{"uf":"TO","cidade":"Chapada de Areia","id":"5462"},{"uf":"TO","cidade":"Colinas do Tocantins","id":"5463"},{"uf":"TO","cidade":"Colméia","id":"5464"},{"uf":"TO","cidade":"Combinado","id":"5465"},{"uf":"TO","cidade":"Conceição do Tocantins","id":"5466"},{"uf":"TO","cidade":"Couto de Magalhães","id":"5467"},{"uf":"TO","cidade":"Cristalândia","id":"5468"},{"uf":"TO","cidade":"Crixás do Tocantins","id":"5469"},{"uf":"TO","cidade":"Darcinópolis","id":"5470"},{"uf":"TO","cidade":"Dianópolis","id":"5471"},{"uf":"TO","cidade":"Divinópolis do Tocantins","id":"5472"},{"uf":"TO","cidade":"Dois Irmãos do Tocantins","id":"5473"},{"uf":"TO","cidade":"Dueré","id":"5474"},{"uf":"TO","cidade":"Esperantina","id":"5475"},{"uf":"TO","cidade":"Fátima","id":"5476"},{"uf":"TO","cidade":"Figueirópolis","id":"5477"},{"uf":"TO","cidade":"Filadélfia","id":"5478"},{"uf":"TO","cidade":"Formoso do Araguaia","id":"5479"},{"uf":"TO","cidade":"Fortaleza do Tabocão","id":"5480"},{"uf":"TO","cidade":"Goianorte","id":"5481"},{"uf":"TO","cidade":"Goiatins","id":"5482"},{"uf":"TO","cidade":"Guaraí","id":"5483"},{"uf":"TO","cidade":"Gurupi","id":"5484"},{"uf":"TO","cidade":"Ipueiras","id":"5485"},{"uf":"TO","cidade":"Itacajá","id":"5486"},{"uf":"TO","cidade":"Itaguatins","id":"5487"},{"uf":"TO","cidade":"Itapiratins","id":"5488"},{"uf":"TO","cidade":"Itaporã do Tocantins","id":"5489"},{"uf":"TO","cidade":"Jaú do Tocantins","id":"5490"},{"uf":"TO","cidade":"Juarina","id":"5491"},{"uf":"TO","cidade":"Lagoa da Confusão","id":"5492"},{"uf":"TO","cidade":"Lagoa do Tocantins","id":"5493"},{"uf":"TO","cidade":"Lajeado","id":"5494"},{"uf":"TO","cidade":"Lavandeira","id":"5495"},{"uf":"TO","cidade":"Lizarda","id":"5496"},{"uf":"TO","cidade":"Luzinópolis","id":"5497"},{"uf":"TO","cidade":"Marianópolis do Tocantins","id":"5498"},{"uf":"TO","cidade":"Mateiros","id":"5499"},{"uf":"TO","cidade":"Maurilândia do Tocantins","id":"5500"},{"uf":"TO","cidade":"Miracema do Tocantins","id":"5501"},{"uf":"TO","cidade":"Miranorte","id":"5502"},{"uf":"TO","cidade":"Monte do Carmo","id":"5503"},{"uf":"TO","cidade":"Monte Santo do Tocantins","id":"5504"},{"uf":"TO","cidade":"Muricilândia","id":"5505"},{"uf":"TO","cidade":"Natividade","id":"5506"},{"uf":"TO","cidade":"Nazaré","id":"5507"},{"uf":"TO","cidade":"Nova Olinda","id":"5508"},{"uf":"TO","cidade":"Nova Rosalândia","id":"5509"},{"uf":"TO","cidade":"Novo Acordo","id":"5510"},{"uf":"TO","cidade":"Novo Alegre","id":"5511"},{"uf":"TO","cidade":"Novo Jardim","id":"5512"},{"uf":"TO","cidade":"Oliveira de Fátima","id":"5513"},{"uf":"TO","cidade":"Palmas","id":"5514"},{"uf":"TO","cidade":"Palmeirante","id":"5515"},{"uf":"TO","cidade":"Palmeiras do Tocantins","id":"5516"},{"uf":"TO","cidade":"Palmeirópolis","id":"5517"},{"uf":"TO","cidade":"Paraíso do Tocantins","id":"5518"},{"uf":"TO","cidade":"Paranã","id":"5519"},{"uf":"TO","cidade":"Pau d`Arco","id":"5520"},{"uf":"TO","cidade":"Pedro Afonso","id":"5521"},{"uf":"TO","cidade":"Peixe","id":"5522"},{"uf":"TO","cidade":"Pequizeiro","id":"5523"},{"uf":"TO","cidade":"Pindorama do Tocantins","id":"5524"},{"uf":"TO","cidade":"Piraquê","id":"5525"},{"uf":"TO","cidade":"Pium","id":"5526"},{"uf":"TO","cidade":"Ponte Alta do Bom Jesus","id":"5527"},{"uf":"TO","cidade":"Ponte Alta do Tocantins","id":"5528"},{"uf":"TO","cidade":"Porto Alegre do Tocantins","id":"5529"},{"uf":"TO","cidade":"Porto Nacional","id":"5530"},{"uf":"TO","cidade":"Praia Norte","id":"5531"},{"uf":"TO","cidade":"Presidente Kennedy","id":"5532"},{"uf":"TO","cidade":"Pugmil","id":"5533"},{"uf":"TO","cidade":"Recursolândia","id":"5534"},{"uf":"TO","cidade":"Riachinho","id":"5535"},{"uf":"TO","cidade":"Rio da Conceição","id":"5536"},{"uf":"TO","cidade":"Rio dos Bois","id":"5537"},{"uf":"TO","cidade":"Rio Sono","id":"5538"},{"uf":"TO","cidade":"Sampaio","id":"5539"},{"uf":"TO","cidade":"Sandolândia","id":"5540"},{"uf":"TO","cidade":"Santa Fé do Araguaia","id":"5541"},{"uf":"TO","cidade":"Santa Maria do Tocantins","id":"5542"},{"uf":"TO","cidade":"Santa Rita do Tocantins","id":"5543"},{"uf":"TO","cidade":"Santa Rosa do Tocantins","id":"5544"},{"uf":"TO","cidade":"Santa Tereza do Tocantins","id":"5545"},{"uf":"TO","cidade":"Santa Terezinha do Tocantins","id":"5546"},{"uf":"TO","cidade":"São Bento do Tocantins","id":"5547"},{"uf":"TO","cidade":"São Félix do Tocantins","id":"5548"},{"uf":"TO","cidade":"São Miguel do Tocantins","id":"5549"},{"uf":"TO","cidade":"São Salvador do Tocantins","id":"5550"},{"uf":"TO","cidade":"São Sebastião do Tocantins","id":"5551"},{"uf":"TO","cidade":"São Valério da Natividade","id":"5552"},{"uf":"TO","cidade":"Silvanópolis","id":"5553"},{"uf":"TO","cidade":"Sítio Novo do Tocantins","id":"5554"},{"uf":"TO","cidade":"Sucupira","id":"5555"},{"uf":"TO","cidade":"Taguatinga","id":"5556"},{"uf":"TO","cidade":"Taipas do Tocantins","id":"5557"},{"uf":"TO","cidade":"Talismã","id":"5558"},{"uf":"TO","cidade":"Tocantínia","id":"5559"},{"uf":"TO","cidade":"Tocantinópolis","id":"5560"},{"uf":"TO","cidade":"Tupirama","id":"5561"},{"uf":"TO","cidade":"Tupiratins","id":"5562"},{"uf":"TO","cidade":"Wanderlândia","id":"5563"},{"uf":"TO","cidade":"Xambioá","id":"5564"}]
+[
+  {
+    "uf": "TO",
+    "cidade": "Abreulândia",
+    "id": "5426"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Aguiarnópolis",
+    "id": "5427"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Aliança do Tocantins",
+    "id": "5428"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Almas",
+    "id": "5429"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Alvorada",
+    "id": "5430"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Ananás",
+    "id": "5431"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Angico",
+    "id": "5432"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Aparecida do Rio Negro",
+    "id": "5433"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Aragominas",
+    "id": "5434"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Araguacema",
+    "id": "5435"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Araguaçu",
+    "id": "5436"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Araguaína",
+    "id": "5437"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Araguanã",
+    "id": "5438"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Araguatins",
+    "id": "5439"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Arapoema",
+    "id": "5440"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Arraias",
+    "id": "5441"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Augustinópolis",
+    "id": "5442"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Aurora do Tocantins",
+    "id": "5443"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Axixá do Tocantins",
+    "id": "5444"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Babaçulândia",
+    "id": "5445"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Bandeirantes do Tocantins",
+    "id": "5446"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Barra do Ouro",
+    "id": "5447"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Barrolândia",
+    "id": "5448"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Bernardo Sayão",
+    "id": "5449"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Bom Jesus do Tocantins",
+    "id": "5450"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Brasilândia do Tocantins",
+    "id": "5451"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Brejinho de Nazaré",
+    "id": "5452"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Buriti do Tocantins",
+    "id": "5453"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Cachoeirinha",
+    "id": "5454"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Campos Lindos",
+    "id": "5455"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Cariri do Tocantins",
+    "id": "5456"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Carmolândia",
+    "id": "5457"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Carrasco Bonito",
+    "id": "5458"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Caseara",
+    "id": "5459"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Centenário",
+    "id": "5460"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Chapada da Natividade",
+    "id": "5461"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Chapada de Areia",
+    "id": "5462"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Colinas do Tocantins",
+    "id": "5463"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Colméia",
+    "id": "5464"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Combinado",
+    "id": "5465"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Conceição do Tocantins",
+    "id": "5466"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Couto de Magalhães",
+    "id": "5467"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Cristalândia",
+    "id": "5468"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Crixás do Tocantins",
+    "id": "5469"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Darcinópolis",
+    "id": "5470"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Dianópolis",
+    "id": "5471"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Divinópolis do Tocantins",
+    "id": "5472"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Dois Irmãos do Tocantins",
+    "id": "5473"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Dueré",
+    "id": "5474"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Esperantina",
+    "id": "5475"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Fátima",
+    "id": "5476"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Figueirópolis",
+    "id": "5477"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Filadélfia",
+    "id": "5478"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Formoso do Araguaia",
+    "id": "5479"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Fortaleza do Tabocão",
+    "id": "5480"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Goianorte",
+    "id": "5481"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Goiatins",
+    "id": "5482"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Guaraí",
+    "id": "5483"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Gurupi",
+    "id": "5484"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Ipueiras",
+    "id": "5485"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Itacajá",
+    "id": "5486"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Itaguatins",
+    "id": "5487"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Itapiratins",
+    "id": "5488"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Itaporã do Tocantins",
+    "id": "5489"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Jaú do Tocantins",
+    "id": "5490"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Juarina",
+    "id": "5491"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Lagoa da Confusão",
+    "id": "5492"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Lagoa do Tocantins",
+    "id": "5493"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Lajeado",
+    "id": "5494"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Lavandeira",
+    "id": "5495"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Lizarda",
+    "id": "5496"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Luzinópolis",
+    "id": "5497"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Marianópolis do Tocantins",
+    "id": "5498"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Mateiros",
+    "id": "5499"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Maurilândia do Tocantins",
+    "id": "5500"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Miracema do Tocantins",
+    "id": "5501"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Miranorte",
+    "id": "5502"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Monte do Carmo",
+    "id": "5503"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Monte Santo do Tocantins",
+    "id": "5504"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Muricilândia",
+    "id": "5505"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Natividade",
+    "id": "5506"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Nazaré",
+    "id": "5507"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Nova Olinda",
+    "id": "5508"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Nova Rosalândia",
+    "id": "5509"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Novo Acordo",
+    "id": "5510"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Novo Alegre",
+    "id": "5511"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Novo Jardim",
+    "id": "5512"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Oliveira de Fátima",
+    "id": "5513"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Palmas",
+    "id": "5514"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Palmeirante",
+    "id": "5515"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Palmeiras do Tocantins",
+    "id": "5516"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Palmeirópolis",
+    "id": "5517"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Paraíso do Tocantins",
+    "id": "5518"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Paranã",
+    "id": "5519"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Pau d`Arco",
+    "id": "5520"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Pedro Afonso",
+    "id": "5521"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Peixe",
+    "id": "5522"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Pequizeiro",
+    "id": "5523"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Pindorama do Tocantins",
+    "id": "5524"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Piraquê",
+    "id": "5525"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Pium",
+    "id": "5526"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Ponte Alta do Bom Jesus",
+    "id": "5527"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Ponte Alta do Tocantins",
+    "id": "5528"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Porto Alegre do Tocantins",
+    "id": "5529"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Porto Nacional",
+    "id": "5530"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Praia Norte",
+    "id": "5531"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Presidente Kennedy",
+    "id": "5532"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Pugmil",
+    "id": "5533"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Recursolândia",
+    "id": "5534"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Riachinho",
+    "id": "5535"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Rio da Conceição",
+    "id": "5536"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Rio dos Bois",
+    "id": "5537"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Rio Sono",
+    "id": "5538"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Sampaio",
+    "id": "5539"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Sandolândia",
+    "id": "5540"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Santa Fé do Araguaia",
+    "id": "5541"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Santa Maria do Tocantins",
+    "id": "5542"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Santa Rita do Tocantins",
+    "id": "5543"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Santa Rosa do Tocantins",
+    "id": "5544"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Santa Tereza do Tocantins",
+    "id": "5545"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Santa Terezinha do Tocantins",
+    "id": "5546"
+  },
+  {
+    "uf": "TO",
+    "cidade": "São Bento do Tocantins",
+    "id": "5547"
+  },
+  {
+    "uf": "TO",
+    "cidade": "São Félix do Tocantins",
+    "id": "5548"
+  },
+  {
+    "uf": "TO",
+    "cidade": "São Miguel do Tocantins",
+    "id": "5549"
+  },
+  {
+    "uf": "TO",
+    "cidade": "São Salvador do Tocantins",
+    "id": "5550"
+  },
+  {
+    "uf": "TO",
+    "cidade": "São Sebastião do Tocantins",
+    "id": "5551"
+  },
+  {
+    "uf": "TO",
+    "cidade": "São Valério da Natividade",
+    "id": "5552"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Silvanópolis",
+    "id": "5553"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Sítio Novo do Tocantins",
+    "id": "5554"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Sucupira",
+    "id": "5555"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Taguatinga",
+    "id": "5556"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Taipas do Tocantins",
+    "id": "5557"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Talismã",
+    "id": "5558"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Tocantínia",
+    "id": "5559"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Tocantinópolis",
+    "id": "5560"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Tupirama",
+    "id": "5561"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Tupiratins",
+    "id": "5562"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Wanderlândia",
+    "id": "5563"
+  },
+  {
+    "uf": "TO",
+    "cidade": "Xambioá",
+    "id": "5564"
+  }
+]

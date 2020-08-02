@@ -1,1 +1,837 @@
-[{"uf":"RN","cidade":"Acari","id":"3683"},{"uf":"RN","cidade":"Açu","id":"3684"},{"uf":"RN","cidade":"Afonso Bezerra","id":"3685"},{"uf":"RN","cidade":"Água Nova","id":"3686"},{"uf":"RN","cidade":"Alexandria","id":"3687"},{"uf":"RN","cidade":"Almino Afonso","id":"3688"},{"uf":"RN","cidade":"Alto do Rodrigues","id":"3689"},{"uf":"RN","cidade":"Angicos","id":"3690"},{"uf":"RN","cidade":"Antônio Martins","id":"3691"},{"uf":"RN","cidade":"Apodi","id":"3692"},{"uf":"RN","cidade":"Areia Branca","id":"3693"},{"uf":"RN","cidade":"Arês","id":"3694"},{"uf":"RN","cidade":"Augusto Severo","id":"3695"},{"uf":"RN","cidade":"Baía Formosa","id":"3696"},{"uf":"RN","cidade":"Baraúna","id":"3697"},{"uf":"RN","cidade":"Barcelona","id":"3698"},{"uf":"RN","cidade":"Bento Fernandes","id":"3699"},{"uf":"RN","cidade":"Bodó","id":"3700"},{"uf":"RN","cidade":"Bom Jesus","id":"3701"},{"uf":"RN","cidade":"Brejinho","id":"3702"},{"uf":"RN","cidade":"Caiçara do Norte","id":"3703"},{"uf":"RN","cidade":"Caiçara do Rio do Vento","id":"3704"},{"uf":"RN","cidade":"Caicó","id":"3705"},{"uf":"RN","cidade":"Campo Redondo","id":"3706"},{"uf":"RN","cidade":"Canguaretama","id":"3707"},{"uf":"RN","cidade":"Caraúbas","id":"3708"},{"uf":"RN","cidade":"Carnaúba dos Dantas","id":"3709"},{"uf":"RN","cidade":"Carnaubais","id":"3710"},{"uf":"RN","cidade":"Ceará-Mirim","id":"3711"},{"uf":"RN","cidade":"Cerro Corá","id":"3712"},{"uf":"RN","cidade":"Coronel Ezequiel","id":"3713"},{"uf":"RN","cidade":"Coronel João Pessoa","id":"3714"},{"uf":"RN","cidade":"Cruzeta","id":"3715"},{"uf":"RN","cidade":"Currais Novos","id":"3716"},{"uf":"RN","cidade":"Doutor Severiano","id":"3717"},{"uf":"RN","cidade":"Encanto","id":"3718"},{"uf":"RN","cidade":"Equador","id":"3719"},{"uf":"RN","cidade":"Espírito Santo","id":"3720"},{"uf":"RN","cidade":"Extremoz","id":"3721"},{"uf":"RN","cidade":"Felipe Guerra","id":"3722"},{"uf":"RN","cidade":"Fernando Pedroza","id":"3723"},{"uf":"RN","cidade":"Florânia","id":"3724"},{"uf":"RN","cidade":"Francisco Dantas","id":"3725"},{"uf":"RN","cidade":"Frutuoso Gomes","id":"3726"},{"uf":"RN","cidade":"Galinhos","id":"3727"},{"uf":"RN","cidade":"Goianinha","id":"3728"},{"uf":"RN","cidade":"Governador Dix-Sept Rosado","id":"3729"},{"uf":"RN","cidade":"Grossos","id":"3730"},{"uf":"RN","cidade":"Guamaré","id":"3731"},{"uf":"RN","cidade":"Ielmo Marinho","id":"3732"},{"uf":"RN","cidade":"Ipanguaçu","id":"3733"},{"uf":"RN","cidade":"Ipueira","id":"3734"},{"uf":"RN","cidade":"Itajá","id":"3735"},{"uf":"RN","cidade":"Itaú","id":"3736"},{"uf":"RN","cidade":"Jaçanã","id":"3737"},{"uf":"RN","cidade":"Jandaíra","id":"3738"},{"uf":"RN","cidade":"Janduís","id":"3739"},{"uf":"RN","cidade":"Januário Cicco","id":"3740"},{"uf":"RN","cidade":"Japi","id":"3741"},{"uf":"RN","cidade":"Jardim de Angicos","id":"3742"},{"uf":"RN","cidade":"Jardim de Piranhas","id":"3743"},{"uf":"RN","cidade":"Jardim do Seridó","id":"3744"},{"uf":"RN","cidade":"João Câmara","id":"3745"},{"uf":"RN","cidade":"João Dias","id":"3746"},{"uf":"RN","cidade":"José da Penha","id":"3747"},{"uf":"RN","cidade":"Jucurutu","id":"3748"},{"uf":"RN","cidade":"Jundiá","id":"3749"},{"uf":"RN","cidade":"Lagoa d`Anta","id":"3750"},{"uf":"RN","cidade":"Lagoa de Pedras","id":"3751"},{"uf":"RN","cidade":"Lagoa de Velhos","id":"3752"},{"uf":"RN","cidade":"Lagoa Nova","id":"3753"},{"uf":"RN","cidade":"Lagoa Salgada","id":"3754"},{"uf":"RN","cidade":"Lajes","id":"3755"},{"uf":"RN","cidade":"Lajes Pintadas","id":"3756"},{"uf":"RN","cidade":"Lucrécia","id":"3757"},{"uf":"RN","cidade":"Luís Gomes","id":"3758"},{"uf":"RN","cidade":"Macaíba","id":"3759"},{"uf":"RN","cidade":"Macau","id":"3760"},{"uf":"RN","cidade":"Major Sales","id":"3761"},{"uf":"RN","cidade":"Marcelino Vieira","id":"3762"},{"uf":"RN","cidade":"Martins","id":"3763"},{"uf":"RN","cidade":"Maxaranguape","id":"3764"},{"uf":"RN","cidade":"Messias Targino","id":"3765"},{"uf":"RN","cidade":"Montanhas","id":"3766"},{"uf":"RN","cidade":"Monte Alegre","id":"3767"},{"uf":"RN","cidade":"Monte das Gameleiras","id":"3768"},{"uf":"RN","cidade":"Mossoró","id":"3769"},{"uf":"RN","cidade":"Natal","id":"3770"},{"uf":"RN","cidade":"Nísia Floresta","id":"3771"},{"uf":"RN","cidade":"Nova Cruz","id":"3772"},{"uf":"RN","cidade":"Olho-d`Água do Borges","id":"3773"},{"uf":"RN","cidade":"Ouro Branco","id":"3774"},{"uf":"RN","cidade":"Paraná","id":"3775"},{"uf":"RN","cidade":"Paraú","id":"3776"},{"uf":"RN","cidade":"Parazinho","id":"3777"},{"uf":"RN","cidade":"Parelhas","id":"3778"},{"uf":"RN","cidade":"Parnamirim","id":"3779"},{"uf":"RN","cidade":"Passa e Fica","id":"3780"},{"uf":"RN","cidade":"Passagem","id":"3781"},{"uf":"RN","cidade":"Patu","id":"3782"},{"uf":"RN","cidade":"Pau dos Ferros","id":"3783"},{"uf":"RN","cidade":"Pedra Grande","id":"3784"},{"uf":"RN","cidade":"Pedra Preta","id":"3785"},{"uf":"RN","cidade":"Pedro Avelino","id":"3786"},{"uf":"RN","cidade":"Pedro Velho","id":"3787"},{"uf":"RN","cidade":"Pendências","id":"3788"},{"uf":"RN","cidade":"Pilões","id":"3789"},{"uf":"RN","cidade":"Poço Branco","id":"3790"},{"uf":"RN","cidade":"Portalegre","id":"3791"},{"uf":"RN","cidade":"Porto do Mangue","id":"3792"},{"uf":"RN","cidade":"Presidente Juscelino","id":"3793"},{"uf":"RN","cidade":"Pureza","id":"3794"},{"uf":"RN","cidade":"Rafael Fernandes","id":"3795"},{"uf":"RN","cidade":"Rafael Godeiro","id":"3796"},{"uf":"RN","cidade":"Riacho da Cruz","id":"3797"},{"uf":"RN","cidade":"Riacho de Santana","id":"3798"},{"uf":"RN","cidade":"Riachuelo","id":"3799"},{"uf":"RN","cidade":"Rio do Fogo","id":"3800"},{"uf":"RN","cidade":"Rodolfo Fernandes","id":"3801"},{"uf":"RN","cidade":"Ruy Barbosa","id":"3802"},{"uf":"RN","cidade":"Santa Cruz","id":"3803"},{"uf":"RN","cidade":"Santa Maria","id":"3804"},{"uf":"RN","cidade":"Santana do Matos","id":"3805"},{"uf":"RN","cidade":"Santana do Seridó","id":"3806"},{"uf":"RN","cidade":"Santo Antônio","id":"3807"},{"uf":"RN","cidade":"São Bento do Norte","id":"3808"},{"uf":"RN","cidade":"São Bento do Trairí","id":"3809"},{"uf":"RN","cidade":"São Fernando","id":"3810"},{"uf":"RN","cidade":"São Francisco do Oeste","id":"3811"},{"uf":"RN","cidade":"São Gonçalo do Amarante","id":"3812"},{"uf":"RN","cidade":"São João do Sabugi","id":"3813"},{"uf":"RN","cidade":"São José de Mipibu","id":"3814"},{"uf":"RN","cidade":"São José do Campestre","id":"3815"},{"uf":"RN","cidade":"São José do Seridó","id":"3816"},{"uf":"RN","cidade":"São Miguel","id":"3817"},{"uf":"RN","cidade":"São Miguel do Gostoso","id":"3818"},{"uf":"RN","cidade":"São Paulo do Potengi","id":"3819"},{"uf":"RN","cidade":"São Pedro","id":"3820"},{"uf":"RN","cidade":"São Rafael","id":"3821"},{"uf":"RN","cidade":"São Tomé","id":"3822"},{"uf":"RN","cidade":"São Vicente","id":"3823"},{"uf":"RN","cidade":"Senador Elói de Souza","id":"3824"},{"uf":"RN","cidade":"Senador Georgino Avelino","id":"3825"},{"uf":"RN","cidade":"Serra de São Bento","id":"3826"},{"uf":"RN","cidade":"Serra do Mel","id":"3827"},{"uf":"RN","cidade":"Serra Negra do Norte","id":"3828"},{"uf":"RN","cidade":"Serrinha","id":"3829"},{"uf":"RN","cidade":"Serrinha dos Pintos","id":"3830"},{"uf":"RN","cidade":"Severiano Melo","id":"3831"},{"uf":"RN","cidade":"Sítio Novo","id":"3832"},{"uf":"RN","cidade":"Taboleiro Grande","id":"3833"},{"uf":"RN","cidade":"Taipu","id":"3834"},{"uf":"RN","cidade":"Tangará","id":"3835"},{"uf":"RN","cidade":"Tenente Ananias","id":"3836"},{"uf":"RN","cidade":"Tenente Laurentino Cruz","id":"3837"},{"uf":"RN","cidade":"Tibau","id":"3838"},{"uf":"RN","cidade":"Tibau do Sul","id":"3839"},{"uf":"RN","cidade":"Timbaúba dos Batistas","id":"3840"},{"uf":"RN","cidade":"Touros","id":"3841"},{"uf":"RN","cidade":"Triunfo Potiguar","id":"3842"},{"uf":"RN","cidade":"Umarizal","id":"3843"},{"uf":"RN","cidade":"Upanema","id":"3844"},{"uf":"RN","cidade":"Várzea","id":"3845"},{"uf":"RN","cidade":"Venha-Ver","id":"3846"},{"uf":"RN","cidade":"Vera Cruz","id":"3847"},{"uf":"RN","cidade":"Viçosa","id":"3848"},{"uf":"RN","cidade":"Vila Flor","id":"3849"}]
+[
+  {
+    "uf": "RN",
+    "cidade": "Acari",
+    "id": "3683"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Açu",
+    "id": "3684"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Afonso Bezerra",
+    "id": "3685"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Água Nova",
+    "id": "3686"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Alexandria",
+    "id": "3687"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Almino Afonso",
+    "id": "3688"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Alto do Rodrigues",
+    "id": "3689"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Angicos",
+    "id": "3690"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Antônio Martins",
+    "id": "3691"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Apodi",
+    "id": "3692"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Areia Branca",
+    "id": "3693"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Arês",
+    "id": "3694"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Augusto Severo",
+    "id": "3695"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Baía Formosa",
+    "id": "3696"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Baraúna",
+    "id": "3697"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Barcelona",
+    "id": "3698"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Bento Fernandes",
+    "id": "3699"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Bodó",
+    "id": "3700"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Bom Jesus",
+    "id": "3701"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Brejinho",
+    "id": "3702"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Caiçara do Norte",
+    "id": "3703"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Caiçara do Rio do Vento",
+    "id": "3704"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Caicó",
+    "id": "3705"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Campo Redondo",
+    "id": "3706"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Canguaretama",
+    "id": "3707"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Caraúbas",
+    "id": "3708"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Carnaúba dos Dantas",
+    "id": "3709"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Carnaubais",
+    "id": "3710"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Ceará-Mirim",
+    "id": "3711"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Cerro Corá",
+    "id": "3712"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Coronel Ezequiel",
+    "id": "3713"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Coronel João Pessoa",
+    "id": "3714"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Cruzeta",
+    "id": "3715"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Currais Novos",
+    "id": "3716"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Doutor Severiano",
+    "id": "3717"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Encanto",
+    "id": "3718"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Equador",
+    "id": "3719"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Espírito Santo",
+    "id": "3720"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Extremoz",
+    "id": "3721"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Felipe Guerra",
+    "id": "3722"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Fernando Pedroza",
+    "id": "3723"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Florânia",
+    "id": "3724"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Francisco Dantas",
+    "id": "3725"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Frutuoso Gomes",
+    "id": "3726"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Galinhos",
+    "id": "3727"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Goianinha",
+    "id": "3728"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Governador Dix-Sept Rosado",
+    "id": "3729"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Grossos",
+    "id": "3730"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Guamaré",
+    "id": "3731"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Ielmo Marinho",
+    "id": "3732"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Ipanguaçu",
+    "id": "3733"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Ipueira",
+    "id": "3734"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Itajá",
+    "id": "3735"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Itaú",
+    "id": "3736"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Jaçanã",
+    "id": "3737"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Jandaíra",
+    "id": "3738"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Janduís",
+    "id": "3739"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Januário Cicco",
+    "id": "3740"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Japi",
+    "id": "3741"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Jardim de Angicos",
+    "id": "3742"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Jardim de Piranhas",
+    "id": "3743"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Jardim do Seridó",
+    "id": "3744"
+  },
+  {
+    "uf": "RN",
+    "cidade": "João Câmara",
+    "id": "3745"
+  },
+  {
+    "uf": "RN",
+    "cidade": "João Dias",
+    "id": "3746"
+  },
+  {
+    "uf": "RN",
+    "cidade": "José da Penha",
+    "id": "3747"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Jucurutu",
+    "id": "3748"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Jundiá",
+    "id": "3749"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Lagoa d`Anta",
+    "id": "3750"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Lagoa de Pedras",
+    "id": "3751"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Lagoa de Velhos",
+    "id": "3752"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Lagoa Nova",
+    "id": "3753"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Lagoa Salgada",
+    "id": "3754"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Lajes",
+    "id": "3755"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Lajes Pintadas",
+    "id": "3756"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Lucrécia",
+    "id": "3757"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Luís Gomes",
+    "id": "3758"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Macaíba",
+    "id": "3759"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Macau",
+    "id": "3760"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Major Sales",
+    "id": "3761"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Marcelino Vieira",
+    "id": "3762"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Martins",
+    "id": "3763"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Maxaranguape",
+    "id": "3764"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Messias Targino",
+    "id": "3765"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Montanhas",
+    "id": "3766"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Monte Alegre",
+    "id": "3767"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Monte das Gameleiras",
+    "id": "3768"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Mossoró",
+    "id": "3769"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Natal",
+    "id": "3770"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Nísia Floresta",
+    "id": "3771"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Nova Cruz",
+    "id": "3772"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Olho-d`Água do Borges",
+    "id": "3773"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Ouro Branco",
+    "id": "3774"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Paraná",
+    "id": "3775"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Paraú",
+    "id": "3776"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Parazinho",
+    "id": "3777"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Parelhas",
+    "id": "3778"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Parnamirim",
+    "id": "3779"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Passa e Fica",
+    "id": "3780"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Passagem",
+    "id": "3781"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Patu",
+    "id": "3782"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Pau dos Ferros",
+    "id": "3783"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Pedra Grande",
+    "id": "3784"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Pedra Preta",
+    "id": "3785"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Pedro Avelino",
+    "id": "3786"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Pedro Velho",
+    "id": "3787"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Pendências",
+    "id": "3788"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Pilões",
+    "id": "3789"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Poço Branco",
+    "id": "3790"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Portalegre",
+    "id": "3791"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Porto do Mangue",
+    "id": "3792"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Presidente Juscelino",
+    "id": "3793"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Pureza",
+    "id": "3794"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Rafael Fernandes",
+    "id": "3795"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Rafael Godeiro",
+    "id": "3796"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Riacho da Cruz",
+    "id": "3797"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Riacho de Santana",
+    "id": "3798"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Riachuelo",
+    "id": "3799"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Rio do Fogo",
+    "id": "3800"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Rodolfo Fernandes",
+    "id": "3801"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Ruy Barbosa",
+    "id": "3802"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Santa Cruz",
+    "id": "3803"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Santa Maria",
+    "id": "3804"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Santana do Matos",
+    "id": "3805"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Santana do Seridó",
+    "id": "3806"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Santo Antônio",
+    "id": "3807"
+  },
+  {
+    "uf": "RN",
+    "cidade": "São Bento do Norte",
+    "id": "3808"
+  },
+  {
+    "uf": "RN",
+    "cidade": "São Bento do Trairí",
+    "id": "3809"
+  },
+  {
+    "uf": "RN",
+    "cidade": "São Fernando",
+    "id": "3810"
+  },
+  {
+    "uf": "RN",
+    "cidade": "São Francisco do Oeste",
+    "id": "3811"
+  },
+  {
+    "uf": "RN",
+    "cidade": "São Gonçalo do Amarante",
+    "id": "3812"
+  },
+  {
+    "uf": "RN",
+    "cidade": "São João do Sabugi",
+    "id": "3813"
+  },
+  {
+    "uf": "RN",
+    "cidade": "São José de Mipibu",
+    "id": "3814"
+  },
+  {
+    "uf": "RN",
+    "cidade": "São José do Campestre",
+    "id": "3815"
+  },
+  {
+    "uf": "RN",
+    "cidade": "São José do Seridó",
+    "id": "3816"
+  },
+  {
+    "uf": "RN",
+    "cidade": "São Miguel",
+    "id": "3817"
+  },
+  {
+    "uf": "RN",
+    "cidade": "São Miguel do Gostoso",
+    "id": "3818"
+  },
+  {
+    "uf": "RN",
+    "cidade": "São Paulo do Potengi",
+    "id": "3819"
+  },
+  {
+    "uf": "RN",
+    "cidade": "São Pedro",
+    "id": "3820"
+  },
+  {
+    "uf": "RN",
+    "cidade": "São Rafael",
+    "id": "3821"
+  },
+  {
+    "uf": "RN",
+    "cidade": "São Tomé",
+    "id": "3822"
+  },
+  {
+    "uf": "RN",
+    "cidade": "São Vicente",
+    "id": "3823"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Senador Elói de Souza",
+    "id": "3824"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Senador Georgino Avelino",
+    "id": "3825"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Serra de São Bento",
+    "id": "3826"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Serra do Mel",
+    "id": "3827"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Serra Negra do Norte",
+    "id": "3828"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Serrinha",
+    "id": "3829"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Serrinha dos Pintos",
+    "id": "3830"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Severiano Melo",
+    "id": "3831"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Sítio Novo",
+    "id": "3832"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Taboleiro Grande",
+    "id": "3833"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Taipu",
+    "id": "3834"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Tangará",
+    "id": "3835"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Tenente Ananias",
+    "id": "3836"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Tenente Laurentino Cruz",
+    "id": "3837"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Tibau",
+    "id": "3838"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Tibau do Sul",
+    "id": "3839"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Timbaúba dos Batistas",
+    "id": "3840"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Touros",
+    "id": "3841"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Triunfo Potiguar",
+    "id": "3842"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Umarizal",
+    "id": "3843"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Upanema",
+    "id": "3844"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Várzea",
+    "id": "3845"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Venha-Ver",
+    "id": "3846"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Vera Cruz",
+    "id": "3847"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Viçosa",
+    "id": "3848"
+  },
+  {
+    "uf": "RN",
+    "cidade": "Vila Flor",
+    "id": "3849"
+  }
+]

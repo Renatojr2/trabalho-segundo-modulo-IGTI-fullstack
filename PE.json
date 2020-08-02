@@ -1,1 +1,927 @@
-[{"uf":"PE","cidade":"Abreu e Lima","id":"3183"},{"uf":"PE","cidade":"Afogados da Ingazeira","id":"3184"},{"uf":"PE","cidade":"Afrânio","id":"3185"},{"uf":"PE","cidade":"Agrestina","id":"3186"},{"uf":"PE","cidade":"Água Preta","id":"3187"},{"uf":"PE","cidade":"Águas Belas","id":"3188"},{"uf":"PE","cidade":"Alagoinha","id":"3189"},{"uf":"PE","cidade":"Aliança","id":"3190"},{"uf":"PE","cidade":"Altinho","id":"3191"},{"uf":"PE","cidade":"Amaraji","id":"3192"},{"uf":"PE","cidade":"Angelim","id":"3193"},{"uf":"PE","cidade":"Araçoiaba","id":"3194"},{"uf":"PE","cidade":"Araripina","id":"3195"},{"uf":"PE","cidade":"Arcoverde","id":"3196"},{"uf":"PE","cidade":"Barra de Guabiraba","id":"3197"},{"uf":"PE","cidade":"Barreiros","id":"3198"},{"uf":"PE","cidade":"Belém de Maria","id":"3199"},{"uf":"PE","cidade":"Belém de São Francisco","id":"3200"},{"uf":"PE","cidade":"Belo Jardim","id":"3201"},{"uf":"PE","cidade":"Betânia","id":"3202"},{"uf":"PE","cidade":"Bezerros","id":"3203"},{"uf":"PE","cidade":"Bodocó","id":"3204"},{"uf":"PE","cidade":"Bom Conselho","id":"3205"},{"uf":"PE","cidade":"Bom Jardim","id":"3206"},{"uf":"PE","cidade":"Bonito","id":"3207"},{"uf":"PE","cidade":"Brejão","id":"3208"},{"uf":"PE","cidade":"Brejinho","id":"3209"},{"uf":"PE","cidade":"Brejo da Madre de Deus","id":"3210"},{"uf":"PE","cidade":"Buenos Aires","id":"3211"},{"uf":"PE","cidade":"Buíque","id":"3212"},{"uf":"PE","cidade":"Cabo de Santo Agostinho","id":"3213"},{"uf":"PE","cidade":"Cabrobó","id":"3214"},{"uf":"PE","cidade":"Cachoeirinha","id":"3215"},{"uf":"PE","cidade":"Caetés","id":"3216"},{"uf":"PE","cidade":"Calçado","id":"3217"},{"uf":"PE","cidade":"Calumbi","id":"3218"},{"uf":"PE","cidade":"Camaragibe","id":"3219"},{"uf":"PE","cidade":"Camocim de São Félix","id":"3220"},{"uf":"PE","cidade":"Camutanga","id":"3221"},{"uf":"PE","cidade":"Canhotinho","id":"3222"},{"uf":"PE","cidade":"Capoeiras","id":"3223"},{"uf":"PE","cidade":"Carnaíba","id":"3224"},{"uf":"PE","cidade":"Carnaubeira da Penha","id":"3225"},{"uf":"PE","cidade":"Carpina","id":"3226"},{"uf":"PE","cidade":"Caruaru","id":"3227"},{"uf":"PE","cidade":"Casinhas","id":"3228"},{"uf":"PE","cidade":"Catende","id":"3229"},{"uf":"PE","cidade":"Cedro","id":"3230"},{"uf":"PE","cidade":"Chã de Alegria","id":"3231"},{"uf":"PE","cidade":"Chã Grande","id":"3232"},{"uf":"PE","cidade":"Condado","id":"3233"},{"uf":"PE","cidade":"Correntes","id":"3234"},{"uf":"PE","cidade":"Cortês","id":"3235"},{"uf":"PE","cidade":"Cumaru","id":"3236"},{"uf":"PE","cidade":"Cupira","id":"3237"},{"uf":"PE","cidade":"Custódia","id":"3238"},{"uf":"PE","cidade":"Dormentes","id":"3239"},{"uf":"PE","cidade":"Escada","id":"3240"},{"uf":"PE","cidade":"Exu","id":"3241"},{"uf":"PE","cidade":"Feira Nova","id":"3242"},{"uf":"PE","cidade":"Fernando de Noronha","id":"3243"},{"uf":"PE","cidade":"Ferreiros","id":"3244"},{"uf":"PE","cidade":"Flores","id":"3245"},{"uf":"PE","cidade":"Floresta","id":"3246"},{"uf":"PE","cidade":"Frei Miguelinho","id":"3247"},{"uf":"PE","cidade":"Gameleira","id":"3248"},{"uf":"PE","cidade":"Garanhuns","id":"3249"},{"uf":"PE","cidade":"Glória do Goitá","id":"3250"},{"uf":"PE","cidade":"Goiana","id":"3251"},{"uf":"PE","cidade":"Granito","id":"3252"},{"uf":"PE","cidade":"Gravatá","id":"3253"},{"uf":"PE","cidade":"Iati","id":"3254"},{"uf":"PE","cidade":"Ibimirim","id":"3255"},{"uf":"PE","cidade":"Ibirajuba","id":"3256"},{"uf":"PE","cidade":"Igarassu","id":"3257"},{"uf":"PE","cidade":"Iguaraci","id":"3258"},{"uf":"PE","cidade":"Ilha de Itamaracá","id":"3259"},{"uf":"PE","cidade":"Inajá","id":"3260"},{"uf":"PE","cidade":"Ingazeira","id":"3261"},{"uf":"PE","cidade":"Ipojuca","id":"3262"},{"uf":"PE","cidade":"Ipubi","id":"3263"},{"uf":"PE","cidade":"Itacuruba","id":"3264"},{"uf":"PE","cidade":"Itaíba","id":"3265"},{"uf":"PE","cidade":"Itambé","id":"3266"},{"uf":"PE","cidade":"Itapetim","id":"3267"},{"uf":"PE","cidade":"Itapissuma","id":"3268"},{"uf":"PE","cidade":"Itaquitinga","id":"3269"},{"uf":"PE","cidade":"Jaboatão dos Guararapes","id":"3270"},{"uf":"PE","cidade":"Jaqueira","id":"3271"},{"uf":"PE","cidade":"Jataúba","id":"3272"},{"uf":"PE","cidade":"Jatobá","id":"3273"},{"uf":"PE","cidade":"João Alfredo","id":"3274"},{"uf":"PE","cidade":"Joaquim Nabuco","id":"3275"},{"uf":"PE","cidade":"Jucati","id":"3276"},{"uf":"PE","cidade":"Jupi","id":"3277"},{"uf":"PE","cidade":"Jurema","id":"3278"},{"uf":"PE","cidade":"Lagoa do Carro","id":"3279"},{"uf":"PE","cidade":"Lagoa do Itaenga","id":"3280"},{"uf":"PE","cidade":"Lagoa do Ouro","id":"3281"},{"uf":"PE","cidade":"Lagoa dos Gatos","id":"3282"},{"uf":"PE","cidade":"Lagoa Grande","id":"3283"},{"uf":"PE","cidade":"Lajedo","id":"3284"},{"uf":"PE","cidade":"Limoeiro","id":"3285"},{"uf":"PE","cidade":"Macaparana","id":"3286"},{"uf":"PE","cidade":"Machados","id":"3287"},{"uf":"PE","cidade":"Manari","id":"3288"},{"uf":"PE","cidade":"Maraial","id":"3289"},{"uf":"PE","cidade":"Mirandiba","id":"3290"},{"uf":"PE","cidade":"Moreilândia","id":"3291"},{"uf":"PE","cidade":"Moreno","id":"3292"},{"uf":"PE","cidade":"Nazaré da Mata","id":"3293"},{"uf":"PE","cidade":"Olinda","id":"3294"},{"uf":"PE","cidade":"Orobó","id":"3295"},{"uf":"PE","cidade":"Orocó","id":"3296"},{"uf":"PE","cidade":"Ouricuri","id":"3297"},{"uf":"PE","cidade":"Palmares","id":"3298"},{"uf":"PE","cidade":"Palmeirina","id":"3299"},{"uf":"PE","cidade":"Panelas","id":"3300"},{"uf":"PE","cidade":"Paranatama","id":"3301"},{"uf":"PE","cidade":"Parnamirim","id":"3302"},{"uf":"PE","cidade":"Passira","id":"3303"},{"uf":"PE","cidade":"Paudalho","id":"3304"},{"uf":"PE","cidade":"Paulista","id":"3305"},{"uf":"PE","cidade":"Pedra","id":"3306"},{"uf":"PE","cidade":"Pesqueira","id":"3307"},{"uf":"PE","cidade":"Petrolândia","id":"3308"},{"uf":"PE","cidade":"Petrolina","id":"3309"},{"uf":"PE","cidade":"Poção","id":"3310"},{"uf":"PE","cidade":"Pombos","id":"3311"},{"uf":"PE","cidade":"Primavera","id":"3312"},{"uf":"PE","cidade":"Quipapá","id":"3313"},{"uf":"PE","cidade":"Quixaba","id":"3314"},{"uf":"PE","cidade":"Recife","id":"3315"},{"uf":"PE","cidade":"Riacho das Almas","id":"3316"},{"uf":"PE","cidade":"Ribeirão","id":"3317"},{"uf":"PE","cidade":"Rio Formoso","id":"3318"},{"uf":"PE","cidade":"Sairé","id":"3319"},{"uf":"PE","cidade":"Salgadinho","id":"3320"},{"uf":"PE","cidade":"Salgueiro","id":"3321"},{"uf":"PE","cidade":"Saloá","id":"3322"},{"uf":"PE","cidade":"Sanharó","id":"3323"},{"uf":"PE","cidade":"Santa Cruz","id":"3324"},{"uf":"PE","cidade":"Santa Cruz da Baixa Verde","id":"3325"},{"uf":"PE","cidade":"Santa Cruz do Capibaribe","id":"3326"},{"uf":"PE","cidade":"Santa Filomena","id":"3327"},{"uf":"PE","cidade":"Santa Maria da Boa Vista","id":"3328"},{"uf":"PE","cidade":"Santa Maria do Cambucá","id":"3329"},{"uf":"PE","cidade":"Santa Terezinha","id":"3330"},{"uf":"PE","cidade":"São Benedito do Sul","id":"3331"},{"uf":"PE","cidade":"São Bento do Una","id":"3332"},{"uf":"PE","cidade":"São Caitano","id":"3333"},{"uf":"PE","cidade":"São João","id":"3334"},{"uf":"PE","cidade":"São Joaquim do Monte","id":"3335"},{"uf":"PE","cidade":"São José da Coroa Grande","id":"3336"},{"uf":"PE","cidade":"São José do Belmonte","id":"3337"},{"uf":"PE","cidade":"São José do Egito","id":"3338"},{"uf":"PE","cidade":"São Lourenço da Mata","id":"3339"},{"uf":"PE","cidade":"São Vicente Ferrer","id":"3340"},{"uf":"PE","cidade":"Serra Talhada","id":"3341"},{"uf":"PE","cidade":"Serrita","id":"3342"},{"uf":"PE","cidade":"Sertânia","id":"3343"},{"uf":"PE","cidade":"Sirinhaém","id":"3344"},{"uf":"PE","cidade":"Solidão","id":"3345"},{"uf":"PE","cidade":"Surubim","id":"3346"},{"uf":"PE","cidade":"Tabira","id":"3347"},{"uf":"PE","cidade":"Tacaimbó","id":"3348"},{"uf":"PE","cidade":"Tacaratu","id":"3349"},{"uf":"PE","cidade":"Tamandaré","id":"3350"},{"uf":"PE","cidade":"Taquaritinga do Norte","id":"3351"},{"uf":"PE","cidade":"Terezinha","id":"3352"},{"uf":"PE","cidade":"Terra Nova","id":"3353"},{"uf":"PE","cidade":"Timbaúba","id":"3354"},{"uf":"PE","cidade":"Toritama","id":"3355"},{"uf":"PE","cidade":"Tracunhaém","id":"3356"},{"uf":"PE","cidade":"Trindade","id":"3357"},{"uf":"PE","cidade":"Triunfo","id":"3358"},{"uf":"PE","cidade":"Tupanatinga","id":"3359"},{"uf":"PE","cidade":"Tuparetama","id":"3360"},{"uf":"PE","cidade":"Venturosa","id":"3361"},{"uf":"PE","cidade":"Verdejante","id":"3362"},{"uf":"PE","cidade":"Vertente do Lério","id":"3363"},{"uf":"PE","cidade":"Vertentes","id":"3364"},{"uf":"PE","cidade":"Vicência","id":"3365"},{"uf":"PE","cidade":"Vitória de Santo Antão","id":"3366"},{"uf":"PE","cidade":"Xexéu","id":"3367"}]
+[
+  {
+    "uf": "PE",
+    "cidade": "Abreu e Lima",
+    "id": "3183"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Afogados da Ingazeira",
+    "id": "3184"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Afrânio",
+    "id": "3185"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Agrestina",
+    "id": "3186"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Água Preta",
+    "id": "3187"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Águas Belas",
+    "id": "3188"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Alagoinha",
+    "id": "3189"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Aliança",
+    "id": "3190"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Altinho",
+    "id": "3191"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Amaraji",
+    "id": "3192"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Angelim",
+    "id": "3193"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Araçoiaba",
+    "id": "3194"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Araripina",
+    "id": "3195"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Arcoverde",
+    "id": "3196"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Barra de Guabiraba",
+    "id": "3197"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Barreiros",
+    "id": "3198"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Belém de Maria",
+    "id": "3199"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Belém de São Francisco",
+    "id": "3200"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Belo Jardim",
+    "id": "3201"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Betânia",
+    "id": "3202"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Bezerros",
+    "id": "3203"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Bodocó",
+    "id": "3204"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Bom Conselho",
+    "id": "3205"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Bom Jardim",
+    "id": "3206"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Bonito",
+    "id": "3207"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Brejão",
+    "id": "3208"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Brejinho",
+    "id": "3209"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Brejo da Madre de Deus",
+    "id": "3210"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Buenos Aires",
+    "id": "3211"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Buíque",
+    "id": "3212"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Cabo de Santo Agostinho",
+    "id": "3213"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Cabrobó",
+    "id": "3214"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Cachoeirinha",
+    "id": "3215"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Caetés",
+    "id": "3216"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Calçado",
+    "id": "3217"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Calumbi",
+    "id": "3218"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Camaragibe",
+    "id": "3219"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Camocim de São Félix",
+    "id": "3220"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Camutanga",
+    "id": "3221"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Canhotinho",
+    "id": "3222"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Capoeiras",
+    "id": "3223"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Carnaíba",
+    "id": "3224"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Carnaubeira da Penha",
+    "id": "3225"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Carpina",
+    "id": "3226"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Caruaru",
+    "id": "3227"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Casinhas",
+    "id": "3228"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Catende",
+    "id": "3229"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Cedro",
+    "id": "3230"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Chã de Alegria",
+    "id": "3231"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Chã Grande",
+    "id": "3232"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Condado",
+    "id": "3233"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Correntes",
+    "id": "3234"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Cortês",
+    "id": "3235"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Cumaru",
+    "id": "3236"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Cupira",
+    "id": "3237"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Custódia",
+    "id": "3238"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Dormentes",
+    "id": "3239"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Escada",
+    "id": "3240"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Exu",
+    "id": "3241"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Feira Nova",
+    "id": "3242"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Fernando de Noronha",
+    "id": "3243"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Ferreiros",
+    "id": "3244"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Flores",
+    "id": "3245"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Floresta",
+    "id": "3246"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Frei Miguelinho",
+    "id": "3247"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Gameleira",
+    "id": "3248"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Garanhuns",
+    "id": "3249"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Glória do Goitá",
+    "id": "3250"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Goiana",
+    "id": "3251"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Granito",
+    "id": "3252"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Gravatá",
+    "id": "3253"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Iati",
+    "id": "3254"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Ibimirim",
+    "id": "3255"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Ibirajuba",
+    "id": "3256"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Igarassu",
+    "id": "3257"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Iguaraci",
+    "id": "3258"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Ilha de Itamaracá",
+    "id": "3259"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Inajá",
+    "id": "3260"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Ingazeira",
+    "id": "3261"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Ipojuca",
+    "id": "3262"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Ipubi",
+    "id": "3263"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Itacuruba",
+    "id": "3264"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Itaíba",
+    "id": "3265"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Itambé",
+    "id": "3266"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Itapetim",
+    "id": "3267"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Itapissuma",
+    "id": "3268"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Itaquitinga",
+    "id": "3269"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Jaboatão dos Guararapes",
+    "id": "3270"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Jaqueira",
+    "id": "3271"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Jataúba",
+    "id": "3272"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Jatobá",
+    "id": "3273"
+  },
+  {
+    "uf": "PE",
+    "cidade": "João Alfredo",
+    "id": "3274"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Joaquim Nabuco",
+    "id": "3275"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Jucati",
+    "id": "3276"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Jupi",
+    "id": "3277"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Jurema",
+    "id": "3278"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Lagoa do Carro",
+    "id": "3279"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Lagoa do Itaenga",
+    "id": "3280"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Lagoa do Ouro",
+    "id": "3281"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Lagoa dos Gatos",
+    "id": "3282"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Lagoa Grande",
+    "id": "3283"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Lajedo",
+    "id": "3284"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Limoeiro",
+    "id": "3285"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Macaparana",
+    "id": "3286"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Machados",
+    "id": "3287"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Manari",
+    "id": "3288"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Maraial",
+    "id": "3289"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Mirandiba",
+    "id": "3290"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Moreilândia",
+    "id": "3291"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Moreno",
+    "id": "3292"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Nazaré da Mata",
+    "id": "3293"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Olinda",
+    "id": "3294"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Orobó",
+    "id": "3295"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Orocó",
+    "id": "3296"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Ouricuri",
+    "id": "3297"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Palmares",
+    "id": "3298"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Palmeirina",
+    "id": "3299"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Panelas",
+    "id": "3300"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Paranatama",
+    "id": "3301"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Parnamirim",
+    "id": "3302"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Passira",
+    "id": "3303"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Paudalho",
+    "id": "3304"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Paulista",
+    "id": "3305"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Pedra",
+    "id": "3306"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Pesqueira",
+    "id": "3307"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Petrolândia",
+    "id": "3308"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Petrolina",
+    "id": "3309"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Poção",
+    "id": "3310"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Pombos",
+    "id": "3311"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Primavera",
+    "id": "3312"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Quipapá",
+    "id": "3313"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Quixaba",
+    "id": "3314"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Recife",
+    "id": "3315"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Riacho das Almas",
+    "id": "3316"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Ribeirão",
+    "id": "3317"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Rio Formoso",
+    "id": "3318"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Sairé",
+    "id": "3319"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Salgadinho",
+    "id": "3320"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Salgueiro",
+    "id": "3321"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Saloá",
+    "id": "3322"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Sanharó",
+    "id": "3323"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Santa Cruz",
+    "id": "3324"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Santa Cruz da Baixa Verde",
+    "id": "3325"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Santa Cruz do Capibaribe",
+    "id": "3326"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Santa Filomena",
+    "id": "3327"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Santa Maria da Boa Vista",
+    "id": "3328"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Santa Maria do Cambucá",
+    "id": "3329"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Santa Terezinha",
+    "id": "3330"
+  },
+  {
+    "uf": "PE",
+    "cidade": "São Benedito do Sul",
+    "id": "3331"
+  },
+  {
+    "uf": "PE",
+    "cidade": "São Bento do Una",
+    "id": "3332"
+  },
+  {
+    "uf": "PE",
+    "cidade": "São Caitano",
+    "id": "3333"
+  },
+  {
+    "uf": "PE",
+    "cidade": "São João",
+    "id": "3334"
+  },
+  {
+    "uf": "PE",
+    "cidade": "São Joaquim do Monte",
+    "id": "3335"
+  },
+  {
+    "uf": "PE",
+    "cidade": "São José da Coroa Grande",
+    "id": "3336"
+  },
+  {
+    "uf": "PE",
+    "cidade": "São José do Belmonte",
+    "id": "3337"
+  },
+  {
+    "uf": "PE",
+    "cidade": "São José do Egito",
+    "id": "3338"
+  },
+  {
+    "uf": "PE",
+    "cidade": "São Lourenço da Mata",
+    "id": "3339"
+  },
+  {
+    "uf": "PE",
+    "cidade": "São Vicente Ferrer",
+    "id": "3340"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Serra Talhada",
+    "id": "3341"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Serrita",
+    "id": "3342"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Sertânia",
+    "id": "3343"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Sirinhaém",
+    "id": "3344"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Solidão",
+    "id": "3345"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Surubim",
+    "id": "3346"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Tabira",
+    "id": "3347"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Tacaimbó",
+    "id": "3348"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Tacaratu",
+    "id": "3349"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Tamandaré",
+    "id": "3350"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Taquaritinga do Norte",
+    "id": "3351"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Terezinha",
+    "id": "3352"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Terra Nova",
+    "id": "3353"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Timbaúba",
+    "id": "3354"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Toritama",
+    "id": "3355"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Tracunhaém",
+    "id": "3356"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Trindade",
+    "id": "3357"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Triunfo",
+    "id": "3358"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Tupanatinga",
+    "id": "3359"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Tuparetama",
+    "id": "3360"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Venturosa",
+    "id": "3361"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Verdejante",
+    "id": "3362"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Vertente do Lério",
+    "id": "3363"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Vertentes",
+    "id": "3364"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Vicência",
+    "id": "3365"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Vitória de Santo Antão",
+    "id": "3366"
+  },
+  {
+    "uf": "PE",
+    "cidade": "Xexéu",
+    "id": "3367"
+  }
+]

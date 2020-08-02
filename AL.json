@@ -1,1 +1,512 @@
-[{"uf":"AL","cidade":"Água Branca","id":"101"},{"uf":"AL","cidade":"Anadia","id":"102"},{"uf":"AL","cidade":"Arapiraca","id":"103"},{"uf":"AL","cidade":"Atalaia","id":"104"},{"uf":"AL","cidade":"Barra de Santo Antônio","id":"105"},{"uf":"AL","cidade":"Barra de São Miguel","id":"106"},{"uf":"AL","cidade":"Batalha","id":"107"},{"uf":"AL","cidade":"Belém","id":"108"},{"uf":"AL","cidade":"Belo Monte","id":"109"},{"uf":"AL","cidade":"Boca da Mata","id":"110"},{"uf":"AL","cidade":"Branquinha","id":"111"},{"uf":"AL","cidade":"Cacimbinhas","id":"112"},{"uf":"AL","cidade":"Cajueiro","id":"113"},{"uf":"AL","cidade":"Campestre","id":"114"},{"uf":"AL","cidade":"Campo Alegre","id":"115"},{"uf":"AL","cidade":"Campo Grande","id":"116"},{"uf":"AL","cidade":"Canapi","id":"117"},{"uf":"AL","cidade":"Capela","id":"118"},{"uf":"AL","cidade":"Carneiros","id":"119"},{"uf":"AL","cidade":"Chã Preta","id":"120"},{"uf":"AL","cidade":"Coité do Nóia","id":"121"},{"uf":"AL","cidade":"Colônia Leopoldina","id":"122"},{"uf":"AL","cidade":"Coqueiro Seco","id":"123"},{"uf":"AL","cidade":"Coruripe","id":"124"},{"uf":"AL","cidade":"Craíbas","id":"125"},{"uf":"AL","cidade":"Delmiro Gouveia","id":"126"},{"uf":"AL","cidade":"Dois Riachos","id":"127"},{"uf":"AL","cidade":"Estrela de Alagoas","id":"128"},{"uf":"AL","cidade":"Feira Grande","id":"129"},{"uf":"AL","cidade":"Feliz Deserto","id":"130"},{"uf":"AL","cidade":"Flexeiras","id":"131"},{"uf":"AL","cidade":"Girau do Ponciano","id":"132"},{"uf":"AL","cidade":"Ibateguara","id":"133"},{"uf":"AL","cidade":"Igaci","id":"134"},{"uf":"AL","cidade":"Igreja Nova","id":"135"},{"uf":"AL","cidade":"Inhapi","id":"136"},{"uf":"AL","cidade":"Jacaré dos Homens","id":"137"},{"uf":"AL","cidade":"Jacuípe","id":"138"},{"uf":"AL","cidade":"Japaratinga","id":"139"},{"uf":"AL","cidade":"Jaramataia","id":"140"},{"uf":"AL","cidade":"Jequiá da Praia","id":"141"},{"uf":"AL","cidade":"Joaquim Gomes","id":"142"},{"uf":"AL","cidade":"Jundiá","id":"143"},{"uf":"AL","cidade":"Junqueiro","id":"144"},{"uf":"AL","cidade":"Lagoa da Canoa","id":"145"},{"uf":"AL","cidade":"Limoeiro de Anadia","id":"146"},{"uf":"AL","cidade":"Maceió","id":"147"},{"uf":"AL","cidade":"Major Isidoro","id":"148"},{"uf":"AL","cidade":"Mar Vermelho","id":"149"},{"uf":"AL","cidade":"Maragogi","id":"150"},{"uf":"AL","cidade":"Maravilha","id":"151"},{"uf":"AL","cidade":"Marechal Deodoro","id":"152"},{"uf":"AL","cidade":"Maribondo","id":"153"},{"uf":"AL","cidade":"Mata Grande","id":"154"},{"uf":"AL","cidade":"Matriz de Camaragibe","id":"155"},{"uf":"AL","cidade":"Messias","id":"156"},{"uf":"AL","cidade":"Minador do Negrão","id":"157"},{"uf":"AL","cidade":"Monteirópolis","id":"158"},{"uf":"AL","cidade":"Murici","id":"159"},{"uf":"AL","cidade":"Novo Lino","id":"160"},{"uf":"AL","cidade":"Olho d`Água das Flores","id":"161"},{"uf":"AL","cidade":"Olho d`Água do Casado","id":"162"},{"uf":"AL","cidade":"Olho d`Água Grande","id":"163"},{"uf":"AL","cidade":"Olivença","id":"164"},{"uf":"AL","cidade":"Ouro Branco","id":"165"},{"uf":"AL","cidade":"Palestina","id":"166"},{"uf":"AL","cidade":"Palmeira dos Índios","id":"167"},{"uf":"AL","cidade":"Pão de Açúcar","id":"168"},{"uf":"AL","cidade":"Pariconha","id":"169"},{"uf":"AL","cidade":"Paripueira","id":"170"},{"uf":"AL","cidade":"Passo de Camaragibe","id":"171"},{"uf":"AL","cidade":"Paulo Jacinto","id":"172"},{"uf":"AL","cidade":"Penedo","id":"173"},{"uf":"AL","cidade":"Piaçabuçu","id":"174"},{"uf":"AL","cidade":"Pilar","id":"175"},{"uf":"AL","cidade":"Pindoba","id":"176"},{"uf":"AL","cidade":"Piranhas","id":"177"},{"uf":"AL","cidade":"Poço das Trincheiras","id":"178"},{"uf":"AL","cidade":"Porto Calvo","id":"179"},{"uf":"AL","cidade":"Porto de Pedras","id":"180"},{"uf":"AL","cidade":"Porto Real do Colégio","id":"181"},{"uf":"AL","cidade":"Quebrangulo","id":"182"},{"uf":"AL","cidade":"Rio Largo","id":"183"},{"uf":"AL","cidade":"Roteiro","id":"184"},{"uf":"AL","cidade":"Santa Luzia do Norte","id":"185"},{"uf":"AL","cidade":"Santana do Ipanema","id":"186"},{"uf":"AL","cidade":"Santana do Mundaú","id":"187"},{"uf":"AL","cidade":"São Brás","id":"188"},{"uf":"AL","cidade":"São José da Laje","id":"189"},{"uf":"AL","cidade":"São José da Tapera","id":"190"},{"uf":"AL","cidade":"São Luís do Quitunde","id":"191"},{"uf":"AL","cidade":"São Miguel dos Campos","id":"192"},{"uf":"AL","cidade":"São Miguel dos Milagres","id":"193"},{"uf":"AL","cidade":"São Sebastião","id":"194"},{"uf":"AL","cidade":"Satuba","id":"195"},{"uf":"AL","cidade":"Senador Rui Palmeira","id":"196"},{"uf":"AL","cidade":"Tanque d`Arca","id":"197"},{"uf":"AL","cidade":"Taquarana","id":"198"},{"uf":"AL","cidade":"Teotônio Vilela","id":"199"},{"uf":"AL","cidade":"Traipu","id":"200"},{"uf":"AL","cidade":"União dos Palmares","id":"201"},{"uf":"AL","cidade":"Viçosa","id":"202"}]
+[
+  {
+    "uf": "AL",
+    "cidade": "Água Branca",
+    "id": "101"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Anadia",
+    "id": "102"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Arapiraca",
+    "id": "103"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Atalaia",
+    "id": "104"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Barra de Santo Antônio",
+    "id": "105"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Barra de São Miguel",
+    "id": "106"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Batalha",
+    "id": "107"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Belém",
+    "id": "108"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Belo Monte",
+    "id": "109"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Boca da Mata",
+    "id": "110"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Branquinha",
+    "id": "111"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Cacimbinhas",
+    "id": "112"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Cajueiro",
+    "id": "113"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Campestre",
+    "id": "114"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Campo Alegre",
+    "id": "115"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Campo Grande",
+    "id": "116"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Canapi",
+    "id": "117"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Capela",
+    "id": "118"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Carneiros",
+    "id": "119"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Chã Preta",
+    "id": "120"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Coité do Nóia",
+    "id": "121"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Colônia Leopoldina",
+    "id": "122"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Coqueiro Seco",
+    "id": "123"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Coruripe",
+    "id": "124"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Craíbas",
+    "id": "125"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Delmiro Gouveia",
+    "id": "126"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Dois Riachos",
+    "id": "127"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Estrela de Alagoas",
+    "id": "128"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Feira Grande",
+    "id": "129"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Feliz Deserto",
+    "id": "130"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Flexeiras",
+    "id": "131"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Girau do Ponciano",
+    "id": "132"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Ibateguara",
+    "id": "133"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Igaci",
+    "id": "134"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Igreja Nova",
+    "id": "135"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Inhapi",
+    "id": "136"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Jacaré dos Homens",
+    "id": "137"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Jacuípe",
+    "id": "138"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Japaratinga",
+    "id": "139"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Jaramataia",
+    "id": "140"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Jequiá da Praia",
+    "id": "141"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Joaquim Gomes",
+    "id": "142"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Jundiá",
+    "id": "143"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Junqueiro",
+    "id": "144"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Lagoa da Canoa",
+    "id": "145"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Limoeiro de Anadia",
+    "id": "146"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Maceió",
+    "id": "147"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Major Isidoro",
+    "id": "148"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Mar Vermelho",
+    "id": "149"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Maragogi",
+    "id": "150"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Maravilha",
+    "id": "151"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Marechal Deodoro",
+    "id": "152"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Maribondo",
+    "id": "153"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Mata Grande",
+    "id": "154"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Matriz de Camaragibe",
+    "id": "155"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Messias",
+    "id": "156"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Minador do Negrão",
+    "id": "157"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Monteirópolis",
+    "id": "158"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Murici",
+    "id": "159"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Novo Lino",
+    "id": "160"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Olho d`Água das Flores",
+    "id": "161"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Olho d`Água do Casado",
+    "id": "162"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Olho d`Água Grande",
+    "id": "163"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Olivença",
+    "id": "164"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Ouro Branco",
+    "id": "165"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Palestina",
+    "id": "166"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Palmeira dos Índios",
+    "id": "167"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Pão de Açúcar",
+    "id": "168"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Pariconha",
+    "id": "169"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Paripueira",
+    "id": "170"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Passo de Camaragibe",
+    "id": "171"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Paulo Jacinto",
+    "id": "172"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Penedo",
+    "id": "173"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Piaçabuçu",
+    "id": "174"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Pilar",
+    "id": "175"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Pindoba",
+    "id": "176"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Piranhas",
+    "id": "177"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Poço das Trincheiras",
+    "id": "178"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Porto Calvo",
+    "id": "179"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Porto de Pedras",
+    "id": "180"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Porto Real do Colégio",
+    "id": "181"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Quebrangulo",
+    "id": "182"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Rio Largo",
+    "id": "183"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Roteiro",
+    "id": "184"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Santa Luzia do Norte",
+    "id": "185"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Santana do Ipanema",
+    "id": "186"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Santana do Mundaú",
+    "id": "187"
+  },
+  {
+    "uf": "AL",
+    "cidade": "São Brás",
+    "id": "188"
+  },
+  {
+    "uf": "AL",
+    "cidade": "São José da Laje",
+    "id": "189"
+  },
+  {
+    "uf": "AL",
+    "cidade": "São José da Tapera",
+    "id": "190"
+  },
+  {
+    "uf": "AL",
+    "cidade": "São Luís do Quitunde",
+    "id": "191"
+  },
+  {
+    "uf": "AL",
+    "cidade": "São Miguel dos Campos",
+    "id": "192"
+  },
+  {
+    "uf": "AL",
+    "cidade": "São Miguel dos Milagres",
+    "id": "193"
+  },
+  {
+    "uf": "AL",
+    "cidade": "São Sebastião",
+    "id": "194"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Satuba",
+    "id": "195"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Senador Rui Palmeira",
+    "id": "196"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Tanque d`Arca",
+    "id": "197"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Taquarana",
+    "id": "198"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Teotônio Vilela",
+    "id": "199"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Traipu",
+    "id": "200"
+  },
+  {
+    "uf": "AL",
+    "cidade": "União dos Palmares",
+    "id": "201"
+  },
+  {
+    "uf": "AL",
+    "cidade": "Viçosa",
+    "id": "202"
+  }
+]

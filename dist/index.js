@@ -1,4 +1,3 @@
-'use strict';
 import fs from 'fs';
 function createJson(city, state, uf) {
     var readCity = fs.readFileSync(city).toString('utf-8');
@@ -19,10 +18,16 @@ function createJson(city, state, uf) {
             });
         }
     });
-    fs.writeFileSync(uf + ".json", JSON.stringify(stateAndCities));
+    fs.writeFileSync(uf + ".json", JSON.stringify(stateAndCities, null, 2));
     return stateAndCities;
 }
-var Total = [];
+var readState = JSON.parse(fs.readFileSync('./Estados.json').toString('utf-8'));
+readState.find(function (state) {
+    for (var i = 1; i <= 27; i++) {
+        var uf = state.Sigla;
+        createJson('./Cidades.json', './Estados.json', uf);
+    }
+});
 function numberCities(file) {
     var total = JSON.parse(fs.readFileSync(file).toString('utf-8'));
     var result = total.reduce(function (acc, _a) {
@@ -38,4 +43,4 @@ total.map(function (_a) {
     var Sigla = _a.Sigla;
     Result.push(numberCities("./" + Sigla + ".json"));
 });
-fs.writeFileSync('tota.json', JSON.stringify(Result));
+fs.writeFileSync('tota.json', JSON.stringify(Result, null, 2));

@@ -1,1 +1,1087 @@
-[{"uf":"MA","cidade":"Açailândia","id":"1129"},{"uf":"MA","cidade":"Afonso Cunha","id":"1130"},{"uf":"MA","cidade":"Água Doce do Maranhão","id":"1131"},{"uf":"MA","cidade":"Alcântara","id":"1132"},{"uf":"MA","cidade":"Aldeias Altas","id":"1133"},{"uf":"MA","cidade":"Altamira do Maranhão","id":"1134"},{"uf":"MA","cidade":"Alto Alegre do Maranhão","id":"1135"},{"uf":"MA","cidade":"Alto Alegre do Pindaré","id":"1136"},{"uf":"MA","cidade":"Alto Parnaíba","id":"1137"},{"uf":"MA","cidade":"Amapá do Maranhão","id":"1138"},{"uf":"MA","cidade":"Amarante do Maranhão","id":"1139"},{"uf":"MA","cidade":"Anajatuba","id":"1140"},{"uf":"MA","cidade":"Anapurus","id":"1141"},{"uf":"MA","cidade":"Apicum-Açu","id":"1142"},{"uf":"MA","cidade":"Araguanã","id":"1143"},{"uf":"MA","cidade":"Araioses","id":"1144"},{"uf":"MA","cidade":"Arame","id":"1145"},{"uf":"MA","cidade":"Arari","id":"1146"},{"uf":"MA","cidade":"Axixá","id":"1147"},{"uf":"MA","cidade":"Bacabal","id":"1148"},{"uf":"MA","cidade":"Bacabeira","id":"1149"},{"uf":"MA","cidade":"Bacuri","id":"1150"},{"uf":"MA","cidade":"Bacurituba","id":"1151"},{"uf":"MA","cidade":"Balsas","id":"1152"},{"uf":"MA","cidade":"Barão de Grajaú","id":"1153"},{"uf":"MA","cidade":"Barra do Corda","id":"1154"},{"uf":"MA","cidade":"Barreirinhas","id":"1155"},{"uf":"MA","cidade":"Bela Vista do Maranhão","id":"1156"},{"uf":"MA","cidade":"Belágua","id":"1157"},{"uf":"MA","cidade":"Benedito Leite","id":"1158"},{"uf":"MA","cidade":"Bequimão","id":"1159"},{"uf":"MA","cidade":"Bernardo do Mearim","id":"1160"},{"uf":"MA","cidade":"Boa Vista do Gurupi","id":"1161"},{"uf":"MA","cidade":"Bom Jardim","id":"1162"},{"uf":"MA","cidade":"Bom Jesus das Selvas","id":"1163"},{"uf":"MA","cidade":"Bom Lugar","id":"1164"},{"uf":"MA","cidade":"Brejo","id":"1165"},{"uf":"MA","cidade":"Brejo de Areia","id":"1166"},{"uf":"MA","cidade":"Buriti","id":"1167"},{"uf":"MA","cidade":"Buriti Bravo","id":"1168"},{"uf":"MA","cidade":"Buriticupu","id":"1169"},{"uf":"MA","cidade":"Buritirana","id":"1170"},{"uf":"MA","cidade":"Cachoeira Grande","id":"1171"},{"uf":"MA","cidade":"Cajapió","id":"1172"},{"uf":"MA","cidade":"Cajari","id":"1173"},{"uf":"MA","cidade":"Campestre do Maranhão","id":"1174"},{"uf":"MA","cidade":"Cândido Mendes","id":"1175"},{"uf":"MA","cidade":"Cantanhede","id":"1176"},{"uf":"MA","cidade":"Capinzal do Norte","id":"1177"},{"uf":"MA","cidade":"Carolina","id":"1178"},{"uf":"MA","cidade":"Carutapera","id":"1179"},{"uf":"MA","cidade":"Caxias","id":"1180"},{"uf":"MA","cidade":"Cedral","id":"1181"},{"uf":"MA","cidade":"Central do Maranhão","id":"1182"},{"uf":"MA","cidade":"Centro do Guilherme","id":"1183"},{"uf":"MA","cidade":"Centro Novo do Maranhão","id":"1184"},{"uf":"MA","cidade":"Chapadinha","id":"1185"},{"uf":"MA","cidade":"Cidelândia","id":"1186"},{"uf":"MA","cidade":"Codó","id":"1187"},{"uf":"MA","cidade":"Coelho Neto","id":"1188"},{"uf":"MA","cidade":"Colinas","id":"1189"},{"uf":"MA","cidade":"Conceição do Lago-Açu","id":"1190"},{"uf":"MA","cidade":"Coroatá","id":"1191"},{"uf":"MA","cidade":"Cururupu","id":"1192"},{"uf":"MA","cidade":"Davinópolis","id":"1193"},{"uf":"MA","cidade":"Dom Pedro","id":"1194"},{"uf":"MA","cidade":"Duque Bacelar","id":"1195"},{"uf":"MA","cidade":"Esperantinópolis","id":"1196"},{"uf":"MA","cidade":"Estreito","id":"1197"},{"uf":"MA","cidade":"Feira Nova do Maranhão","id":"1198"},{"uf":"MA","cidade":"Fernando Falcão","id":"1199"},{"uf":"MA","cidade":"Formosa da Serra Negra","id":"1200"},{"uf":"MA","cidade":"Fortaleza dos Nogueiras","id":"1201"},{"uf":"MA","cidade":"Fortuna","id":"1202"},{"uf":"MA","cidade":"Godofredo Viana","id":"1203"},{"uf":"MA","cidade":"Gonçalves Dias","id":"1204"},{"uf":"MA","cidade":"Governador Archer","id":"1205"},{"uf":"MA","cidade":"Governador Edison Lobão","id":"1206"},{"uf":"MA","cidade":"Governador Eugênio Barros","id":"1207"},{"uf":"MA","cidade":"Governador Luiz Rocha","id":"1208"},{"uf":"MA","cidade":"Governador Newton Bello","id":"1209"},{"uf":"MA","cidade":"Governador Nunes Freire","id":"1210"},{"uf":"MA","cidade":"Graça Aranha","id":"1211"},{"uf":"MA","cidade":"Grajaú","id":"1212"},{"uf":"MA","cidade":"Guimarães","id":"1213"},{"uf":"MA","cidade":"Humberto de Campos","id":"1214"},{"uf":"MA","cidade":"Icatu","id":"1215"},{"uf":"MA","cidade":"Igarapé do Meio","id":"1216"},{"uf":"MA","cidade":"Igarapé Grande","id":"1217"},{"uf":"MA","cidade":"Imperatriz","id":"1218"},{"uf":"MA","cidade":"Itaipava do Grajaú","id":"1219"},{"uf":"MA","cidade":"Itapecuru Mirim","id":"1220"},{"uf":"MA","cidade":"Itinga do Maranhão","id":"1221"},{"uf":"MA","cidade":"Jatobá","id":"1222"},{"uf":"MA","cidade":"Jenipapo dos Vieiras","id":"1223"},{"uf":"MA","cidade":"João Lisboa","id":"1224"},{"uf":"MA","cidade":"Joselândia","id":"1225"},{"uf":"MA","cidade":"Junco do Maranhão","id":"1226"},{"uf":"MA","cidade":"Lago da Pedra","id":"1227"},{"uf":"MA","cidade":"Lago do Junco","id":"1228"},{"uf":"MA","cidade":"Lago dos Rodrigues","id":"1229"},{"uf":"MA","cidade":"Lago Verde","id":"1230"},{"uf":"MA","cidade":"Lagoa do Mato","id":"1231"},{"uf":"MA","cidade":"Lagoa Grande do Maranhão","id":"1232"},{"uf":"MA","cidade":"Lajeado Novo","id":"1233"},{"uf":"MA","cidade":"Lima Campos","id":"1234"},{"uf":"MA","cidade":"Loreto","id":"1235"},{"uf":"MA","cidade":"Luís Domingues","id":"1236"},{"uf":"MA","cidade":"Magalhães de Almeida","id":"1237"},{"uf":"MA","cidade":"Maracaçumé","id":"1238"},{"uf":"MA","cidade":"Marajá do Sena","id":"1239"},{"uf":"MA","cidade":"Maranhãozinho","id":"1240"},{"uf":"MA","cidade":"Mata Roma","id":"1241"},{"uf":"MA","cidade":"Matinha","id":"1242"},{"uf":"MA","cidade":"Matões","id":"1243"},{"uf":"MA","cidade":"Matões do Norte","id":"1244"},{"uf":"MA","cidade":"Milagres do Maranhão","id":"1245"},{"uf":"MA","cidade":"Mirador","id":"1246"},{"uf":"MA","cidade":"Miranda do Norte","id":"1247"},{"uf":"MA","cidade":"Mirinzal","id":"1248"},{"uf":"MA","cidade":"Monção","id":"1249"},{"uf":"MA","cidade":"Montes Altos","id":"1250"},{"uf":"MA","cidade":"Morros","id":"1251"},{"uf":"MA","cidade":"Nina Rodrigues","id":"1252"},{"uf":"MA","cidade":"Nova Colinas","id":"1253"},{"uf":"MA","cidade":"Nova Iorque","id":"1254"},{"uf":"MA","cidade":"Nova Olinda do Maranhão","id":"1255"},{"uf":"MA","cidade":"Olho d`Água das Cunhãs","id":"1256"},{"uf":"MA","cidade":"Olinda Nova do Maranhão","id":"1257"},{"uf":"MA","cidade":"Paço do Lumiar","id":"1258"},{"uf":"MA","cidade":"Palmeirândia","id":"1259"},{"uf":"MA","cidade":"Paraibano","id":"1260"},{"uf":"MA","cidade":"Parnarama","id":"1261"},{"uf":"MA","cidade":"Passagem Franca","id":"1262"},{"uf":"MA","cidade":"Pastos Bons","id":"1263"},{"uf":"MA","cidade":"Paulino Neves","id":"1264"},{"uf":"MA","cidade":"Paulo Ramos","id":"1265"},{"uf":"MA","cidade":"Pedreiras","id":"1266"},{"uf":"MA","cidade":"Pedro do Rosário","id":"1267"},{"uf":"MA","cidade":"Penalva","id":"1268"},{"uf":"MA","cidade":"Peri Mirim","id":"1269"},{"uf":"MA","cidade":"Peritoró","id":"1270"},{"uf":"MA","cidade":"Pindaré-Mirim","id":"1271"},{"uf":"MA","cidade":"Pinheiro","id":"1272"},{"uf":"MA","cidade":"Pio XII","id":"1273"},{"uf":"MA","cidade":"Pirapemas","id":"1274"},{"uf":"MA","cidade":"Poção de Pedras","id":"1275"},{"uf":"MA","cidade":"Porto Franco","id":"1276"},{"uf":"MA","cidade":"Porto Rico do Maranhão","id":"1277"},{"uf":"MA","cidade":"Presidente Dutra","id":"1278"},{"uf":"MA","cidade":"Presidente Juscelino","id":"1279"},{"uf":"MA","cidade":"Presidente Médici","id":"1280"},{"uf":"MA","cidade":"Presidente Sarney","id":"1281"},{"uf":"MA","cidade":"Presidente Vargas","id":"1282"},{"uf":"MA","cidade":"Primeira Cruz","id":"1283"},{"uf":"MA","cidade":"Raposa","id":"1284"},{"uf":"MA","cidade":"Riachão","id":"1285"},{"uf":"MA","cidade":"Ribamar Fiquene","id":"1286"},{"uf":"MA","cidade":"Rosário","id":"1287"},{"uf":"MA","cidade":"Sambaíba","id":"1288"},{"uf":"MA","cidade":"Santa Filomena do Maranhão","id":"1289"},{"uf":"MA","cidade":"Santa Helena","id":"1290"},{"uf":"MA","cidade":"Santa Inês","id":"1291"},{"uf":"MA","cidade":"Santa Luzia","id":"1292"},{"uf":"MA","cidade":"Santa Luzia do Paruá","id":"1293"},{"uf":"MA","cidade":"Santa Quitéria do Maranhão","id":"1294"},{"uf":"MA","cidade":"Santa Rita","id":"1295"},{"uf":"MA","cidade":"Santana do Maranhão","id":"1296"},{"uf":"MA","cidade":"Santo Amaro do Maranhão","id":"1297"},{"uf":"MA","cidade":"Santo Antônio dos Lopes","id":"1298"},{"uf":"MA","cidade":"São Benedito do Rio Preto","id":"1299"},{"uf":"MA","cidade":"São Bento","id":"1300"},{"uf":"MA","cidade":"São Bernardo","id":"1301"},{"uf":"MA","cidade":"São Domingos do Azeitão","id":"1302"},{"uf":"MA","cidade":"São Domingos do Maranhão","id":"1303"},{"uf":"MA","cidade":"São Félix de Balsas","id":"1304"},{"uf":"MA","cidade":"São Francisco do Brejão","id":"1305"},{"uf":"MA","cidade":"São Francisco do Maranhão","id":"1306"},{"uf":"MA","cidade":"São João Batista","id":"1307"},{"uf":"MA","cidade":"São João do Carú","id":"1308"},{"uf":"MA","cidade":"São João do Paraíso","id":"1309"},{"uf":"MA","cidade":"São João do Soter","id":"1310"},{"uf":"MA","cidade":"São João dos Patos","id":"1311"},{"uf":"MA","cidade":"São José de Ribamar","id":"1312"},{"uf":"MA","cidade":"São José dos Basílios","id":"1313"},{"uf":"MA","cidade":"São Luís","id":"1314"},{"uf":"MA","cidade":"São Luís Gonzaga do Maranhão","id":"1315"},{"uf":"MA","cidade":"São Mateus do Maranhão","id":"1316"},{"uf":"MA","cidade":"São Pedro da Água Branca","id":"1317"},{"uf":"MA","cidade":"São Pedro dos Crentes","id":"1318"},{"uf":"MA","cidade":"São Raimundo das Mangabeiras","id":"1319"},{"uf":"MA","cidade":"São Raimundo do Doca Bezerra","id":"1320"},{"uf":"MA","cidade":"São Roberto","id":"1321"},{"uf":"MA","cidade":"São Vicente Ferrer","id":"1322"},{"uf":"MA","cidade":"Satubinha","id":"1323"},{"uf":"MA","cidade":"Senador Alexandre Costa","id":"1324"},{"uf":"MA","cidade":"Senador La Rocque","id":"1325"},{"uf":"MA","cidade":"Serrano do Maranhão","id":"1326"},{"uf":"MA","cidade":"Sítio Novo","id":"1327"},{"uf":"MA","cidade":"Sucupira do Norte","id":"1328"},{"uf":"MA","cidade":"Sucupira do Riachão","id":"1329"},{"uf":"MA","cidade":"Tasso Fragoso","id":"1330"},{"uf":"MA","cidade":"Timbiras","id":"1331"},{"uf":"MA","cidade":"Timon","id":"1332"},{"uf":"MA","cidade":"Trizidela do Vale","id":"1333"},{"uf":"MA","cidade":"Tufilândia","id":"1334"},{"uf":"MA","cidade":"Tuntum","id":"1335"},{"uf":"MA","cidade":"Turiaçu","id":"1336"},{"uf":"MA","cidade":"Turilândia","id":"1337"},{"uf":"MA","cidade":"Tutóia","id":"1338"},{"uf":"MA","cidade":"Urbano Santos","id":"1339"},{"uf":"MA","cidade":"Vargem Grande","id":"1340"},{"uf":"MA","cidade":"Viana","id":"1341"},{"uf":"MA","cidade":"Vila Nova dos Martírios","id":"1342"},{"uf":"MA","cidade":"Vitória do Mearim","id":"1343"},{"uf":"MA","cidade":"Vitorino Freire","id":"1344"},{"uf":"MA","cidade":"Zé Doca","id":"1345"}]
+[
+  {
+    "uf": "MA",
+    "cidade": "Açailândia",
+    "id": "1129"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Afonso Cunha",
+    "id": "1130"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Água Doce do Maranhão",
+    "id": "1131"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Alcântara",
+    "id": "1132"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Aldeias Altas",
+    "id": "1133"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Altamira do Maranhão",
+    "id": "1134"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Alto Alegre do Maranhão",
+    "id": "1135"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Alto Alegre do Pindaré",
+    "id": "1136"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Alto Parnaíba",
+    "id": "1137"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Amapá do Maranhão",
+    "id": "1138"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Amarante do Maranhão",
+    "id": "1139"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Anajatuba",
+    "id": "1140"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Anapurus",
+    "id": "1141"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Apicum-Açu",
+    "id": "1142"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Araguanã",
+    "id": "1143"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Araioses",
+    "id": "1144"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Arame",
+    "id": "1145"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Arari",
+    "id": "1146"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Axixá",
+    "id": "1147"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Bacabal",
+    "id": "1148"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Bacabeira",
+    "id": "1149"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Bacuri",
+    "id": "1150"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Bacurituba",
+    "id": "1151"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Balsas",
+    "id": "1152"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Barão de Grajaú",
+    "id": "1153"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Barra do Corda",
+    "id": "1154"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Barreirinhas",
+    "id": "1155"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Bela Vista do Maranhão",
+    "id": "1156"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Belágua",
+    "id": "1157"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Benedito Leite",
+    "id": "1158"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Bequimão",
+    "id": "1159"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Bernardo do Mearim",
+    "id": "1160"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Boa Vista do Gurupi",
+    "id": "1161"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Bom Jardim",
+    "id": "1162"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Bom Jesus das Selvas",
+    "id": "1163"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Bom Lugar",
+    "id": "1164"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Brejo",
+    "id": "1165"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Brejo de Areia",
+    "id": "1166"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Buriti",
+    "id": "1167"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Buriti Bravo",
+    "id": "1168"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Buriticupu",
+    "id": "1169"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Buritirana",
+    "id": "1170"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Cachoeira Grande",
+    "id": "1171"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Cajapió",
+    "id": "1172"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Cajari",
+    "id": "1173"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Campestre do Maranhão",
+    "id": "1174"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Cândido Mendes",
+    "id": "1175"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Cantanhede",
+    "id": "1176"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Capinzal do Norte",
+    "id": "1177"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Carolina",
+    "id": "1178"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Carutapera",
+    "id": "1179"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Caxias",
+    "id": "1180"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Cedral",
+    "id": "1181"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Central do Maranhão",
+    "id": "1182"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Centro do Guilherme",
+    "id": "1183"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Centro Novo do Maranhão",
+    "id": "1184"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Chapadinha",
+    "id": "1185"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Cidelândia",
+    "id": "1186"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Codó",
+    "id": "1187"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Coelho Neto",
+    "id": "1188"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Colinas",
+    "id": "1189"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Conceição do Lago-Açu",
+    "id": "1190"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Coroatá",
+    "id": "1191"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Cururupu",
+    "id": "1192"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Davinópolis",
+    "id": "1193"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Dom Pedro",
+    "id": "1194"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Duque Bacelar",
+    "id": "1195"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Esperantinópolis",
+    "id": "1196"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Estreito",
+    "id": "1197"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Feira Nova do Maranhão",
+    "id": "1198"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Fernando Falcão",
+    "id": "1199"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Formosa da Serra Negra",
+    "id": "1200"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Fortaleza dos Nogueiras",
+    "id": "1201"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Fortuna",
+    "id": "1202"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Godofredo Viana",
+    "id": "1203"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Gonçalves Dias",
+    "id": "1204"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Governador Archer",
+    "id": "1205"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Governador Edison Lobão",
+    "id": "1206"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Governador Eugênio Barros",
+    "id": "1207"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Governador Luiz Rocha",
+    "id": "1208"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Governador Newton Bello",
+    "id": "1209"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Governador Nunes Freire",
+    "id": "1210"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Graça Aranha",
+    "id": "1211"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Grajaú",
+    "id": "1212"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Guimarães",
+    "id": "1213"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Humberto de Campos",
+    "id": "1214"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Icatu",
+    "id": "1215"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Igarapé do Meio",
+    "id": "1216"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Igarapé Grande",
+    "id": "1217"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Imperatriz",
+    "id": "1218"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Itaipava do Grajaú",
+    "id": "1219"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Itapecuru Mirim",
+    "id": "1220"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Itinga do Maranhão",
+    "id": "1221"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Jatobá",
+    "id": "1222"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Jenipapo dos Vieiras",
+    "id": "1223"
+  },
+  {
+    "uf": "MA",
+    "cidade": "João Lisboa",
+    "id": "1224"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Joselândia",
+    "id": "1225"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Junco do Maranhão",
+    "id": "1226"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Lago da Pedra",
+    "id": "1227"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Lago do Junco",
+    "id": "1228"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Lago dos Rodrigues",
+    "id": "1229"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Lago Verde",
+    "id": "1230"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Lagoa do Mato",
+    "id": "1231"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Lagoa Grande do Maranhão",
+    "id": "1232"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Lajeado Novo",
+    "id": "1233"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Lima Campos",
+    "id": "1234"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Loreto",
+    "id": "1235"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Luís Domingues",
+    "id": "1236"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Magalhães de Almeida",
+    "id": "1237"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Maracaçumé",
+    "id": "1238"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Marajá do Sena",
+    "id": "1239"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Maranhãozinho",
+    "id": "1240"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Mata Roma",
+    "id": "1241"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Matinha",
+    "id": "1242"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Matões",
+    "id": "1243"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Matões do Norte",
+    "id": "1244"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Milagres do Maranhão",
+    "id": "1245"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Mirador",
+    "id": "1246"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Miranda do Norte",
+    "id": "1247"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Mirinzal",
+    "id": "1248"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Monção",
+    "id": "1249"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Montes Altos",
+    "id": "1250"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Morros",
+    "id": "1251"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Nina Rodrigues",
+    "id": "1252"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Nova Colinas",
+    "id": "1253"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Nova Iorque",
+    "id": "1254"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Nova Olinda do Maranhão",
+    "id": "1255"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Olho d`Água das Cunhãs",
+    "id": "1256"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Olinda Nova do Maranhão",
+    "id": "1257"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Paço do Lumiar",
+    "id": "1258"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Palmeirândia",
+    "id": "1259"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Paraibano",
+    "id": "1260"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Parnarama",
+    "id": "1261"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Passagem Franca",
+    "id": "1262"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Pastos Bons",
+    "id": "1263"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Paulino Neves",
+    "id": "1264"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Paulo Ramos",
+    "id": "1265"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Pedreiras",
+    "id": "1266"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Pedro do Rosário",
+    "id": "1267"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Penalva",
+    "id": "1268"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Peri Mirim",
+    "id": "1269"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Peritoró",
+    "id": "1270"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Pindaré-Mirim",
+    "id": "1271"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Pinheiro",
+    "id": "1272"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Pio XII",
+    "id": "1273"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Pirapemas",
+    "id": "1274"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Poção de Pedras",
+    "id": "1275"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Porto Franco",
+    "id": "1276"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Porto Rico do Maranhão",
+    "id": "1277"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Presidente Dutra",
+    "id": "1278"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Presidente Juscelino",
+    "id": "1279"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Presidente Médici",
+    "id": "1280"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Presidente Sarney",
+    "id": "1281"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Presidente Vargas",
+    "id": "1282"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Primeira Cruz",
+    "id": "1283"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Raposa",
+    "id": "1284"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Riachão",
+    "id": "1285"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Ribamar Fiquene",
+    "id": "1286"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Rosário",
+    "id": "1287"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Sambaíba",
+    "id": "1288"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Santa Filomena do Maranhão",
+    "id": "1289"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Santa Helena",
+    "id": "1290"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Santa Inês",
+    "id": "1291"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Santa Luzia",
+    "id": "1292"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Santa Luzia do Paruá",
+    "id": "1293"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Santa Quitéria do Maranhão",
+    "id": "1294"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Santa Rita",
+    "id": "1295"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Santana do Maranhão",
+    "id": "1296"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Santo Amaro do Maranhão",
+    "id": "1297"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Santo Antônio dos Lopes",
+    "id": "1298"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Benedito do Rio Preto",
+    "id": "1299"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Bento",
+    "id": "1300"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Bernardo",
+    "id": "1301"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Domingos do Azeitão",
+    "id": "1302"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Domingos do Maranhão",
+    "id": "1303"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Félix de Balsas",
+    "id": "1304"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Francisco do Brejão",
+    "id": "1305"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Francisco do Maranhão",
+    "id": "1306"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São João Batista",
+    "id": "1307"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São João do Carú",
+    "id": "1308"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São João do Paraíso",
+    "id": "1309"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São João do Soter",
+    "id": "1310"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São João dos Patos",
+    "id": "1311"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São José de Ribamar",
+    "id": "1312"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São José dos Basílios",
+    "id": "1313"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Luís",
+    "id": "1314"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Luís Gonzaga do Maranhão",
+    "id": "1315"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Mateus do Maranhão",
+    "id": "1316"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Pedro da Água Branca",
+    "id": "1317"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Pedro dos Crentes",
+    "id": "1318"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Raimundo das Mangabeiras",
+    "id": "1319"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Raimundo do Doca Bezerra",
+    "id": "1320"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Roberto",
+    "id": "1321"
+  },
+  {
+    "uf": "MA",
+    "cidade": "São Vicente Ferrer",
+    "id": "1322"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Satubinha",
+    "id": "1323"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Senador Alexandre Costa",
+    "id": "1324"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Senador La Rocque",
+    "id": "1325"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Serrano do Maranhão",
+    "id": "1326"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Sítio Novo",
+    "id": "1327"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Sucupira do Norte",
+    "id": "1328"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Sucupira do Riachão",
+    "id": "1329"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Tasso Fragoso",
+    "id": "1330"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Timbiras",
+    "id": "1331"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Timon",
+    "id": "1332"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Trizidela do Vale",
+    "id": "1333"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Tufilândia",
+    "id": "1334"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Tuntum",
+    "id": "1335"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Turiaçu",
+    "id": "1336"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Turilândia",
+    "id": "1337"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Tutóia",
+    "id": "1338"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Urbano Santos",
+    "id": "1339"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Vargem Grande",
+    "id": "1340"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Viana",
+    "id": "1341"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Vila Nova dos Martírios",
+    "id": "1342"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Vitória do Mearim",
+    "id": "1343"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Vitorino Freire",
+    "id": "1344"
+  },
+  {
+    "uf": "MA",
+    "cidade": "Zé Doca",
+    "id": "1345"
+  }
+]

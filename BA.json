@@ -1,1 +1,2087 @@
-[{"uf":"BA","cidade":"Abaíra","id":"281"},{"uf":"BA","cidade":"Abaré","id":"282"},{"uf":"BA","cidade":"Acajutiba","id":"283"},{"uf":"BA","cidade":"Adustina","id":"284"},{"uf":"BA","cidade":"Água Fria","id":"285"},{"uf":"BA","cidade":"Aiquara","id":"286"},{"uf":"BA","cidade":"Alagoinhas","id":"287"},{"uf":"BA","cidade":"Alcobaça","id":"288"},{"uf":"BA","cidade":"Almadina","id":"289"},{"uf":"BA","cidade":"Amargosa","id":"290"},{"uf":"BA","cidade":"Amélia Rodrigues","id":"291"},{"uf":"BA","cidade":"América Dourada","id":"292"},{"uf":"BA","cidade":"Anagé","id":"293"},{"uf":"BA","cidade":"Andaraí","id":"294"},{"uf":"BA","cidade":"Andorinha","id":"295"},{"uf":"BA","cidade":"Angical","id":"296"},{"uf":"BA","cidade":"Anguera","id":"297"},{"uf":"BA","cidade":"Antas","id":"298"},{"uf":"BA","cidade":"Antônio Cardoso","id":"299"},{"uf":"BA","cidade":"Antônio Gonçalves","id":"300"},{"uf":"BA","cidade":"Aporá","id":"301"},{"uf":"BA","cidade":"Apuarema","id":"302"},{"uf":"BA","cidade":"Araças","id":"303"},{"uf":"BA","cidade":"Aracatu","id":"304"},{"uf":"BA","cidade":"Araci","id":"305"},{"uf":"BA","cidade":"Aramari","id":"306"},{"uf":"BA","cidade":"Arataca","id":"307"},{"uf":"BA","cidade":"Aratuípe","id":"308"},{"uf":"BA","cidade":"Aurelino Leal","id":"309"},{"uf":"BA","cidade":"Baianópolis","id":"310"},{"uf":"BA","cidade":"Baixa Grande","id":"311"},{"uf":"BA","cidade":"Banzaê","id":"312"},{"uf":"BA","cidade":"Barra","id":"313"},{"uf":"BA","cidade":"Barra da Estiva","id":"314"},{"uf":"BA","cidade":"Barra do Choça","id":"315"},{"uf":"BA","cidade":"Barra do Mendes","id":"316"},{"uf":"BA","cidade":"Barra do Rocha","id":"317"},{"uf":"BA","cidade":"Barreiras","id":"318"},{"uf":"BA","cidade":"Barro Alto","id":"319"},{"uf":"BA","cidade":"Barro Preto (antigo Gov. Lomanto Jr.)","id":"320"},{"uf":"BA","cidade":"Barrocas","id":"321"},{"uf":"BA","cidade":"Belmonte","id":"322"},{"uf":"BA","cidade":"Belo Campo","id":"323"},{"uf":"BA","cidade":"Biritinga","id":"324"},{"uf":"BA","cidade":"Boa Nova","id":"325"},{"uf":"BA","cidade":"Boa Vista do Tupim","id":"326"},{"uf":"BA","cidade":"Bom Jesus da Lapa","id":"327"},{"uf":"BA","cidade":"Bom Jesus da Serra","id":"328"},{"uf":"BA","cidade":"Boninal","id":"329"},{"uf":"BA","cidade":"Bonito","id":"330"},{"uf":"BA","cidade":"Boquira","id":"331"},{"uf":"BA","cidade":"Botuporã","id":"332"},{"uf":"BA","cidade":"Brejões","id":"333"},{"uf":"BA","cidade":"Brejolândia","id":"334"},{"uf":"BA","cidade":"Brotas de Macaúbas","id":"335"},{"uf":"BA","cidade":"Brumado","id":"336"},{"uf":"BA","cidade":"Buerarema","id":"337"},{"uf":"BA","cidade":"Buritirama","id":"338"},{"uf":"BA","cidade":"Caatiba","id":"339"},{"uf":"BA","cidade":"Cabaceiras do Paraguaçu","id":"340"},{"uf":"BA","cidade":"Cachoeira","id":"341"},{"uf":"BA","cidade":"Caculé","id":"342"},{"uf":"BA","cidade":"Caém","id":"343"},{"uf":"BA","cidade":"Caetanos","id":"344"},{"uf":"BA","cidade":"Caetité","id":"345"},{"uf":"BA","cidade":"Cafarnaum","id":"346"},{"uf":"BA","cidade":"Cairu","id":"347"},{"uf":"BA","cidade":"Caldeirão Grande","id":"348"},{"uf":"BA","cidade":"Camacan","id":"349"},{"uf":"BA","cidade":"Camaçari","id":"350"},{"uf":"BA","cidade":"Camamu","id":"351"},{"uf":"BA","cidade":"Campo Alegre de Lourdes","id":"352"},{"uf":"BA","cidade":"Campo Formoso","id":"353"},{"uf":"BA","cidade":"Canápolis","id":"354"},{"uf":"BA","cidade":"Canarana","id":"355"},{"uf":"BA","cidade":"Canavieiras","id":"356"},{"uf":"BA","cidade":"Candeal","id":"357"},{"uf":"BA","cidade":"Candeias","id":"358"},{"uf":"BA","cidade":"Candiba","id":"359"},{"uf":"BA","cidade":"Cândido Sales","id":"360"},{"uf":"BA","cidade":"Cansanção","id":"361"},{"uf":"BA","cidade":"Canudos","id":"362"},{"uf":"BA","cidade":"Capela do Alto Alegre","id":"363"},{"uf":"BA","cidade":"Capim Grosso","id":"364"},{"uf":"BA","cidade":"Caraíbas","id":"365"},{"uf":"BA","cidade":"Caravelas","id":"366"},{"uf":"BA","cidade":"Cardeal da Silva","id":"367"},{"uf":"BA","cidade":"Carinhanha","id":"368"},{"uf":"BA","cidade":"Casa Nova","id":"369"},{"uf":"BA","cidade":"Castro Alves","id":"370"},{"uf":"BA","cidade":"Catolândia","id":"371"},{"uf":"BA","cidade":"Catu","id":"372"},{"uf":"BA","cidade":"Caturama","id":"373"},{"uf":"BA","cidade":"Central","id":"374"},{"uf":"BA","cidade":"Chorrochó","id":"375"},{"uf":"BA","cidade":"Cícero Dantas","id":"376"},{"uf":"BA","cidade":"Cipó","id":"377"},{"uf":"BA","cidade":"Coaraci","id":"378"},{"uf":"BA","cidade":"Cocos","id":"379"},{"uf":"BA","cidade":"Conceição da Feira","id":"380"},{"uf":"BA","cidade":"Conceição do Almeida","id":"381"},{"uf":"BA","cidade":"Conceição do Coité","id":"382"},{"uf":"BA","cidade":"Conceição do Jacuípe","id":"383"},{"uf":"BA","cidade":"Conde","id":"384"},{"uf":"BA","cidade":"Condeúba","id":"385"},{"uf":"BA","cidade":"Contendas do Sincorá","id":"386"},{"uf":"BA","cidade":"Coração de Maria","id":"387"},{"uf":"BA","cidade":"Cordeiros","id":"388"},{"uf":"BA","cidade":"Coribe","id":"389"},{"uf":"BA","cidade":"Coronel João Sá","id":"390"},{"uf":"BA","cidade":"Correntina","id":"391"},{"uf":"BA","cidade":"Cotegipe","id":"392"},{"uf":"BA","cidade":"Cravolândia","id":"393"},{"uf":"BA","cidade":"Crisópolis","id":"394"},{"uf":"BA","cidade":"Cristópolis","id":"395"},{"uf":"BA","cidade":"Cruz das Almas","id":"396"},{"uf":"BA","cidade":"Curaçá","id":"397"},{"uf":"BA","cidade":"Dário Meira","id":"398"},{"uf":"BA","cidade":"Dias d`Ávila","id":"399"},{"uf":"BA","cidade":"Dom Basílio","id":"400"},{"uf":"BA","cidade":"Dom Macedo Costa","id":"401"},{"uf":"BA","cidade":"Elísio Medrado","id":"402"},{"uf":"BA","cidade":"Encruzilhada","id":"403"},{"uf":"BA","cidade":"Entre Rios","id":"404"},{"uf":"BA","cidade":"Érico Cardoso","id":"405"},{"uf":"BA","cidade":"Esplanada","id":"406"},{"uf":"BA","cidade":"Euclides da Cunha","id":"407"},{"uf":"BA","cidade":"Eunápolis","id":"408"},{"uf":"BA","cidade":"Fátima","id":"409"},{"uf":"BA","cidade":"Feira da Mata","id":"410"},{"uf":"BA","cidade":"Feira de Santana","id":"411"},{"uf":"BA","cidade":"Filadélfia","id":"412"},{"uf":"BA","cidade":"Firmino Alves","id":"413"},{"uf":"BA","cidade":"Floresta Azul","id":"414"},{"uf":"BA","cidade":"Formosa do Rio Preto","id":"415"},{"uf":"BA","cidade":"Gandu","id":"416"},{"uf":"BA","cidade":"Gavião","id":"417"},{"uf":"BA","cidade":"Gentio do Ouro","id":"418"},{"uf":"BA","cidade":"Glória","id":"419"},{"uf":"BA","cidade":"Gongogi","id":"420"},{"uf":"BA","cidade":"Governador Mangabeira","id":"421"},{"uf":"BA","cidade":"Guajeru","id":"422"},{"uf":"BA","cidade":"Guanambi","id":"423"},{"uf":"BA","cidade":"Guaratinga","id":"424"},{"uf":"BA","cidade":"Heliópolis","id":"425"},{"uf":"BA","cidade":"Iaçu","id":"426"},{"uf":"BA","cidade":"Ibiassucê","id":"427"},{"uf":"BA","cidade":"Ibicaraí","id":"428"},{"uf":"BA","cidade":"Ibicoara","id":"429"},{"uf":"BA","cidade":"Ibicuí","id":"430"},{"uf":"BA","cidade":"Ibipeba","id":"431"},{"uf":"BA","cidade":"Ibipitanga","id":"432"},{"uf":"BA","cidade":"Ibiquera","id":"433"},{"uf":"BA","cidade":"Ibirapitanga","id":"434"},{"uf":"BA","cidade":"Ibirapuã","id":"435"},{"uf":"BA","cidade":"Ibirataia","id":"436"},{"uf":"BA","cidade":"Ibitiara","id":"437"},{"uf":"BA","cidade":"Ibititá","id":"438"},{"uf":"BA","cidade":"Ibotirama","id":"439"},{"uf":"BA","cidade":"Ichu","id":"440"},{"uf":"BA","cidade":"Igaporã","id":"441"},{"uf":"BA","cidade":"Igrapiúna","id":"442"},{"uf":"BA","cidade":"Iguaí","id":"443"},{"uf":"BA","cidade":"Ilhéus","id":"444"},{"uf":"BA","cidade":"Inhambupe","id":"445"},{"uf":"BA","cidade":"Ipecaetá","id":"446"},{"uf":"BA","cidade":"Ipiaú","id":"447"},{"uf":"BA","cidade":"Ipirá","id":"448"},{"uf":"BA","cidade":"Ipupiara","id":"449"},{"uf":"BA","cidade":"Irajuba","id":"450"},{"uf":"BA","cidade":"Iramaia","id":"451"},{"uf":"BA","cidade":"Iraquara","id":"452"},{"uf":"BA","cidade":"Irará","id":"453"},{"uf":"BA","cidade":"Irecê","id":"454"},{"uf":"BA","cidade":"Itabela","id":"455"},{"uf":"BA","cidade":"Itaberaba","id":"456"},{"uf":"BA","cidade":"Itabuna","id":"457"},{"uf":"BA","cidade":"Itacaré","id":"458"},{"uf":"BA","cidade":"Itaeté","id":"459"},{"uf":"BA","cidade":"Itagi","id":"460"},{"uf":"BA","cidade":"Itagibá","id":"461"},{"uf":"BA","cidade":"Itagimirim","id":"462"},{"uf":"BA","cidade":"Itaguaçu da Bahia","id":"463"},{"uf":"BA","cidade":"Itaju do Colônia","id":"464"},{"uf":"BA","cidade":"Itajuípe","id":"465"},{"uf":"BA","cidade":"Itamaraju","id":"466"},{"uf":"BA","cidade":"Itamari","id":"467"},{"uf":"BA","cidade":"Itambé","id":"468"},{"uf":"BA","cidade":"Itanagra","id":"469"},{"uf":"BA","cidade":"Itanhém","id":"470"},{"uf":"BA","cidade":"Itaparica","id":"471"},{"uf":"BA","cidade":"Itapé","id":"472"},{"uf":"BA","cidade":"Itapebi","id":"473"},{"uf":"BA","cidade":"Itapetinga","id":"474"},{"uf":"BA","cidade":"Itapicuru","id":"475"},{"uf":"BA","cidade":"Itapitanga","id":"476"},{"uf":"BA","cidade":"Itaquara","id":"477"},{"uf":"BA","cidade":"Itarantim","id":"478"},{"uf":"BA","cidade":"Itatim","id":"479"},{"uf":"BA","cidade":"Itiruçu","id":"480"},{"uf":"BA","cidade":"Itiúba","id":"481"},{"uf":"BA","cidade":"Itororó","id":"482"},{"uf":"BA","cidade":"Ituaçu","id":"483"},{"uf":"BA","cidade":"Ituberá","id":"484"},{"uf":"BA","cidade":"Iuiú","id":"485"},{"uf":"BA","cidade":"Jaborandi","id":"486"},{"uf":"BA","cidade":"Jacaraci","id":"487"},{"uf":"BA","cidade":"Jacobina","id":"488"},{"uf":"BA","cidade":"Jaguaquara","id":"489"},{"uf":"BA","cidade":"Jaguarari","id":"490"},{"uf":"BA","cidade":"Jaguaripe","id":"491"},{"uf":"BA","cidade":"Jandaíra","id":"492"},{"uf":"BA","cidade":"Jequié","id":"493"},{"uf":"BA","cidade":"Jeremoabo","id":"494"},{"uf":"BA","cidade":"Jiquiriçá","id":"495"},{"uf":"BA","cidade":"Jitaúna","id":"496"},{"uf":"BA","cidade":"João Dourado","id":"497"},{"uf":"BA","cidade":"Juazeiro","id":"498"},{"uf":"BA","cidade":"Jucuruçu","id":"499"},{"uf":"BA","cidade":"Jussara","id":"500"},{"uf":"BA","cidade":"Jussari","id":"501"},{"uf":"BA","cidade":"Jussiape","id":"502"},{"uf":"BA","cidade":"Lafaiete Coutinho","id":"503"},{"uf":"BA","cidade":"Lagoa Real","id":"504"},{"uf":"BA","cidade":"Laje","id":"505"},{"uf":"BA","cidade":"Lajedão","id":"506"},{"uf":"BA","cidade":"Lajedinho","id":"507"},{"uf":"BA","cidade":"Lajedo do Tabocal","id":"508"},{"uf":"BA","cidade":"Lamarão","id":"509"},{"uf":"BA","cidade":"Lapão","id":"510"},{"uf":"BA","cidade":"Lauro de Freitas","id":"511"},{"uf":"BA","cidade":"Lençóis","id":"512"},{"uf":"BA","cidade":"Licínio de Almeida","id":"513"},{"uf":"BA","cidade":"Livramento de Nossa Senhora","id":"514"},{"uf":"BA","cidade":"Luís Eduardo Magalhães","id":"515"},{"uf":"BA","cidade":"Macajuba","id":"516"},{"uf":"BA","cidade":"Macarani","id":"517"},{"uf":"BA","cidade":"Macaúbas","id":"518"},{"uf":"BA","cidade":"Macururé","id":"519"},{"uf":"BA","cidade":"Madre de Deus","id":"520"},{"uf":"BA","cidade":"Maetinga","id":"521"},{"uf":"BA","cidade":"Maiquinique","id":"522"},{"uf":"BA","cidade":"Mairi","id":"523"},{"uf":"BA","cidade":"Malhada","id":"524"},{"uf":"BA","cidade":"Malhada de Pedras","id":"525"},{"uf":"BA","cidade":"Manoel Vitorino","id":"526"},{"uf":"BA","cidade":"Mansidão","id":"527"},{"uf":"BA","cidade":"Maracás","id":"528"},{"uf":"BA","cidade":"Maragogipe","id":"529"},{"uf":"BA","cidade":"Maraú","id":"530"},{"uf":"BA","cidade":"Marcionílio Souza","id":"531"},{"uf":"BA","cidade":"Mascote","id":"532"},{"uf":"BA","cidade":"Mata de São João","id":"533"},{"uf":"BA","cidade":"Matina","id":"534"},{"uf":"BA","cidade":"Medeiros Neto","id":"535"},{"uf":"BA","cidade":"Miguel Calmon","id":"536"},{"uf":"BA","cidade":"Milagres","id":"537"},{"uf":"BA","cidade":"Mirangaba","id":"538"},{"uf":"BA","cidade":"Mirante","id":"539"},{"uf":"BA","cidade":"Monte Santo","id":"540"},{"uf":"BA","cidade":"Morpará","id":"541"},{"uf":"BA","cidade":"Morro do Chapéu","id":"542"},{"uf":"BA","cidade":"Mortugaba","id":"543"},{"uf":"BA","cidade":"Mucugê","id":"544"},{"uf":"BA","cidade":"Mucuri","id":"545"},{"uf":"BA","cidade":"Mulungu do Morro","id":"546"},{"uf":"BA","cidade":"Mundo Novo","id":"547"},{"uf":"BA","cidade":"Muniz Ferreira","id":"548"},{"uf":"BA","cidade":"Muquém de São Francisco","id":"549"},{"uf":"BA","cidade":"Muritiba","id":"550"},{"uf":"BA","cidade":"Mutuípe","id":"551"},{"uf":"BA","cidade":"Nazaré","id":"552"},{"uf":"BA","cidade":"Nilo Peçanha","id":"553"},{"uf":"BA","cidade":"Nordestina","id":"554"},{"uf":"BA","cidade":"Nova Canaã","id":"555"},{"uf":"BA","cidade":"Nova Fátima","id":"556"},{"uf":"BA","cidade":"Nova Ibiá","id":"557"},{"uf":"BA","cidade":"Nova Itarana","id":"558"},{"uf":"BA","cidade":"Nova Redenção","id":"559"},{"uf":"BA","cidade":"Nova Soure","id":"560"},{"uf":"BA","cidade":"Nova Viçosa","id":"561"},{"uf":"BA","cidade":"Novo Horizonte","id":"562"},{"uf":"BA","cidade":"Novo Triunfo","id":"563"},{"uf":"BA","cidade":"Olindina","id":"564"},{"uf":"BA","cidade":"Oliveira dos Brejinhos","id":"565"},{"uf":"BA","cidade":"Ouriçangas","id":"566"},{"uf":"BA","cidade":"Ourolândia","id":"567"},{"uf":"BA","cidade":"Palmas de Monte Alto","id":"568"},{"uf":"BA","cidade":"Palmeiras","id":"569"},{"uf":"BA","cidade":"Paramirim","id":"570"},{"uf":"BA","cidade":"Paratinga","id":"571"},{"uf":"BA","cidade":"Paripiranga","id":"572"},{"uf":"BA","cidade":"Pau Brasil","id":"573"},{"uf":"BA","cidade":"Paulo Afonso","id":"574"},{"uf":"BA","cidade":"Pé de Serra","id":"575"},{"uf":"BA","cidade":"Pedrão","id":"576"},{"uf":"BA","cidade":"Pedro Alexandre","id":"577"},{"uf":"BA","cidade":"Piatã","id":"578"},{"uf":"BA","cidade":"Pilão Arcado","id":"579"},{"uf":"BA","cidade":"Pindaí","id":"580"},{"uf":"BA","cidade":"Pindobaçu","id":"581"},{"uf":"BA","cidade":"Pintadas","id":"582"},{"uf":"BA","cidade":"Piraí do Norte","id":"583"},{"uf":"BA","cidade":"Piripá","id":"584"},{"uf":"BA","cidade":"Piritiba","id":"585"},{"uf":"BA","cidade":"Planaltino","id":"586"},{"uf":"BA","cidade":"Planalto","id":"587"},{"uf":"BA","cidade":"Poções","id":"588"},{"uf":"BA","cidade":"Pojuca","id":"589"},{"uf":"BA","cidade":"Ponto Novo","id":"590"},{"uf":"BA","cidade":"Porto Seguro","id":"591"},{"uf":"BA","cidade":"Potiraguá","id":"592"},{"uf":"BA","cidade":"Prado","id":"593"},{"uf":"BA","cidade":"Presidente Dutra","id":"594"},{"uf":"BA","cidade":"Presidente Jânio Quadros","id":"595"},{"uf":"BA","cidade":"Presidente Tancredo Neves","id":"596"},{"uf":"BA","cidade":"Queimadas","id":"597"},{"uf":"BA","cidade":"Quijingue","id":"598"},{"uf":"BA","cidade":"Quixabeira","id":"599"},{"uf":"BA","cidade":"Rafael Jambeiro","id":"600"},{"uf":"BA","cidade":"Remanso","id":"601"},{"uf":"BA","cidade":"Retirolândia","id":"602"},{"uf":"BA","cidade":"Riachão das Neves","id":"603"},{"uf":"BA","cidade":"Riachão do Jacuípe","id":"604"},{"uf":"BA","cidade":"Riacho de Santana","id":"605"},{"uf":"BA","cidade":"Ribeira do Amparo","id":"606"},{"uf":"BA","cidade":"Ribeira do Pombal","id":"607"},{"uf":"BA","cidade":"Ribeirão do Largo","id":"608"},{"uf":"BA","cidade":"Rio de Contas","id":"609"},{"uf":"BA","cidade":"Rio do Antônio","id":"610"},{"uf":"BA","cidade":"Rio do Pires","id":"611"},{"uf":"BA","cidade":"Rio Real","id":"612"},{"uf":"BA","cidade":"Rodelas","id":"613"},{"uf":"BA","cidade":"Ruy Barbosa","id":"614"},{"uf":"BA","cidade":"Salinas da Margarida","id":"615"},{"uf":"BA","cidade":"Salvador","id":"616"},{"uf":"BA","cidade":"Santa Bárbara","id":"617"},{"uf":"BA","cidade":"Santa Brígida","id":"618"},{"uf":"BA","cidade":"Santa Cruz Cabrália","id":"619"},{"uf":"BA","cidade":"Santa Cruz da Vitória","id":"620"},{"uf":"BA","cidade":"Santa Inês","id":"621"},{"uf":"BA","cidade":"Santa Luzia","id":"622"},{"uf":"BA","cidade":"Santa Maria da Vitória","id":"623"},{"uf":"BA","cidade":"Santa Rita de Cássia","id":"624"},{"uf":"BA","cidade":"Santa Teresinha","id":"625"},{"uf":"BA","cidade":"Santaluz","id":"626"},{"uf":"BA","cidade":"Santana","id":"627"},{"uf":"BA","cidade":"Santanópolis","id":"628"},{"uf":"BA","cidade":"Santo Amaro","id":"629"},{"uf":"BA","cidade":"Santo Antônio de Jesus","id":"630"},{"uf":"BA","cidade":"Santo Estêvão","id":"631"},{"uf":"BA","cidade":"São Desidério","id":"632"},{"uf":"BA","cidade":"São Domingos","id":"633"},{"uf":"BA","cidade":"São Felipe","id":"634"},{"uf":"BA","cidade":"São Félix","id":"635"},{"uf":"BA","cidade":"São Félix do Coribe","id":"636"},{"uf":"BA","cidade":"São Francisco do Conde","id":"637"},{"uf":"BA","cidade":"São Gabriel","id":"638"},{"uf":"BA","cidade":"São Gonçalo dos Campos","id":"639"},{"uf":"BA","cidade":"São José da Vitória","id":"640"},{"uf":"BA","cidade":"São José do Jacuípe","id":"641"},{"uf":"BA","cidade":"São Miguel das Matas","id":"642"},{"uf":"BA","cidade":"São Sebastião do Passé","id":"643"},{"uf":"BA","cidade":"Sapeaçu","id":"644"},{"uf":"BA","cidade":"Sátiro Dias","id":"645"},{"uf":"BA","cidade":"Saubara","id":"646"},{"uf":"BA","cidade":"Saúde","id":"647"},{"uf":"BA","cidade":"Seabra","id":"648"},{"uf":"BA","cidade":"Sebastião Laranjeiras","id":"649"},{"uf":"BA","cidade":"Senhor do Bonfim","id":"650"},{"uf":"BA","cidade":"Sento Sé","id":"651"},{"uf":"BA","cidade":"Serra do Ramalho","id":"652"},{"uf":"BA","cidade":"Serra Dourada","id":"653"},{"uf":"BA","cidade":"Serra Preta","id":"654"},{"uf":"BA","cidade":"Serrinha","id":"655"},{"uf":"BA","cidade":"Serrolândia","id":"656"},{"uf":"BA","cidade":"Simões Filho","id":"657"},{"uf":"BA","cidade":"Sítio do Mato","id":"658"},{"uf":"BA","cidade":"Sítio do Quinto","id":"659"},{"uf":"BA","cidade":"Sobradinho","id":"660"},{"uf":"BA","cidade":"Souto Soares","id":"661"},{"uf":"BA","cidade":"Tabocas do Brejo Velho","id":"662"},{"uf":"BA","cidade":"Tanhaçu","id":"663"},{"uf":"BA","cidade":"Tanque Novo","id":"664"},{"uf":"BA","cidade":"Tanquinho","id":"665"},{"uf":"BA","cidade":"Taperoá","id":"666"},{"uf":"BA","cidade":"Tapiramutá","id":"667"},{"uf":"BA","cidade":"Teixeira de Freitas","id":"668"},{"uf":"BA","cidade":"Teodoro Sampaio","id":"669"},{"uf":"BA","cidade":"Teofilândia","id":"670"},{"uf":"BA","cidade":"Teolândia","id":"671"},{"uf":"BA","cidade":"Terra Nova","id":"672"},{"uf":"BA","cidade":"Tremedal","id":"673"},{"uf":"BA","cidade":"Tucano","id":"674"},{"uf":"BA","cidade":"Uauá","id":"675"},{"uf":"BA","cidade":"Ubaíra","id":"676"},{"uf":"BA","cidade":"Ubaitaba","id":"677"},{"uf":"BA","cidade":"Ubatã","id":"678"},{"uf":"BA","cidade":"Uibaí","id":"679"},{"uf":"BA","cidade":"Umburanas","id":"680"},{"uf":"BA","cidade":"Una","id":"681"},{"uf":"BA","cidade":"Urandi","id":"682"},{"uf":"BA","cidade":"Uruçuca","id":"683"},{"uf":"BA","cidade":"Utinga","id":"684"},{"uf":"BA","cidade":"Valença","id":"685"},{"uf":"BA","cidade":"Valente","id":"686"},{"uf":"BA","cidade":"Várzea da Roça","id":"687"},{"uf":"BA","cidade":"Várzea do Poço","id":"688"},{"uf":"BA","cidade":"Várzea Nova","id":"689"},{"uf":"BA","cidade":"Varzedo","id":"690"},{"uf":"BA","cidade":"Vera Cruz","id":"691"},{"uf":"BA","cidade":"Vereda","id":"692"},{"uf":"BA","cidade":"Vitória da Conquista","id":"693"},{"uf":"BA","cidade":"Wagner","id":"694"},{"uf":"BA","cidade":"Wanderley","id":"695"},{"uf":"BA","cidade":"Wenceslau Guimarães","id":"696"},{"uf":"BA","cidade":"Xique-Xique","id":"697"}]
+[
+  {
+    "uf": "BA",
+    "cidade": "Abaíra",
+    "id": "281"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Abaré",
+    "id": "282"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Acajutiba",
+    "id": "283"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Adustina",
+    "id": "284"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Água Fria",
+    "id": "285"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Aiquara",
+    "id": "286"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Alagoinhas",
+    "id": "287"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Alcobaça",
+    "id": "288"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Almadina",
+    "id": "289"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Amargosa",
+    "id": "290"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Amélia Rodrigues",
+    "id": "291"
+  },
+  {
+    "uf": "BA",
+    "cidade": "América Dourada",
+    "id": "292"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Anagé",
+    "id": "293"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Andaraí",
+    "id": "294"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Andorinha",
+    "id": "295"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Angical",
+    "id": "296"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Anguera",
+    "id": "297"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Antas",
+    "id": "298"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Antônio Cardoso",
+    "id": "299"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Antônio Gonçalves",
+    "id": "300"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Aporá",
+    "id": "301"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Apuarema",
+    "id": "302"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Araças",
+    "id": "303"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Aracatu",
+    "id": "304"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Araci",
+    "id": "305"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Aramari",
+    "id": "306"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Arataca",
+    "id": "307"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Aratuípe",
+    "id": "308"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Aurelino Leal",
+    "id": "309"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Baianópolis",
+    "id": "310"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Baixa Grande",
+    "id": "311"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Banzaê",
+    "id": "312"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Barra",
+    "id": "313"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Barra da Estiva",
+    "id": "314"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Barra do Choça",
+    "id": "315"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Barra do Mendes",
+    "id": "316"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Barra do Rocha",
+    "id": "317"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Barreiras",
+    "id": "318"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Barro Alto",
+    "id": "319"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Barro Preto (antigo Gov. Lomanto Jr.)",
+    "id": "320"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Barrocas",
+    "id": "321"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Belmonte",
+    "id": "322"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Belo Campo",
+    "id": "323"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Biritinga",
+    "id": "324"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Boa Nova",
+    "id": "325"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Boa Vista do Tupim",
+    "id": "326"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Bom Jesus da Lapa",
+    "id": "327"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Bom Jesus da Serra",
+    "id": "328"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Boninal",
+    "id": "329"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Bonito",
+    "id": "330"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Boquira",
+    "id": "331"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Botuporã",
+    "id": "332"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Brejões",
+    "id": "333"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Brejolândia",
+    "id": "334"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Brotas de Macaúbas",
+    "id": "335"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Brumado",
+    "id": "336"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Buerarema",
+    "id": "337"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Buritirama",
+    "id": "338"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Caatiba",
+    "id": "339"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Cabaceiras do Paraguaçu",
+    "id": "340"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Cachoeira",
+    "id": "341"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Caculé",
+    "id": "342"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Caém",
+    "id": "343"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Caetanos",
+    "id": "344"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Caetité",
+    "id": "345"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Cafarnaum",
+    "id": "346"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Cairu",
+    "id": "347"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Caldeirão Grande",
+    "id": "348"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Camacan",
+    "id": "349"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Camaçari",
+    "id": "350"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Camamu",
+    "id": "351"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Campo Alegre de Lourdes",
+    "id": "352"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Campo Formoso",
+    "id": "353"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Canápolis",
+    "id": "354"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Canarana",
+    "id": "355"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Canavieiras",
+    "id": "356"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Candeal",
+    "id": "357"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Candeias",
+    "id": "358"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Candiba",
+    "id": "359"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Cândido Sales",
+    "id": "360"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Cansanção",
+    "id": "361"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Canudos",
+    "id": "362"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Capela do Alto Alegre",
+    "id": "363"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Capim Grosso",
+    "id": "364"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Caraíbas",
+    "id": "365"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Caravelas",
+    "id": "366"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Cardeal da Silva",
+    "id": "367"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Carinhanha",
+    "id": "368"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Casa Nova",
+    "id": "369"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Castro Alves",
+    "id": "370"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Catolândia",
+    "id": "371"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Catu",
+    "id": "372"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Caturama",
+    "id": "373"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Central",
+    "id": "374"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Chorrochó",
+    "id": "375"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Cícero Dantas",
+    "id": "376"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Cipó",
+    "id": "377"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Coaraci",
+    "id": "378"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Cocos",
+    "id": "379"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Conceição da Feira",
+    "id": "380"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Conceição do Almeida",
+    "id": "381"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Conceição do Coité",
+    "id": "382"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Conceição do Jacuípe",
+    "id": "383"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Conde",
+    "id": "384"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Condeúba",
+    "id": "385"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Contendas do Sincorá",
+    "id": "386"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Coração de Maria",
+    "id": "387"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Cordeiros",
+    "id": "388"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Coribe",
+    "id": "389"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Coronel João Sá",
+    "id": "390"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Correntina",
+    "id": "391"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Cotegipe",
+    "id": "392"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Cravolândia",
+    "id": "393"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Crisópolis",
+    "id": "394"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Cristópolis",
+    "id": "395"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Cruz das Almas",
+    "id": "396"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Curaçá",
+    "id": "397"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Dário Meira",
+    "id": "398"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Dias d`Ávila",
+    "id": "399"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Dom Basílio",
+    "id": "400"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Dom Macedo Costa",
+    "id": "401"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Elísio Medrado",
+    "id": "402"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Encruzilhada",
+    "id": "403"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Entre Rios",
+    "id": "404"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Érico Cardoso",
+    "id": "405"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Esplanada",
+    "id": "406"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Euclides da Cunha",
+    "id": "407"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Eunápolis",
+    "id": "408"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Fátima",
+    "id": "409"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Feira da Mata",
+    "id": "410"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Feira de Santana",
+    "id": "411"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Filadélfia",
+    "id": "412"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Firmino Alves",
+    "id": "413"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Floresta Azul",
+    "id": "414"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Formosa do Rio Preto",
+    "id": "415"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Gandu",
+    "id": "416"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Gavião",
+    "id": "417"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Gentio do Ouro",
+    "id": "418"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Glória",
+    "id": "419"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Gongogi",
+    "id": "420"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Governador Mangabeira",
+    "id": "421"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Guajeru",
+    "id": "422"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Guanambi",
+    "id": "423"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Guaratinga",
+    "id": "424"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Heliópolis",
+    "id": "425"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Iaçu",
+    "id": "426"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ibiassucê",
+    "id": "427"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ibicaraí",
+    "id": "428"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ibicoara",
+    "id": "429"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ibicuí",
+    "id": "430"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ibipeba",
+    "id": "431"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ibipitanga",
+    "id": "432"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ibiquera",
+    "id": "433"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ibirapitanga",
+    "id": "434"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ibirapuã",
+    "id": "435"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ibirataia",
+    "id": "436"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ibitiara",
+    "id": "437"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ibititá",
+    "id": "438"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ibotirama",
+    "id": "439"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ichu",
+    "id": "440"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Igaporã",
+    "id": "441"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Igrapiúna",
+    "id": "442"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Iguaí",
+    "id": "443"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ilhéus",
+    "id": "444"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Inhambupe",
+    "id": "445"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ipecaetá",
+    "id": "446"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ipiaú",
+    "id": "447"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ipirá",
+    "id": "448"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ipupiara",
+    "id": "449"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Irajuba",
+    "id": "450"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Iramaia",
+    "id": "451"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Iraquara",
+    "id": "452"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Irará",
+    "id": "453"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Irecê",
+    "id": "454"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itabela",
+    "id": "455"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itaberaba",
+    "id": "456"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itabuna",
+    "id": "457"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itacaré",
+    "id": "458"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itaeté",
+    "id": "459"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itagi",
+    "id": "460"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itagibá",
+    "id": "461"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itagimirim",
+    "id": "462"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itaguaçu da Bahia",
+    "id": "463"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itaju do Colônia",
+    "id": "464"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itajuípe",
+    "id": "465"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itamaraju",
+    "id": "466"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itamari",
+    "id": "467"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itambé",
+    "id": "468"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itanagra",
+    "id": "469"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itanhém",
+    "id": "470"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itaparica",
+    "id": "471"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itapé",
+    "id": "472"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itapebi",
+    "id": "473"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itapetinga",
+    "id": "474"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itapicuru",
+    "id": "475"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itapitanga",
+    "id": "476"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itaquara",
+    "id": "477"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itarantim",
+    "id": "478"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itatim",
+    "id": "479"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itiruçu",
+    "id": "480"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itiúba",
+    "id": "481"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Itororó",
+    "id": "482"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ituaçu",
+    "id": "483"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ituberá",
+    "id": "484"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Iuiú",
+    "id": "485"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Jaborandi",
+    "id": "486"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Jacaraci",
+    "id": "487"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Jacobina",
+    "id": "488"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Jaguaquara",
+    "id": "489"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Jaguarari",
+    "id": "490"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Jaguaripe",
+    "id": "491"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Jandaíra",
+    "id": "492"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Jequié",
+    "id": "493"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Jeremoabo",
+    "id": "494"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Jiquiriçá",
+    "id": "495"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Jitaúna",
+    "id": "496"
+  },
+  {
+    "uf": "BA",
+    "cidade": "João Dourado",
+    "id": "497"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Juazeiro",
+    "id": "498"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Jucuruçu",
+    "id": "499"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Jussara",
+    "id": "500"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Jussari",
+    "id": "501"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Jussiape",
+    "id": "502"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Lafaiete Coutinho",
+    "id": "503"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Lagoa Real",
+    "id": "504"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Laje",
+    "id": "505"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Lajedão",
+    "id": "506"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Lajedinho",
+    "id": "507"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Lajedo do Tabocal",
+    "id": "508"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Lamarão",
+    "id": "509"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Lapão",
+    "id": "510"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Lauro de Freitas",
+    "id": "511"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Lençóis",
+    "id": "512"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Licínio de Almeida",
+    "id": "513"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Livramento de Nossa Senhora",
+    "id": "514"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Luís Eduardo Magalhães",
+    "id": "515"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Macajuba",
+    "id": "516"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Macarani",
+    "id": "517"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Macaúbas",
+    "id": "518"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Macururé",
+    "id": "519"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Madre de Deus",
+    "id": "520"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Maetinga",
+    "id": "521"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Maiquinique",
+    "id": "522"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Mairi",
+    "id": "523"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Malhada",
+    "id": "524"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Malhada de Pedras",
+    "id": "525"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Manoel Vitorino",
+    "id": "526"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Mansidão",
+    "id": "527"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Maracás",
+    "id": "528"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Maragogipe",
+    "id": "529"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Maraú",
+    "id": "530"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Marcionílio Souza",
+    "id": "531"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Mascote",
+    "id": "532"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Mata de São João",
+    "id": "533"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Matina",
+    "id": "534"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Medeiros Neto",
+    "id": "535"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Miguel Calmon",
+    "id": "536"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Milagres",
+    "id": "537"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Mirangaba",
+    "id": "538"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Mirante",
+    "id": "539"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Monte Santo",
+    "id": "540"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Morpará",
+    "id": "541"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Morro do Chapéu",
+    "id": "542"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Mortugaba",
+    "id": "543"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Mucugê",
+    "id": "544"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Mucuri",
+    "id": "545"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Mulungu do Morro",
+    "id": "546"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Mundo Novo",
+    "id": "547"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Muniz Ferreira",
+    "id": "548"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Muquém de São Francisco",
+    "id": "549"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Muritiba",
+    "id": "550"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Mutuípe",
+    "id": "551"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Nazaré",
+    "id": "552"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Nilo Peçanha",
+    "id": "553"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Nordestina",
+    "id": "554"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Nova Canaã",
+    "id": "555"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Nova Fátima",
+    "id": "556"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Nova Ibiá",
+    "id": "557"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Nova Itarana",
+    "id": "558"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Nova Redenção",
+    "id": "559"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Nova Soure",
+    "id": "560"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Nova Viçosa",
+    "id": "561"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Novo Horizonte",
+    "id": "562"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Novo Triunfo",
+    "id": "563"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Olindina",
+    "id": "564"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Oliveira dos Brejinhos",
+    "id": "565"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ouriçangas",
+    "id": "566"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ourolândia",
+    "id": "567"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Palmas de Monte Alto",
+    "id": "568"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Palmeiras",
+    "id": "569"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Paramirim",
+    "id": "570"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Paratinga",
+    "id": "571"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Paripiranga",
+    "id": "572"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Pau Brasil",
+    "id": "573"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Paulo Afonso",
+    "id": "574"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Pé de Serra",
+    "id": "575"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Pedrão",
+    "id": "576"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Pedro Alexandre",
+    "id": "577"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Piatã",
+    "id": "578"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Pilão Arcado",
+    "id": "579"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Pindaí",
+    "id": "580"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Pindobaçu",
+    "id": "581"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Pintadas",
+    "id": "582"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Piraí do Norte",
+    "id": "583"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Piripá",
+    "id": "584"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Piritiba",
+    "id": "585"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Planaltino",
+    "id": "586"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Planalto",
+    "id": "587"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Poções",
+    "id": "588"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Pojuca",
+    "id": "589"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ponto Novo",
+    "id": "590"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Porto Seguro",
+    "id": "591"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Potiraguá",
+    "id": "592"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Prado",
+    "id": "593"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Presidente Dutra",
+    "id": "594"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Presidente Jânio Quadros",
+    "id": "595"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Presidente Tancredo Neves",
+    "id": "596"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Queimadas",
+    "id": "597"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Quijingue",
+    "id": "598"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Quixabeira",
+    "id": "599"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Rafael Jambeiro",
+    "id": "600"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Remanso",
+    "id": "601"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Retirolândia",
+    "id": "602"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Riachão das Neves",
+    "id": "603"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Riachão do Jacuípe",
+    "id": "604"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Riacho de Santana",
+    "id": "605"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ribeira do Amparo",
+    "id": "606"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ribeira do Pombal",
+    "id": "607"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ribeirão do Largo",
+    "id": "608"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Rio de Contas",
+    "id": "609"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Rio do Antônio",
+    "id": "610"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Rio do Pires",
+    "id": "611"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Rio Real",
+    "id": "612"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Rodelas",
+    "id": "613"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ruy Barbosa",
+    "id": "614"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Salinas da Margarida",
+    "id": "615"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Salvador",
+    "id": "616"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Santa Bárbara",
+    "id": "617"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Santa Brígida",
+    "id": "618"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Santa Cruz Cabrália",
+    "id": "619"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Santa Cruz da Vitória",
+    "id": "620"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Santa Inês",
+    "id": "621"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Santa Luzia",
+    "id": "622"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Santa Maria da Vitória",
+    "id": "623"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Santa Rita de Cássia",
+    "id": "624"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Santa Teresinha",
+    "id": "625"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Santaluz",
+    "id": "626"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Santana",
+    "id": "627"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Santanópolis",
+    "id": "628"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Santo Amaro",
+    "id": "629"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Santo Antônio de Jesus",
+    "id": "630"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Santo Estêvão",
+    "id": "631"
+  },
+  {
+    "uf": "BA",
+    "cidade": "São Desidério",
+    "id": "632"
+  },
+  {
+    "uf": "BA",
+    "cidade": "São Domingos",
+    "id": "633"
+  },
+  {
+    "uf": "BA",
+    "cidade": "São Felipe",
+    "id": "634"
+  },
+  {
+    "uf": "BA",
+    "cidade": "São Félix",
+    "id": "635"
+  },
+  {
+    "uf": "BA",
+    "cidade": "São Félix do Coribe",
+    "id": "636"
+  },
+  {
+    "uf": "BA",
+    "cidade": "São Francisco do Conde",
+    "id": "637"
+  },
+  {
+    "uf": "BA",
+    "cidade": "São Gabriel",
+    "id": "638"
+  },
+  {
+    "uf": "BA",
+    "cidade": "São Gonçalo dos Campos",
+    "id": "639"
+  },
+  {
+    "uf": "BA",
+    "cidade": "São José da Vitória",
+    "id": "640"
+  },
+  {
+    "uf": "BA",
+    "cidade": "São José do Jacuípe",
+    "id": "641"
+  },
+  {
+    "uf": "BA",
+    "cidade": "São Miguel das Matas",
+    "id": "642"
+  },
+  {
+    "uf": "BA",
+    "cidade": "São Sebastião do Passé",
+    "id": "643"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Sapeaçu",
+    "id": "644"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Sátiro Dias",
+    "id": "645"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Saubara",
+    "id": "646"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Saúde",
+    "id": "647"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Seabra",
+    "id": "648"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Sebastião Laranjeiras",
+    "id": "649"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Senhor do Bonfim",
+    "id": "650"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Sento Sé",
+    "id": "651"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Serra do Ramalho",
+    "id": "652"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Serra Dourada",
+    "id": "653"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Serra Preta",
+    "id": "654"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Serrinha",
+    "id": "655"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Serrolândia",
+    "id": "656"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Simões Filho",
+    "id": "657"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Sítio do Mato",
+    "id": "658"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Sítio do Quinto",
+    "id": "659"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Sobradinho",
+    "id": "660"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Souto Soares",
+    "id": "661"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Tabocas do Brejo Velho",
+    "id": "662"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Tanhaçu",
+    "id": "663"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Tanque Novo",
+    "id": "664"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Tanquinho",
+    "id": "665"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Taperoá",
+    "id": "666"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Tapiramutá",
+    "id": "667"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Teixeira de Freitas",
+    "id": "668"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Teodoro Sampaio",
+    "id": "669"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Teofilândia",
+    "id": "670"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Teolândia",
+    "id": "671"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Terra Nova",
+    "id": "672"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Tremedal",
+    "id": "673"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Tucano",
+    "id": "674"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Uauá",
+    "id": "675"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ubaíra",
+    "id": "676"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ubaitaba",
+    "id": "677"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Ubatã",
+    "id": "678"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Uibaí",
+    "id": "679"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Umburanas",
+    "id": "680"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Una",
+    "id": "681"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Urandi",
+    "id": "682"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Uruçuca",
+    "id": "683"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Utinga",
+    "id": "684"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Valença",
+    "id": "685"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Valente",
+    "id": "686"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Várzea da Roça",
+    "id": "687"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Várzea do Poço",
+    "id": "688"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Várzea Nova",
+    "id": "689"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Varzedo",
+    "id": "690"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Vera Cruz",
+    "id": "691"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Vereda",
+    "id": "692"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Vitória da Conquista",
+    "id": "693"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Wagner",
+    "id": "694"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Wanderley",
+    "id": "695"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Wenceslau Guimarães",
+    "id": "696"
+  },
+  {
+    "uf": "BA",
+    "cidade": "Xique-Xique",
+    "id": "697"
+  }
+]
